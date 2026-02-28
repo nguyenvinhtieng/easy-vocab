@@ -1,0 +1,155 @@
+{
+  "topic": "Thời gian",
+  "vocabs": [
+    {
+      "word": "second",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsek.ənd/",
+      "meaning": "giây",
+      "exampleSentences": [
+        "This is a second.",
+        "I like the second."
+      ]
+    },
+    {
+      "word": "minute",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmɪn.ɪt/",
+      "meaning": "phút",
+      "exampleSentences": [
+        "This is a minute.",
+        "I like the minute."
+      ]
+    },
+    {
+      "word": "hour",
+      "partOfSpeech": "noun",
+      "phonetic": "/aʊr/",
+      "meaning": "giờ",
+      "exampleSentences": [
+        "This is an hour.",
+        "I like the hour."
+      ]
+    },
+    {
+      "word": "day",
+      "partOfSpeech": "noun",
+      "phonetic": "/deɪ/",
+      "meaning": "ngày",
+      "exampleSentences": [
+        "This is a day.",
+        "I like the day."
+      ]
+    },
+    {
+      "word": "week",
+      "partOfSpeech": "noun",
+      "phonetic": "/wiːk/",
+      "meaning": "tuần",
+      "exampleSentences": [
+        "This is a week.",
+        "I like the week."
+      ]
+    },
+    {
+      "word": "month",
+      "partOfSpeech": "noun",
+      "phonetic": "/mʌnθ/",
+      "meaning": "tháng",
+      "exampleSentences": [
+        "This is a month.",
+        "I like the month."
+      ]
+    },
+    {
+      "word": "year",
+      "partOfSpeech": "noun",
+      "phonetic": "/jɪr/",
+      "meaning": "năm",
+      "exampleSentences": [
+        "This is a year.",
+        "I like the year."
+      ]
+    },
+    {
+      "word": "morning",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmɔːr.nɪŋ/",
+      "meaning": "buổi sáng",
+      "exampleSentences": [
+        "This is a morning.",
+        "I like the morning."
+      ]
+    },
+    {
+      "word": "afternoon",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌæf.tɚˈnuːn/",
+      "meaning": "buổi chiều",
+      "exampleSentences": [
+        "This is an afternoon.",
+        "I like the afternoon."
+      ]
+    },
+    {
+      "word": "evening",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈiːv.nɪŋ/",
+      "meaning": "buổi tối",
+      "exampleSentences": [
+        "This is an evening.",
+        "I like the evening."
+      ]
+    },
+    {
+      "word": "night",
+      "partOfSpeech": "noun",
+      "phonetic": "/naɪt/",
+      "meaning": "đêm",
+      "exampleSentences": [
+        "This is a night.",
+        "I like the night."
+      ]
+    },
+    {
+      "word": "spring",
+      "partOfSpeech": "noun",
+      "phonetic": "/sprɪŋ/",
+      "meaning": "mùa xuân",
+      "exampleSentences": [
+        "This is a spring.",
+        "I like the spring."
+      ]
+    },
+    {
+      "word": "summer",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsʌm.ɚ/",
+      "meaning": "mùa hạ",
+      "exampleSentences": [
+        "This is a summer.",
+        "I like the summer."
+      ]
+    },
+    {
+      "word": "autumn",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɔː.t̬əm/",
+      "meaning": "mùa thu",
+      "exampleSentences": [
+        "This is an autumn.",
+        "I like the autumn."
+      ]
+    },
+    {
+      "word": "winter",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɪn.tɚ/",
+      "meaning": "mùa đông",
+      "exampleSentences": [
+        "This is a winter.",
+        "I like the winter."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "topic": "Trang phục",
+  "vocabs": [
+    {
+      "word": "clothes",
+      "partOfSpeech": "noun",
+      "phonetic": "/kloʊðz/",
+      "meaning": "quần áo (nói chung)",
+      "exampleSentences": [
+        "This is a clothes.",
+        "I like the clothes."
+      ]
+    },
+    {
+      "word": "t-shirt",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtiː.ʃɝːt/",
+      "meaning": "áo phông",
+      "exampleSentences": [
+        "This is a t-shirt.",
+        "I like the t-shirt."
+      ]
+    },
+    {
+      "word": "shirt",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃɝːt/",
+      "meaning": "áo sơ mi",
+      "exampleSentences": [
+        "This is a shirt.",
+        "I like the shirt."
+      ]
+    },
+    {
+      "word": "pants",
+      "partOfSpeech": "noun",
+      "phonetic": "/pænts/",
+      "meaning": "quần",
+      "exampleSentences": [
+        "This is a pants.",
+        "I like the pants."
+      ]
+    },
+    {
+      "word": "jeans",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʒiːnz/",
+      "meaning": "quần bò",
+      "exampleSentences": [
+        "This is a jeans.",
+        "I like the jeans."
+      ]
+    },
+    {
+      "word": "hat",
+      "partOfSpeech": "noun",
+      "phonetic": "/hæt/",
+      "meaning": "mũ",
+      "exampleSentences": [
+        "This is a hat.",
+        "I like the hat."
+      ]
+    },
+    {
+      "word": "shoes",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃuːz/",
+      "meaning": "giày",
+      "exampleSentences": [
+        "This is a shoes.",
+        "I like the shoes."
+      ]
+    },
+    {
+      "word": "socks",
+      "partOfSpeech": "noun",
+      "phonetic": "/sɑːks/",
+      "meaning": "tất, vớ",
+      "exampleSentences": [
+        "This is a socks.",
+        "I like the socks."
+      ]
+    },
+    {
+      "word": "dress",
+      "partOfSpeech": "noun",
+      "phonetic": "/dres/",
+      "meaning": "váy",
+      "exampleSentences": [
+        "This is a dress.",
+        "I like the dress."
+      ]
+    },
+    {
+      "word": "jacket",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʒæk.ɪt/",
+      "meaning": "áo khoác",
+      "exampleSentences": [
+        "This is a jacket.",
+        "I like the jacket."
+      ]
+    },
+    {
+      "word": "coat",
+      "partOfSpeech": "noun",
+      "phonetic": "/koʊt/",
+      "meaning": "áo choàng",
+      "exampleSentences": [
+        "This is a coat.",
+        "I like the coat."
+      ]
+    },
+    {
+      "word": "skirt",
+      "partOfSpeech": "noun",
+      "phonetic": "/skɝːt/",
+      "meaning": "chân váy",
+      "exampleSentences": [
+        "This is a skirt.",
+        "I like the skirt."
+      ]
+    },
+    {
+      "word": "glasses",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɡlæs.ɪz/",
+      "meaning": "kính mắt",
+      "exampleSentences": [
+        "This is a glasses.",
+        "I like the glasses."
+      ]
+    },
+    {
+      "word": "watch",
+      "partOfSpeech": "noun",
+      "phonetic": "/wɑːtʃ/",
+      "meaning": "đồng hồ",
+      "exampleSentences": [
+        "This is a watch.",
+        "I like the watch."
+      ]
+    }
+  ]
+}

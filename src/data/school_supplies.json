@@ -1,0 +1,205 @@
+{
+  "topic": "Đồ dùng học tập",
+  "vocabs": [
+    {
+      "word": "pen",
+      "partOfSpeech": "noun",
+      "phonetic": "/pen/",
+      "meaning": "bút mực",
+      "exampleSentences": [
+        "This is a pen.",
+        "I like the pen."
+      ]
+    },
+    {
+      "word": "pencil",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpen.səl/",
+      "meaning": "bút chì",
+      "exampleSentences": [
+        "This is a pencil.",
+        "I like the pencil."
+      ]
+    },
+    {
+      "word": "highlighter",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhaɪ.laɪ.t̬ɚ/",
+      "meaning": "bút nhớ",
+      "exampleSentences": [
+        "This is a highlighter.",
+        "I like the highlighter."
+      ]
+    },
+    {
+      "word": "ruler",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈruː.lɚ/",
+      "meaning": "thước kẻ",
+      "exampleSentences": [
+        "This is a ruler.",
+        "I like the ruler."
+      ]
+    },
+    {
+      "word": "eraser",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪˈreɪ.sɚ/",
+      "meaning": "tẩy, gôm",
+      "exampleSentences": [
+        "This is an eraser.",
+        "I like the eraser."
+      ]
+    },
+    {
+      "word": "pencil case",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpen.səl ˌkeɪs/",
+      "meaning": "hộp bút",
+      "exampleSentences": [
+        "This is a pencil case.",
+        "I like the pencil case."
+      ]
+    },
+    {
+      "word": "book",
+      "partOfSpeech": "noun",
+      "phonetic": "/bʊk/",
+      "meaning": "quyển sách",
+      "exampleSentences": [
+        "This is a book.",
+        "I like the book."
+      ]
+    },
+    {
+      "word": "notebook",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnoʊt.bʊk/",
+      "meaning": "vở",
+      "exampleSentences": [
+        "This is a notebook.",
+        "I like the notebook."
+      ]
+    },
+    {
+      "word": "paper",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpeɪ.pɚ/",
+      "meaning": "giấy",
+      "exampleSentences": [
+        "This is a paper.",
+        "I like the paper."
+      ]
+    },
+    {
+      "word": "scissors",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɪz.ɚz/",
+      "meaning": "kéo",
+      "exampleSentences": [
+        "This is a scissors.",
+        "I like the scissors."
+      ]
+    },
+    {
+      "word": "clock",
+      "partOfSpeech": "noun",
+      "phonetic": "/klɑːk/",
+      "meaning": "đồng hồ",
+      "exampleSentences": [
+        "This is a clock.",
+        "I like the clock."
+      ]
+    },
+    {
+      "word": "clip",
+      "partOfSpeech": "noun",
+      "phonetic": "/klɪp/",
+      "meaning": "kẹp ghim",
+      "exampleSentences": [
+        "This is a clip.",
+        "I like the clip."
+      ]
+    },
+    {
+      "word": "stapler",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsteɪ.plɚ/",
+      "meaning": "cái dập ghim",
+      "exampleSentences": [
+        "This is a stapler.",
+        "I like the stapler."
+      ]
+    },
+    {
+      "word": "pin",
+      "partOfSpeech": "noun",
+      "phonetic": "/pɪn/",
+      "meaning": "đinh ghim",
+      "exampleSentences": [
+        "This is a pin.",
+        "I like the pin."
+      ]
+    },
+    {
+      "word": "glue",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɡluː/",
+      "meaning": "hồ dán",
+      "exampleSentences": [
+        "This is a glue.",
+        "I like the glue."
+      ]
+    },
+    {
+      "word": "sticky tape",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌstɪk.i ˈteɪp/",
+      "meaning": "băng dính",
+      "exampleSentences": [
+        "This is a sticky tape.",
+        "I like the sticky tape."
+      ]
+    },
+    {
+      "word": "calculator",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkæl.kjə.leɪ.t̬ɚ/",
+      "meaning": "máy tính bỏ túi",
+      "exampleSentences": [
+        "This is a calculator.",
+        "I like the calculator."
+      ]
+    },
+    {
+      "word": "desk",
+      "partOfSpeech": "noun",
+      "phonetic": "/desk/",
+      "meaning": "bàn học",
+      "exampleSentences": [
+        "This is a desk.",
+        "I like the desk."
+      ]
+    },
+    {
+      "word": "chair",
+      "partOfSpeech": "noun",
+      "phonetic": "/tʃer/",
+      "meaning": "ghế",
+      "exampleSentences": [
+        "This is a chair.",
+        "I like the chair."
+      ]
+    },
+    {
+      "word": "blackboard",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈblæk.bɔːrd/",
+      "meaning": "bảng đen",
+      "exampleSentences": [
+        "This is a blackboard.",
+        "I like the blackboard."
+      ]
+    }
+  ]
+}

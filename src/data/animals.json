@@ -1,405 +1,405 @@
 {
-    "topic": "Động vật",
-    "vocabs": [
-        {
-            "word": "mouse",
-            "partOfSpeech": "noun",
-            "phonetic": "/maʊs/",
-            "meaning": "con chuột",
-            "exampleSentences": [
-                "A mouse ran across the floor.",
-                "The cat is chasing a mouse."
-            ]
-        },
-        {
-            "word": "cat",
-            "partOfSpeech": "noun",
-            "phonetic": "/kæt/",
-            "meaning": "con mèo",
-            "exampleSentences": [
-                "My cat likes to sleep all day.",
-                "The cat is very playful."
-            ]
-        },
-        {
-            "word": "dog",
-            "partOfSpeech": "noun",
-            "phonetic": "/dɑːɡ/",
-            "meaning": "con chó",
-            "exampleSentences": [
-                "My dog is very friendly.",
-                "The dog barked loudly."
-            ]
-        },
-        {
-            "word": "kitten",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈkɪt̬.ən/",
-            "meaning": "mèo con",
-            "exampleSentences": [
-                "The kitten is very cute.",
-                "She adopted a small kitten."
-            ]
-        },
-        {
-            "word": "puppy",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈpʌp.i/",
-            "meaning": "chó con",
-            "exampleSentences": [
-                "The puppy is playing in the yard.",
-                "We bought a new puppy."
-            ]
-        },
-        {
-            "word": "pig",
-            "partOfSpeech": "noun",
-            "phonetic": "/pɪɡ/",
-            "meaning": "con lợn, heo",
-            "exampleSentences": [
-                "The pig lives on a farm.",
-                "The pig is eating quickly."
-            ]
-        },
-        {
-            "word": "chicken",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈtʃɪk.ɪn/",
-            "meaning": "con gà",
-            "exampleSentences": [
-                "The chicken laid an egg.",
-                "There are many chickens on the farm."
-            ]
-        },
-        {
-            "word": "duck",
-            "partOfSpeech": "noun",
-            "phonetic": "/dʌk/",
-            "meaning": "con vịt",
-            "exampleSentences": [
-                "The duck is swimming in the pond.",
-                "We fed the ducks at the park."
-            ]
-        },
-        {
-            "word": "goose",
-            "partOfSpeech": "noun",
-            "phonetic": "/ɡuːs/",
-            "meaning": "con ngỗng",
-            "exampleSentences": [
-                "The goose is very noisy.",
-                "A goose chased the children."
-            ]
-        },
-        {
-            "word": "turkey",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈtɝː.ki/",
-            "meaning": "con gà tây",
-            "exampleSentences": [
-                "We ate turkey for dinner.",
-                "The turkey has colorful feathers."
-            ]
-        },
-        {
-            "word": "stork",
-            "partOfSpeech": "noun",
-            "phonetic": "/stɔːrk/",
-            "meaning": "con cò",
-            "exampleSentences": [
-                "A stork stood near the river.",
-                "The stork has long legs."
-            ]
-        },
-        {
-            "word": "swan",
-            "partOfSpeech": "noun",
-            "phonetic": "/swɑːn/",
-            "meaning": "thiên nga",
-            "exampleSentences": [
-                "The swan is swimming gracefully.",
-                "We saw a white swan on the lake."
-            ]
-        },
-        {
-            "word": "rabbit",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈræb.ɪt/",
-            "meaning": "con thỏ",
-            "exampleSentences": [
-                "The rabbit is eating carrots.",
-                "A rabbit ran into the garden."
-            ]
-        },
-        {
-            "word": "cow",
-            "partOfSpeech": "noun",
-            "phonetic": "/kaʊ/",
-            "meaning": "con bò",
-            "exampleSentences": [
-                "The cow gives us milk.",
-                "There are many cows in the field."
-            ]
-        },
-        {
-            "word": "buffalo",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈbʌfələʊ/",
-            "meaning": "con trâu",
-            "exampleSentences": [
-                "The buffalo is very strong.",
-                "Farmers use buffaloes to work in the field."
-            ]
-        },
-        {
-            "word": "horse",
-            "partOfSpeech": "noun",
-            "phonetic": "/hɔːrs/",
-            "meaning": "con ngựa",
-            "exampleSentences": [
-                "She rides a horse every weekend.",
-                "The horse runs very fast."
-            ]
-        },
-        {
-            "word": "goat",
-            "partOfSpeech": "noun",
-            "phonetic": "/ɡoʊt/",
-            "meaning": "con dê",
-            "exampleSentences": [
-                "The goat is climbing the hill.",
-                "Goats eat grass and leaves."
-            ]
-        },
-        {
-            "word": "sheep",
-            "partOfSpeech": "noun",
-            "phonetic": "/ʃiːp/",
-            "meaning": "con cừu",
-            "exampleSentences": [
-                "The sheep are in the field.",
-                "Sheep provide wool."
-            ]
-        },
-        {
-            "word": "fish",
-            "partOfSpeech": "noun",
-            "phonetic": "/fɪʃ/",
-            "meaning": "con cá",
-            "exampleSentences": [
-                "There are many fish in the sea.",
-                "He caught a big fish."
-            ]
-        },
-        {
-            "word": "goldfish",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈɡoʊld.fɪʃ/",
-            "meaning": "cá vàng",
-            "exampleSentences": [
-                "The goldfish swims in a bowl.",
-                "I have two goldfish at home."
-            ]
-        },
-        {
-            "word": "crab",
-            "partOfSpeech": "noun",
-            "phonetic": "/kræb/",
-            "meaning": "con cua",
-            "exampleSentences": [
-                "The crab walks sideways.",
-                "We ate fresh crab at the beach."
-            ]
-        },
-        {
-            "word": "shrimp",
-            "partOfSpeech": "noun",
-            "phonetic": "/ʃrɪmp/",
-            "meaning": "con tôm",
-            "exampleSentences": [
-                "Shrimp is my favorite seafood.",
-                "We cooked shrimp for dinner."
-            ]
-        },
-        {
-            "word": "squid",
-            "partOfSpeech": "noun",
-            "phonetic": "/skwɪd/",
-            "meaning": "con mực",
-            "exampleSentences": [
-                "The squid swims quickly.",
-                "Grilled squid tastes delicious."
-            ]
-        },
-        {
-            "word": "octopus",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈɑːktəpʊs/",
-            "meaning": "con bạch tuộc",
-            "exampleSentences": [
-                "The octopus has eight arms.",
-                "We saw an octopus at the aquarium."
-            ]
-        },
-        {
-            "word": "shark",
-            "partOfSpeech": "noun",
-            "phonetic": "/ʃɑːrk/",
-            "meaning": "cá mập",
-            "exampleSentences": [
-                "The shark is a dangerous animal.",
-                "We saw a shark in the ocean."
-            ]
-        },
-        {
-            "word": "dolphin",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈdɑːlfɪn/",
-            "meaning": "cá heo",
-            "exampleSentences": [
-                "The dolphin is very intelligent.",
-                "Dolphins can swim very fast."
-            ]
-        },
-        {
-            "word": "turtle",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈtɝː.t̬əl/",
-            "meaning": "con rùa",
-            "exampleSentences": [
-                "The turtle moves slowly.",
-                "A turtle has a hard shell."
-            ]
-        },
-        {
-            "word": "monkey",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈmʌŋ.ki/",
-            "meaning": "con khỉ",
-            "exampleSentences": [
-                "The monkey is climbing the tree.",
-                "Monkeys like bananas."
-            ]
-        },
-        {
-            "word": "tiger",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈtaɪɡər/",
-            "meaning": "con hổ",
-            "exampleSentences": [
-                "The tiger is a wild animal.",
-                "A tiger has black stripes."
-            ]
-        },
-        {
-            "word": "lion",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈlaɪ.ən/",
-            "meaning": "con sư tử",
-            "exampleSentences": [
-                "The lion is called the king of the jungle.",
-                "We saw a lion at the zoo."
-            ]
-        },
-        {
-            "word": "elephant",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈel.ə.fənt/",
-            "meaning": "con voi",
-            "exampleSentences": [
-                "The elephant is very big.",
-                "Elephants have long trunks."
-            ]
-        },
-        {
-            "word": "giraffe",
-            "partOfSpeech": "noun",
-            "phonetic": "/dʒɪˈræf/",
-            "meaning": "hươu cao cổ",
-            "exampleSentences": [
-                "The giraffe has a long neck.",
-                "We saw a giraffe at the zoo."
-            ]
-        },
-        {
-            "word": "bear",
-            "partOfSpeech": "noun",
-            "phonetic": "/ber/",
-            "meaning": "con gấu",
-            "exampleSentences": [
-                "The bear lives in the forest.",
-                "A bear can be very strong."
-            ]
-        },
-        {
-            "word": "panda",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈpæn.də/",
-            "meaning": "con gấu trúc",
-            "exampleSentences": [
-                "The panda eats bamboo.",
-                "Pandas are very cute animals."
-            ]
-        },
-        {
-            "word": "eagle",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈiː.ɡəl/",
-            "meaning": "đại bàng",
-            "exampleSentences": [
-                "The eagle is flying high.",
-                "An eagle has sharp eyes."
-            ]
-        },
-        {
-            "word": "owl",
-            "partOfSpeech": "noun",
-            "phonetic": "/aʊl/",
-            "meaning": "con cú",
-            "exampleSentences": [
-                "The owl hunts at night.",
-                "An owl can turn its head around."
-            ]
-        },
-        {
-            "word": "parrot",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈper.ət/",
-            "meaning": "con vẹt",
-            "exampleSentences": [
-                "The parrot can speak some words.",
-                "A parrot has colorful feathers."
-            ]
-        },
-        {
-            "word": "penguin",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈpeŋ.ɡwɪn/",
-            "meaning": "chim cánh cụt",
-            "exampleSentences": [
-                "The penguin cannot fly.",
-                "Penguins live in cold places."
-            ]
-        },
-        {
-            "word": "bee",
-            "partOfSpeech": "noun",
-            "phonetic": "/biː/",
-            "meaning": "ong",
-            "exampleSentences": [
-                "The bee makes honey.",
-                "A bee stung my hand."
-            ]
-        },
-        {
-            "word": "butterfly",
-            "partOfSpeech": "noun",
-            "phonetic": "/ˈbʌtərflaɪ/",
-            "meaning": "bướm",
-            "exampleSentences": [
-                "The butterfly is very beautiful.",
-                "A butterfly landed on the flower."
-            ]
-        }
-    ]
+  "topic": "Động vật",
+  "vocabs": [
+    {
+      "word": "mouse",
+      "partOfSpeech": "noun",
+      "phonetic": "/maʊs/",
+      "meaning": "con chuột",
+      "exampleSentences": [
+        "A mouse ran across the floor.",
+        "The cat is chasing a mouse."
+      ]
+    },
+    {
+      "word": "cat",
+      "partOfSpeech": "noun",
+      "phonetic": "/kæt/",
+      "meaning": "con mèo",
+      "exampleSentences": [
+        "My cat likes to sleep all day.",
+        "The cat is very playful."
+      ]
+    },
+    {
+      "word": "dog",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɔːɡ/",
+      "meaning": "con chó",
+      "exampleSentences": [
+        "My dog is very friendly.",
+        "The dog barked loudly."
+      ]
+    },
+    {
+      "word": "kitten",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɪt̬.ən/",
+      "meaning": "mèo con",
+      "exampleSentences": [
+        "The kitten is very cute.",
+        "She adopted a small kitten."
+      ]
+    },
+    {
+      "word": "puppy",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpʌp.i/",
+      "meaning": "chó con",
+      "exampleSentences": [
+        "The puppy is playing in the yard.",
+        "We bought a new puppy."
+      ]
+    },
+    {
+      "word": "pig",
+      "partOfSpeech": "noun",
+      "phonetic": "/pɪɡ/",
+      "meaning": "con lợn, heo",
+      "exampleSentences": [
+        "The pig lives on a farm.",
+        "The pig is eating quickly."
+      ]
+    },
+    {
+      "word": "chicken",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʃɪk.ɪn/",
+      "meaning": "con gà",
+      "exampleSentences": [
+        "The chicken laid an egg.",
+        "There are many chickens on the farm."
+      ]
+    },
+    {
+      "word": "duck",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʌk/",
+      "meaning": "con vịt",
+      "exampleSentences": [
+        "The duck is swimming in the pond.",
+        "We fed the ducks at the park."
+      ]
+    },
+    {
+      "word": "goose",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɡuːs/",
+      "meaning": "con ngỗng",
+      "exampleSentences": [
+        "The goose is very noisy.",
+        "A goose chased the children."
+      ]
+    },
+    {
+      "word": "turkey",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtɝː.ki/",
+      "meaning": "con gà tây",
+      "exampleSentences": [
+        "We ate turkey for dinner.",
+        "The turkey has colorful feathers."
+      ]
+    },
+    {
+      "word": "stork",
+      "partOfSpeech": "noun",
+      "phonetic": "/stɔːrk/",
+      "meaning": "con cò",
+      "exampleSentences": [
+        "A stork stood near the river.",
+        "The stork has long legs."
+      ]
+    },
+    {
+      "word": "swan",
+      "partOfSpeech": "noun",
+      "phonetic": "/swɑːn/",
+      "meaning": "thiên nga",
+      "exampleSentences": [
+        "The swan is swimming gracefully.",
+        "We saw a white swan on the lake."
+      ]
+    },
+    {
+      "word": "rabbit",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈræb.ɪt/",
+      "meaning": "con thỏ",
+      "exampleSentences": [
+        "The rabbit is eating carrots.",
+        "A rabbit ran into the garden."
+      ]
+    },
+    {
+      "word": "cow",
+      "partOfSpeech": "noun",
+      "phonetic": "/kaʊ/",
+      "meaning": "con bò",
+      "exampleSentences": [
+        "The cow gives us milk.",
+        "There are many cows in the field."
+      ]
+    },
+    {
+      "word": "buffalo",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbʌf.ə.loʊ/",
+      "meaning": "con trâu",
+      "exampleSentences": [
+        "The buffalo is very strong.",
+        "Farmers use buffaloes to work in the field."
+      ]
+    },
+    {
+      "word": "horse",
+      "partOfSpeech": "noun",
+      "phonetic": "/hɔːrs/",
+      "meaning": "con ngựa",
+      "exampleSentences": [
+        "She rides a horse every weekend.",
+        "The horse runs very fast."
+      ]
+    },
+    {
+      "word": "goat",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɡoʊt/",
+      "meaning": "con dê",
+      "exampleSentences": [
+        "The goat is climbing the hill.",
+        "Goats eat grass and leaves."
+      ]
+    },
+    {
+      "word": "sheep",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃiːp/",
+      "meaning": "con cừu",
+      "exampleSentences": [
+        "The sheep are in the field.",
+        "Sheep provide wool."
+      ]
+    },
+    {
+      "word": "fish",
+      "partOfSpeech": "noun",
+      "phonetic": "/fɪʃ/",
+      "meaning": "con cá",
+      "exampleSentences": [
+        "There are many fish in the sea.",
+        "He caught a big fish."
+      ]
+    },
+    {
+      "word": "goldfish",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɡoʊld.fɪʃ/",
+      "meaning": "cá vàng",
+      "exampleSentences": [
+        "The goldfish swims in a bowl.",
+        "I have two goldfish at home."
+      ]
+    },
+    {
+      "word": "crab",
+      "partOfSpeech": "noun",
+      "phonetic": "/kræb/",
+      "meaning": "con cua",
+      "exampleSentences": [
+        "The crab walks sideways.",
+        "We ate fresh crab at the beach."
+      ]
+    },
+    {
+      "word": "shrimp",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃrɪmp/",
+      "meaning": "con tôm",
+      "exampleSentences": [
+        "Shrimp is my favorite seafood.",
+        "We cooked shrimp for dinner."
+      ]
+    },
+    {
+      "word": "squid",
+      "partOfSpeech": "noun",
+      "phonetic": "/skwɪd/",
+      "meaning": "con mực",
+      "exampleSentences": [
+        "The squid swims quickly.",
+        "Grilled squid tastes delicious."
+      ]
+    },
+    {
+      "word": "octopus",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɑːk.tə.pʊs/",
+      "meaning": "con bạch tuộc",
+      "exampleSentences": [
+        "The octopus has eight arms.",
+        "We saw an octopus at the aquarium."
+      ]
+    },
+    {
+      "word": "shark",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃɑːrk/",
+      "meaning": "cá mập",
+      "exampleSentences": [
+        "The shark is a dangerous animal.",
+        "We saw a shark in the ocean."
+      ]
+    },
+    {
+      "word": "dolphin",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdɑːl.fɪn/",
+      "meaning": "cá heo",
+      "exampleSentences": [
+        "The dolphin is very intelligent.",
+        "Dolphins can swim very fast."
+      ]
+    },
+    {
+      "word": "turtle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtɝː.t̬əl/",
+      "meaning": "con rùa",
+      "exampleSentences": [
+        "The turtle moves slowly.",
+        "A turtle has a hard shell."
+      ]
+    },
+    {
+      "word": "monkey",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmʌŋ.ki/",
+      "meaning": "con khỉ",
+      "exampleSentences": [
+        "The monkey is climbing the tree.",
+        "Monkeys like bananas."
+      ]
+    },
+    {
+      "word": "tiger",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtaɪ.ɡɚ/",
+      "meaning": "con hổ",
+      "exampleSentences": [
+        "The tiger is a wild animal.",
+        "A tiger has black stripes."
+      ]
+    },
+    {
+      "word": "lion",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlaɪ.ən/",
+      "meaning": "con sư tử",
+      "exampleSentences": [
+        "The lion is called the king of the jungle.",
+        "We saw a lion at the zoo."
+      ]
+    },
+    {
+      "word": "elephant",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈel.ə.fənt/",
+      "meaning": "con voi",
+      "exampleSentences": [
+        "The elephant is very big.",
+        "Elephants have long trunks."
+      ]
+    },
+    {
+      "word": "giraffe",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʒəˈræf/",
+      "meaning": "hươu cao cổ",
+      "exampleSentences": [
+        "The giraffe has a long neck.",
+        "We saw a giraffe at the zoo."
+      ]
+    },
+    {
+      "word": "bear",
+      "partOfSpeech": "noun",
+      "phonetic": "/ber/",
+      "meaning": "con gấu",
+      "exampleSentences": [
+        "The bear lives in the forest.",
+        "A bear can be very strong."
+      ]
+    },
+    {
+      "word": "panda",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpæn.də/",
+      "meaning": "con gấu trúc",
+      "exampleSentences": [
+        "The panda eats bamboo.",
+        "Pandas are very cute animals."
+      ]
+    },
+    {
+      "word": "eagle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈiː.ɡəl/",
+      "meaning": "đại bàng",
+      "exampleSentences": [
+        "The eagle is flying high.",
+        "An eagle has sharp eyes."
+      ]
+    },
+    {
+      "word": "owl",
+      "partOfSpeech": "noun",
+      "phonetic": "/aʊl/",
+      "meaning": "con cú",
+      "exampleSentences": [
+        "The owl hunts at night.",
+        "An owl can turn its head around."
+      ]
+    },
+    {
+      "word": "parrot",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈper.ət/",
+      "meaning": "con vẹt",
+      "exampleSentences": [
+        "The parrot can speak some words.",
+        "A parrot has colorful feathers."
+      ]
+    },
+    {
+      "word": "penguin",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpeŋ.ɡwɪn/",
+      "meaning": "chim cánh cụt",
+      "exampleSentences": [
+        "The penguin cannot fly.",
+        "Penguins live in cold places."
+      ]
+    },
+    {
+      "word": "bee",
+      "partOfSpeech": "noun",
+      "phonetic": "/biː/",
+      "meaning": "ong",
+      "exampleSentences": [
+        "The bee makes honey.",
+        "A bee stung my hand."
+      ]
+    },
+    {
+      "word": "butterfly",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbʌt̬.ɚ.flaɪ/",
+      "meaning": "bướm",
+      "exampleSentences": [
+        "The butterfly is very beautiful.",
+        "A butterfly landed on the flower."
+      ]
+    }
+  ]
 }

@@ -61,6 +61,10 @@ export const useKnownStore = defineStore('known', {
       this.items = [...this.items, item]
       saveToStorage(this.items)
     },
+    clear() {
+      this.items = []
+      saveToStorage(this.items)
+    },
     replaceAll(items: KnownItem[]) {
       const valid = Array.isArray(items)
         ? items.filter(

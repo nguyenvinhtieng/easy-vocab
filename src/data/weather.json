@@ -1,0 +1,125 @@
+{
+  "topic": "Thời tiết",
+  "vocabs": [
+    {
+      "word": "weather",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈweð.ɚ/",
+      "meaning": "thời tiết",
+      "exampleSentences": [
+        "This is a weather.",
+        "I like the weather."
+      ]
+    },
+    {
+      "word": "sunny",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsʌn.i/",
+      "meaning": "nắng",
+      "exampleSentences": [
+        "It is sunny.",
+        "The day is sunny."
+      ]
+    },
+    {
+      "word": "rainy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈreɪ.ni/",
+      "meaning": "có mưa",
+      "exampleSentences": [
+        "It is rainy.",
+        "The day is rainy."
+      ]
+    },
+    {
+      "word": "cloudy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈklaʊ.di/",
+      "meaning": "nhiều mây",
+      "exampleSentences": [
+        "It is cloudy.",
+        "The day is cloudy."
+      ]
+    },
+    {
+      "word": "windy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈwɪn.di/",
+      "meaning": "nhiều gió",
+      "exampleSentences": [
+        "It is windy.",
+        "The day is windy."
+      ]
+    },
+    {
+      "word": "snow",
+      "partOfSpeech": "noun",
+      "phonetic": "/snoʊ/",
+      "meaning": "tuyết",
+      "exampleSentences": [
+        "This is a snow.",
+        "I like the snow."
+      ]
+    },
+    {
+      "word": "rain",
+      "partOfSpeech": "noun",
+      "phonetic": "/reɪn/",
+      "meaning": "mưa",
+      "exampleSentences": [
+        "This is a rain.",
+        "I like the rain."
+      ]
+    },
+    {
+      "word": "hot",
+      "partOfSpeech": "adjective",
+      "phonetic": "/hɑːt/",
+      "meaning": "nóng",
+      "exampleSentences": [
+        "It is hot.",
+        "The day is hot."
+      ]
+    },
+    {
+      "word": "cold",
+      "partOfSpeech": "adjective",
+      "phonetic": "/koʊld/",
+      "meaning": "lạnh",
+      "exampleSentences": [
+        "It is cold.",
+        "The day is cold."
+      ]
+    },
+    {
+      "word": "warm",
+      "partOfSpeech": "adjective",
+      "phonetic": "/wɔːrm/",
+      "meaning": "ấm",
+      "exampleSentences": [
+        "It is warm.",
+        "The day is warm."
+      ]
+    },
+    {
+      "word": "temperature",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtem.pər.ə.tʃɚ/",
+      "meaning": "nhiệt độ",
+      "exampleSentences": [
+        "This is a temperature.",
+        "I like the temperature."
+      ]
+    },
+    {
+      "word": "storm",
+      "partOfSpeech": "noun",
+      "phonetic": "/stɔːrm/",
+      "meaning": "bão",
+      "exampleSentences": [
+        "This is a storm.",
+        "I like the storm."
+      ]
+    }
+  ]
+}

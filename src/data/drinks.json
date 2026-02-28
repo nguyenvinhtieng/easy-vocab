@@ -1,0 +1,135 @@
+{
+  "topic": "Đồ uống",
+  "vocabs": [
+    {
+      "word": "water",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɔː.t̬ɚ/",
+      "meaning": "nước",
+      "exampleSentences": [
+        "This is a water.",
+        "I like the water."
+      ]
+    },
+    {
+      "word": "lemonade",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌlem.əˈneɪd/",
+      "meaning": "nước chanh",
+      "exampleSentences": [
+        "This is a lemonade.",
+        "I like the lemonade."
+      ]
+    },
+    {
+      "word": "juice",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʒuːs/",
+      "meaning": "nước ép hoa quả",
+      "exampleSentences": [
+        "This is a juice.",
+        "I like the juice."
+      ]
+    },
+    {
+      "word": "smoothie",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsmuː.ði/",
+      "meaning": "sinh tố",
+      "exampleSentences": [
+        "This is a smoothie.",
+        "I like the smoothie."
+      ]
+    },
+    {
+      "word": "coffee",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɔː.fi/",
+      "meaning": "cà phê",
+      "exampleSentences": [
+        "This is a coffee.",
+        "I like the coffee."
+      ]
+    },
+    {
+      "word": "tea",
+      "partOfSpeech": "noun",
+      "phonetic": "/tiː/",
+      "meaning": "trà",
+      "exampleSentences": [
+        "This is a tea.",
+        "I like the tea."
+      ]
+    },
+    {
+      "word": "milk",
+      "partOfSpeech": "noun",
+      "phonetic": "/mɪlk/",
+      "meaning": "sữa",
+      "exampleSentences": [
+        "This is a milk.",
+        "I like the milk."
+      ]
+    },
+    {
+      "word": "bubble tea",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbʌb.əl ˌtiː/",
+      "meaning": "trà sữa trân châu",
+      "exampleSentences": [
+        "This is a bubble tea.",
+        "I like the bubble tea."
+      ]
+    },
+    {
+      "word": "hot chocolate",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌhɑːt ˈtʃɑːk.lət/",
+      "meaning": "sô cô la nóng",
+      "exampleSentences": [
+        "This is an hot chocolate.",
+        "I like the hot chocolate."
+      ]
+    },
+    {
+      "word": "beer",
+      "partOfSpeech": "noun",
+      "phonetic": "/bɪr/",
+      "meaning": "bia",
+      "exampleSentences": [
+        "This is a beer.",
+        "I like the beer."
+      ]
+    },
+    {
+      "word": "wine",
+      "partOfSpeech": "noun",
+      "phonetic": "/waɪn/",
+      "meaning": "rượu",
+      "exampleSentences": [
+        "This is a wine.",
+        "I like the wine."
+      ]
+    },
+    {
+      "word": "yogurt",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈjoʊ.ɡɚt/",
+      "meaning": "sữa chua",
+      "exampleSentences": [
+        "This is a yogurt.",
+        "I like the yogurt."
+      ]
+    },
+    {
+      "word": "ice cream",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌaɪs ˈkriːm/",
+      "meaning": "kem",
+      "exampleSentences": [
+        "This is an ice cream.",
+        "I like the ice cream."
+      ]
+    }
+  ]
+}

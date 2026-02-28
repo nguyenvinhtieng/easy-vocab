@@ -1,0 +1,225 @@
+{
+  "topic": "Rau quả",
+  "vocabs": [
+    {
+      "word": "bean",
+      "partOfSpeech": "noun",
+      "phonetic": "/biːn/",
+      "meaning": "hạt đậu",
+      "exampleSentences": [
+        "This is a bean.",
+        "I like the bean."
+      ]
+    },
+    {
+      "word": "pea",
+      "partOfSpeech": "noun",
+      "phonetic": "/piː/",
+      "meaning": "đậu Hà Lan",
+      "exampleSentences": [
+        "This is a pea.",
+        "I like the pea."
+      ]
+    },
+    {
+      "word": "cabbage",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkæb.ɪdʒ/",
+      "meaning": "bắp cải",
+      "exampleSentences": [
+        "This is a cabbage.",
+        "I like the cabbage."
+      ]
+    },
+    {
+      "word": "carrot",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈker.ət/",
+      "meaning": "củ cà rốt",
+      "exampleSentences": [
+        "This is a carrot.",
+        "I like the carrot."
+      ]
+    },
+    {
+      "word": "corn",
+      "partOfSpeech": "noun",
+      "phonetic": "/kɔːrn/",
+      "meaning": "ngô, bắp",
+      "exampleSentences": [
+        "This is a corn.",
+        "I like the corn."
+      ]
+    },
+    {
+      "word": "cucumber",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkjuː.kʌm.bɚ/",
+      "meaning": "dưa chuột",
+      "exampleSentences": [
+        "This is a cucumber.",
+        "I like the cucumber."
+      ]
+    },
+    {
+      "word": "tomato",
+      "partOfSpeech": "noun",
+      "phonetic": "/təˈmeɪ.t̬oʊ/",
+      "meaning": "quả cà chua",
+      "exampleSentences": [
+        "This is a tomato.",
+        "I like the tomato."
+      ]
+    },
+    {
+      "word": "garlic",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɡɑːr.lɪk/",
+      "meaning": "tỏi",
+      "exampleSentences": [
+        "This is a garlic.",
+        "I like the garlic."
+      ]
+    },
+    {
+      "word": "onion",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʌn.jən/",
+      "meaning": "củ hành",
+      "exampleSentences": [
+        "This is an onion.",
+        "I like the onion."
+      ]
+    },
+    {
+      "word": "spring onion",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌsprɪŋ ˈʌn.jən/",
+      "meaning": "hành lá",
+      "exampleSentences": [
+        "This is a spring onion.",
+        "I like the spring onion."
+      ]
+    },
+    {
+      "word": "ginger",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʒɪn.dʒɚ/",
+      "meaning": "củ gừng",
+      "exampleSentences": [
+        "This is a ginger.",
+        "I like the ginger."
+      ]
+    },
+    {
+      "word": "turmeric",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtɝː.mər.ɪk/",
+      "meaning": "củ nghệ",
+      "exampleSentences": [
+        "This is a turmeric.",
+        "I like the turmeric."
+      ]
+    },
+    {
+      "word": "potato",
+      "partOfSpeech": "noun",
+      "phonetic": "/pəˈteɪ.t̬oʊ/",
+      "meaning": "khoai tây",
+      "exampleSentences": [
+        "This is a potato.",
+        "I like the potato."
+      ]
+    },
+    {
+      "word": "sweet potato",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌswiːt pəˈteɪ.t̬oʊ/",
+      "meaning": "khoai lang",
+      "exampleSentences": [
+        "This is a sweet potato.",
+        "I like the sweet potato."
+      ]
+    },
+    {
+      "word": "pumpkin",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpʌmp.kɪn/",
+      "meaning": "bí ngô, bí đỏ",
+      "exampleSentences": [
+        "This is a pumpkin.",
+        "I like the pumpkin."
+      ]
+    },
+    {
+      "word": "asparagus",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈsper.ə.ɡəs/",
+      "meaning": "măng tây",
+      "exampleSentences": [
+        "This is an asparagus.",
+        "I like the asparagus."
+      ]
+    },
+    {
+      "word": "broccoli",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbrɑː.kəl.i/",
+      "meaning": "bông cải xanh",
+      "exampleSentences": [
+        "This is a broccoli.",
+        "I like the broccoli."
+      ]
+    },
+    {
+      "word": "eggplant",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈeɡ.plænt/",
+      "meaning": "cà tím",
+      "exampleSentences": [
+        "This is an eggplant.",
+        "I like the eggplant."
+      ]
+    },
+    {
+      "word": "lettuce",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlet̬.ɪs/",
+      "meaning": "rau diếp",
+      "exampleSentences": [
+        "This is a lettuce.",
+        "I like the lettuce."
+      ]
+    },
+    {
+      "word": "mushroom",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmʌʃ.ruːm/",
+      "meaning": "nấm",
+      "exampleSentences": [
+        "This is a mushroom.",
+        "I like the mushroom."
+      ]
+    },
+    {
+      "word": "spinach",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈspɪn.ɪtʃ/",
+      "meaning": "rau chân vịt (bina)",
+      "exampleSentences": [
+        "This is a spinach.",
+        "I like the spinach."
+      ]
+    },
+    {
+      "word": "herb",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɝːb/",
+      "meaning": "rau thơm (nói chung)",
+      "exampleSentences": [
+        "This is a herb.",
+        "I like the herb."
+      ]
+    }
+  ]
+}

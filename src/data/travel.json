@@ -1,0 +1,105 @@
+{
+  "topic": "Du lịch",
+  "vocabs": [
+    {
+      "word": "travel",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈtræv.əl/",
+      "meaning": "đi du lịch",
+      "exampleSentences": [
+        "I can travel every day.",
+        "She likes to travel."
+      ]
+    },
+    {
+      "word": "airport",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈer.pɔːrt/",
+      "meaning": "sân bay",
+      "exampleSentences": [
+        "This is an airport.",
+        "I like the airport."
+      ]
+    },
+    {
+      "word": "passport",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpæs.pɔːrt/",
+      "meaning": "hộ chiếu",
+      "exampleSentences": [
+        "This is a passport.",
+        "I like the passport."
+      ]
+    },
+    {
+      "word": "ticket",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtɪk.ɪt/",
+      "meaning": "vé",
+      "exampleSentences": [
+        "This is a ticket.",
+        "I like the ticket."
+      ]
+    },
+    {
+      "word": "luggage",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlʌɡ.ɪdʒ/",
+      "meaning": "hành lý",
+      "exampleSentences": [
+        "This is a luggage.",
+        "I like the luggage."
+      ]
+    },
+    {
+      "word": "tourist",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʊr.ɪst/",
+      "meaning": "khách du lịch",
+      "exampleSentences": [
+        "This is a tourist.",
+        "I like the tourist."
+      ]
+    },
+    {
+      "word": "destination",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌdes.təˈneɪ.ʃən/",
+      "meaning": "điểm đến",
+      "exampleSentences": [
+        "This is a destination.",
+        "I like the destination."
+      ]
+    },
+    {
+      "word": "hotel",
+      "partOfSpeech": "noun",
+      "phonetic": "/hoʊˈtel/",
+      "meaning": "khách sạn",
+      "exampleSentences": [
+        "This is an hotel.",
+        "I like the hotel."
+      ]
+    },
+    {
+      "word": "map",
+      "partOfSpeech": "noun",
+      "phonetic": "/mæp/",
+      "meaning": "bản đồ",
+      "exampleSentences": [
+        "This is a map.",
+        "I like the map."
+      ]
+    },
+    {
+      "word": "camera",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkæm.rə/",
+      "meaning": "máy ảnh",
+      "exampleSentences": [
+        "This is a camera.",
+        "I like the camera."
+      ]
+    }
+  ]
+}

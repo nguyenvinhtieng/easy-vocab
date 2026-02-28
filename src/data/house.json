@@ -1,0 +1,125 @@
+{
+  "topic": "Nhà cửa",
+  "vocabs": [
+    {
+      "word": "living room",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlɪv.ɪŋ ˌruːm/",
+      "meaning": "phòng khách",
+      "exampleSentences": [
+        "This is a living room.",
+        "I like the living room."
+      ]
+    },
+    {
+      "word": "kitchen",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɪtʃ.ən/",
+      "meaning": "nhà bếp",
+      "exampleSentences": [
+        "This is a kitchen.",
+        "I like the kitchen."
+      ]
+    },
+    {
+      "word": "bedroom",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbed.ruːm/",
+      "meaning": "phòng ngủ",
+      "exampleSentences": [
+        "This is a bedroom.",
+        "I like the bedroom."
+      ]
+    },
+    {
+      "word": "bathroom",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbæθ.ruːm/",
+      "meaning": "phòng tắm",
+      "exampleSentences": [
+        "This is a bathroom.",
+        "I like the bathroom."
+      ]
+    },
+    {
+      "word": "door",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɔːr/",
+      "meaning": "cửa ra vào",
+      "exampleSentences": [
+        "This is a door.",
+        "I like the door."
+      ]
+    },
+    {
+      "word": "window",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɪn.doʊ/",
+      "meaning": "cửa sổ",
+      "exampleSentences": [
+        "This is a window.",
+        "I like the window."
+      ]
+    },
+    {
+      "word": "table",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈteɪ.bəl/",
+      "meaning": "cái bàn",
+      "exampleSentences": [
+        "This is a table.",
+        "I like the table."
+      ]
+    },
+    {
+      "word": "chair",
+      "partOfSpeech": "noun",
+      "phonetic": "/tʃer/",
+      "meaning": "ghế",
+      "exampleSentences": [
+        "This is a chair.",
+        "I like the chair."
+      ]
+    },
+    {
+      "word": "bed",
+      "partOfSpeech": "noun",
+      "phonetic": "/bed/",
+      "meaning": "giường",
+      "exampleSentences": [
+        "This is a bed.",
+        "I like the bed."
+      ]
+    },
+    {
+      "word": "lamp",
+      "partOfSpeech": "noun",
+      "phonetic": "/læmp/",
+      "meaning": "cái đèn",
+      "exampleSentences": [
+        "This is a lamp.",
+        "I like the lamp."
+      ]
+    },
+    {
+      "word": "refrigerator",
+      "partOfSpeech": "noun",
+      "phonetic": "/rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/",
+      "meaning": "tủ lạnh",
+      "exampleSentences": [
+        "This is a refrigerator.",
+        "I like the refrigerator."
+      ]
+    },
+    {
+      "word": "television",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtel.ə.vɪʒ.ən/",
+      "meaning": "ti vi",
+      "exampleSentences": [
+        "This is a television.",
+        "I like the television."
+      ]
+    }
+  ]
+}

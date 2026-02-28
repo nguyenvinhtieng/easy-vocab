@@ -1,0 +1,175 @@
+{
+  "topic": "Động tác",
+  "vocabs": [
+    {
+      "word": "walk",
+      "partOfSpeech": "verb",
+      "phonetic": "/wɔːk/",
+      "meaning": "đi bộ",
+      "exampleSentences": [
+        "I can walk every day.",
+        "She likes to walk."
+      ]
+    },
+    {
+      "word": "run",
+      "partOfSpeech": "verb",
+      "phonetic": "/rʌn/",
+      "meaning": "chạy",
+      "exampleSentences": [
+        "I can run every day.",
+        "She likes to run."
+      ]
+    },
+    {
+      "word": "jump",
+      "partOfSpeech": "verb",
+      "phonetic": "/dʒʌmp/",
+      "meaning": "nhảy",
+      "exampleSentences": [
+        "I can jump every day.",
+        "She likes to jump."
+      ]
+    },
+    {
+      "word": "stand",
+      "partOfSpeech": "verb",
+      "phonetic": "/stænd/",
+      "meaning": "đứng",
+      "exampleSentences": [
+        "I can stand every day.",
+        "She likes to stand."
+      ]
+    },
+    {
+      "word": "sit",
+      "partOfSpeech": "verb",
+      "phonetic": "/sɪt/",
+      "meaning": "ngồi",
+      "exampleSentences": [
+        "I can sit every day.",
+        "She likes to sit."
+      ]
+    },
+    {
+      "word": "wave",
+      "partOfSpeech": "verb",
+      "phonetic": "/weɪv/",
+      "meaning": "vẫy tay",
+      "exampleSentences": [
+        "I can wave every day.",
+        "She likes to wave."
+      ]
+    },
+    {
+      "word": "catch",
+      "partOfSpeech": "verb",
+      "phonetic": "/kætʃ/",
+      "meaning": "bắt, đỡ",
+      "exampleSentences": [
+        "I can catch every day.",
+        "She likes to catch."
+      ]
+    },
+    {
+      "word": "push",
+      "partOfSpeech": "verb",
+      "phonetic": "/pʊʃ/",
+      "meaning": "đẩy",
+      "exampleSentences": [
+        "I can push every day.",
+        "She likes to push."
+      ]
+    },
+    {
+      "word": "pull",
+      "partOfSpeech": "verb",
+      "phonetic": "/pʊl/",
+      "meaning": "kéo",
+      "exampleSentences": [
+        "I can pull every day.",
+        "She likes to pull."
+      ]
+    },
+    {
+      "word": "talk",
+      "partOfSpeech": "verb",
+      "phonetic": "/tɔːk/",
+      "meaning": "nói chuyện",
+      "exampleSentences": [
+        "I can talk every day.",
+        "She likes to talk."
+      ]
+    },
+    {
+      "word": "smile",
+      "partOfSpeech": "verb",
+      "phonetic": "/smaɪl/",
+      "meaning": "cười",
+      "exampleSentences": [
+        "I can smile every day.",
+        "She likes to smile."
+      ]
+    },
+    {
+      "word": "cry",
+      "partOfSpeech": "verb",
+      "phonetic": "/kraɪ/",
+      "meaning": "khóc",
+      "exampleSentences": [
+        "I can cry every day.",
+        "She likes to cry."
+      ]
+    },
+    {
+      "word": "open",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈoʊ.pən/",
+      "meaning": "mở ra",
+      "exampleSentences": [
+        "I can open every day.",
+        "She likes to open."
+      ]
+    },
+    {
+      "word": "hold",
+      "partOfSpeech": "verb",
+      "phonetic": "/hoʊld/",
+      "meaning": "nắm, giữ",
+      "exampleSentences": [
+        "I can hold every day.",
+        "She likes to hold."
+      ]
+    },
+    {
+      "word": "throw",
+      "partOfSpeech": "verb",
+      "phonetic": "/θroʊ/",
+      "meaning": "ném, quăng",
+      "exampleSentences": [
+        "I can throw every day.",
+        "She likes to throw."
+      ]
+    },
+    {
+      "word": "dance",
+      "partOfSpeech": "verb",
+      "phonetic": "/dæns/",
+      "meaning": "nhảy múa",
+      "exampleSentences": [
+        "I can dance every day.",
+        "She likes to dance."
+      ]
+    },
+    {
+      "word": "look",
+      "partOfSpeech": "verb",
+      "phonetic": "/lʊk/",
+      "meaning": "nhìn, ngắm",
+      "exampleSentences": [
+        "I can look every day.",
+        "She likes to look."
+      ]
+    }
+  ]
+}

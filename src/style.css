@@ -1,1 +1,60 @@
 @import 'tailwindcss';
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Theme: soft learning palette – teal primary, warm accent */
+:root {
+  --font-sans: 'Nunito', ui-sans-serif, system-ui, sans-serif;
+  --font-heading: 'Poppins', 'Nunito', sans-serif;
+  --color-primary: 20 184 166;   /* teal-500 */
+  --color-primary-dark: 45 212 191;
+  --color-secondary: 251 191 36;  /* amber-400 */
+  --color-accent: 167 139 250;    /* violet-400 */
+  --color-surface: 255 255 255;
+  --color-surface-soft: 248 250 252;
+  --color-bg-start: 248 250 252;
+  --color-bg-end: 207 250 254;
+  --color-text: 30 41 59;
+  --color-text-muted: 100 116 139;
+  --shadow-card: 0 4px 6px -1px rgb(0 0 0 / 0.07), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+  --shadow-card-hover: 0 20px 25px -5px rgb(0 0 0 / 0.08), 0 8px 10px -6px rgb(0 0 0 / 0.05);
+  --radius-card: 1.25rem;
+  --radius-btn: 0.75rem;
+}
+
+.dark {
+  --color-primary: 45 212 191;
+  --color-primary-dark: 94 234 212;
+  --color-secondary: 253 224 71;
+  --color-surface: 30 41 59;
+  --color-surface-soft: 51 65 85;
+  --color-bg-start: 15 23 42;
+  --color-bg-end: 21 94 117;
+  --color-text: 248 250 252;
+  --color-text-muted: 203 213 225;
+  --shadow-card: 0 4px 6px -1px rgb(0 0 0 / 0.2);
+  --shadow-card-hover: 0 20px 25px -5px rgb(0 0 0 / 0.25);
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body {
+    @apply bg-[rgb(var(--color-bg-start))] text-[rgb(var(--color-text))];
+    background-image: linear-gradient(to bottom right, rgb(var(--color-bg-start)), rgb(var(--color-bg-end) / 0.4));
+    min-height: 100vh;
+  }
+  h1, h2, h3 {
+    font-family: var(--font-heading);
+  }
+  .font-heading {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Smooth transitions for theme switch */
+html {
+  transition: background-color 0.25s ease, color 0.2s ease;
+}

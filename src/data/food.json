@@ -1,0 +1,205 @@
+{
+  "topic": "Đồ ăn",
+  "vocabs": [
+    {
+      "word": "soup",
+      "partOfSpeech": "noun",
+      "phonetic": "/suːp/",
+      "meaning": "món súp, món canh",
+      "exampleSentences": [
+        "This is a soup.",
+        "I like the soup."
+      ]
+    },
+    {
+      "word": "salad",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsæl.əd/",
+      "meaning": "rau trộn, nộm rau",
+      "exampleSentences": [
+        "This is a salad.",
+        "I like the salad."
+      ]
+    },
+    {
+      "word": "bread",
+      "partOfSpeech": "noun",
+      "phonetic": "/bred/",
+      "meaning": "bánh mì",
+      "exampleSentences": [
+        "This is a bread.",
+        "I like the bread."
+      ]
+    },
+    {
+      "word": "sausage",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɔː.sɪdʒ/",
+      "meaning": "xúc xích",
+      "exampleSentences": [
+        "This is a sausage.",
+        "I like the sausage."
+      ]
+    },
+    {
+      "word": "hot dog",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhɑːt ˌdɔːɡ/",
+      "meaning": "bánh mỳ kẹp xúc xích",
+      "exampleSentences": [
+        "This is a hot dog.",
+        "I like the hot dog."
+      ]
+    },
+    {
+      "word": "bacon",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbeɪ.kən/",
+      "meaning": "thịt xông khói",
+      "exampleSentences": [
+        "This is a bacon.",
+        "I like the bacon."
+      ]
+    },
+    {
+      "word": "ham",
+      "partOfSpeech": "noun",
+      "phonetic": "/hæm/",
+      "meaning": "thịt giăm bông",
+      "exampleSentences": [
+        "This is a ham.",
+        "I like the ham."
+      ]
+    },
+    {
+      "word": "egg",
+      "partOfSpeech": "noun",
+      "phonetic": "/eɡ/",
+      "meaning": "trứng",
+      "exampleSentences": [
+        "This is an egg.",
+        "I like the egg."
+      ]
+    },
+    {
+      "word": "pork",
+      "partOfSpeech": "noun",
+      "phonetic": "/pɔːrk/",
+      "meaning": "thịt lợn",
+      "exampleSentences": [
+        "This is a pork.",
+        "I like the pork."
+      ]
+    },
+    {
+      "word": "beef",
+      "partOfSpeech": "noun",
+      "phonetic": "/biːf/",
+      "meaning": "thịt bò",
+      "exampleSentences": [
+        "This is a beef.",
+        "I like the beef."
+      ]
+    },
+    {
+      "word": "chicken",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʃɪk.ɪn/",
+      "meaning": "thịt gà",
+      "exampleSentences": [
+        "This is a chicken.",
+        "I like the chicken."
+      ]
+    },
+    {
+      "word": "lamb",
+      "partOfSpeech": "noun",
+      "phonetic": "/læm/",
+      "meaning": "thịt cừu",
+      "exampleSentences": [
+        "This is a lamb.",
+        "I like the lamb."
+      ]
+    },
+    {
+      "word": "seafood",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsiː.fuːd/",
+      "meaning": "hải sản",
+      "exampleSentences": [
+        "This is a seafood.",
+        "I like the seafood."
+      ]
+    },
+    {
+      "word": "pizza",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpiːt.sə/",
+      "meaning": "bánh pizza",
+      "exampleSentences": [
+        "This is a pizza.",
+        "I like the pizza."
+      ]
+    },
+    {
+      "word": "hamburger",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhæm.bɝː.ɡɚ/",
+      "meaning": "hăm bơ gơ",
+      "exampleSentences": [
+        "This is a hamburger.",
+        "I like the hamburger."
+      ]
+    },
+    {
+      "word": "sandwich",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsæn.wɪtʃ/",
+      "meaning": "bánh mỳ kẹp",
+      "exampleSentences": [
+        "This is a sandwich.",
+        "I like the sandwich."
+      ]
+    },
+    {
+      "word": "pancake",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpæn.keɪk/",
+      "meaning": "bánh kếp, bánh xèo",
+      "exampleSentences": [
+        "This is a pancake.",
+        "I like the pancake."
+      ]
+    },
+    {
+      "word": "noodle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnuː.dəl/",
+      "meaning": "mỳ, bún",
+      "exampleSentences": [
+        "This is a noodle.",
+        "I like the noodle."
+      ]
+    },
+    {
+      "word": "pasta",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpɑː.stə/",
+      "meaning": "mỳ Ý",
+      "exampleSentences": [
+        "This is a pasta.",
+        "I like the pasta."
+      ]
+    },
+    {
+      "word": "cheese",
+      "partOfSpeech": "noun",
+      "phonetic": "/tʃiːz/",
+      "meaning": "pho mát",
+      "exampleSentences": [
+        "This is a cheese.",
+        "I like the cheese."
+      ]
+    }
+  ]
+}

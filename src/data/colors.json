@@ -1,205 +1,265 @@
 {
-    "topic": "Màu sắc",
-    "vocabs": [
-      {
-        "word": "white",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/waɪt/",
-        "meaning": "màu trắng",
-        "exampleSentences": [
-          "She is wearing a white dress.",
-          "White is my favorite color."
-        ]
-      },
-      {
-        "word": "black",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/blæk/",
-        "meaning": "màu đen",
-        "exampleSentences": [
-          "He bought a black car.",
-          "Black looks elegant."
-        ]
-      },
-      {
-        "word": "red",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/red/",
-        "meaning": "màu đỏ",
-        "exampleSentences": [
-          "She painted her nails red.",
-          "Red is the color of love."
-        ]
-      },
-      {
-        "word": "orange",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ˈɔːr.ɪndʒ/",
-        "meaning": "màu cam",
-        "exampleSentences": [
-          "He is wearing an orange shirt.",
-          "Orange is a bright color."
-        ]
-      },
-      {
-        "word": "yellow",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ˈjel.oʊ/",
-        "meaning": "màu vàng",
-        "exampleSentences": [
-          "The sun looks yellow.",
-          "She likes yellow flowers."
-        ]
-      },
-      {
-        "word": "green",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ɡriːn/",
-        "meaning": "xanh lá cây",
-        "exampleSentences": [
-          "The grass is green.",
-          "Green is a relaxing color."
-        ]
-      },
-      {
-        "word": "blue",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/bluː/",
-        "meaning": "màu xanh lam, xanh nước biển",
-        "exampleSentences": [
-          "The sky is blue.",
-          "He bought a blue jacket."
-        ]
-      },
-      {
-        "word": "violet",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ˈvaɪə.lɪt/",
-        "meaning": "màu tím",
-        "exampleSentences": [
-          "She likes violet dresses.",
-          "Violet is a soft purple shade."
-        ]
-      },
-      {
-        "word": "purple",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ˈpɝː.pəl/",
-        "meaning": "màu tía",
-        "exampleSentences": [
-          "He painted the wall purple.",
-          "Purple is often associated with royalty."
-        ]
-      },
-      {
-        "word": "beige",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/beɪʒ/",
-        "meaning": "màu be",
-        "exampleSentences": [
-          "She bought a beige coat.",
-          "Beige is a neutral color."
-        ]
-      },
-      {
-        "word": "pink",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/piŋk/",
-        "meaning": "màu hồng",
-        "exampleSentences": [
-          "She loves pink dresses.",
-          "The flowers are pink."
-        ]
-      },
-      {
-        "word": "gray",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ɡreɪ/",
-        "meaning": "màu xám",
-        "exampleSentences": [
-          "The sky looks gray today.",
-          "He has gray hair."
-        ]
-      },
-      {
-        "word": "brown",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/braʊn/",
-        "meaning": "màu nâu",
-        "exampleSentences": [
-          "The table is brown.",
-          "She has brown eyes."
-        ]
-      },
-      {
-        "word": "silver",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ˈsɪl.vɚ/",
-        "meaning": "màu bạc",
-        "exampleSentences": [
-          "He wears a silver watch.",
-          "Silver shines brightly."
-        ]
-      },
-      {
-        "word": "indigo",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ˈɪn.dɪ.ɡoʊ/",
-        "meaning": "màu chàm",
-        "exampleSentences": [
-          "Indigo is a deep blue color.",
-          "She dyed her scarf indigo."
-        ]
-      },
-      {
-        "word": "navy blue",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ˈneɪ.vi bluː/",
-        "meaning": "màu xanh tím than",
-        "exampleSentences": [
-          "He bought a navy blue suit.",
-          "Navy blue looks very professional."
-        ]
-      },
-      {
-        "word": "ivory",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ˈaɪ.vɚ.i/",
-        "meaning": "màu trắng ngà",
-        "exampleSentences": [
-          "She chose an ivory wedding dress.",
-          "Ivory is softer than pure white."
-        ]
-      },
-      {
-        "word": "coral",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/ˈkɔːr.əl/",
-        "meaning": "màu hồng san hô",
-        "exampleSentences": [
-          "She painted her nails coral.",
-          "Coral is perfect for summer."
-        ]
-      },
-      {
-        "word": "teal",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/tiːl/",
-        "meaning": "màu xanh mòng két (xanh lam pha xanh lục đậm)",
-        "exampleSentences": [
-          "The wall is painted teal.",
-          "Teal combines blue and green."
-        ]
-      },
-      {
-        "word": "blond",
-        "partOfSpeech": ["noun", "adjective"],
-        "phonetic": "/blɑːnd/",
-        "meaning": "vàng hoe",
-        "exampleSentences": [
-          "She has blond hair.",
-          "He is a natural blond."
-        ]
-      }
-    ]
-  }
+  "topic": "Màu sắc",
+  "vocabs": [
+    {
+      "word": "white",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/waɪt/",
+      "meaning": "màu trắng",
+      "exampleSentences": [
+        "She is wearing a white dress.",
+        "White is my favorite color."
+      ]
+    },
+    {
+      "word": "black",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/blæk/",
+      "meaning": "màu đen",
+      "exampleSentences": [
+        "He bought a black car.",
+        "Black looks elegant."
+      ]
+    },
+    {
+      "word": "red",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/red/",
+      "meaning": "màu đỏ",
+      "exampleSentences": [
+        "She painted her nails red.",
+        "Red is the color of love."
+      ]
+    },
+    {
+      "word": "orange",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ˈɔːr.ɪndʒ/",
+      "meaning": "màu cam",
+      "exampleSentences": [
+        "He is wearing an orange shirt.",
+        "Orange is a bright color."
+      ]
+    },
+    {
+      "word": "yellow",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ˈjel.oʊ/",
+      "meaning": "màu vàng",
+      "exampleSentences": [
+        "The sun looks yellow.",
+        "She likes yellow flowers."
+      ]
+    },
+    {
+      "word": "green",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ɡriːn/",
+      "meaning": "xanh lá cây",
+      "exampleSentences": [
+        "The grass is green.",
+        "Green is a relaxing color."
+      ]
+    },
+    {
+      "word": "blue",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/bluː/",
+      "meaning": "màu xanh lam, xanh nước biển",
+      "exampleSentences": [
+        "The sky is blue.",
+        "He bought a blue jacket."
+      ]
+    },
+    {
+      "word": "violet",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ˈvaɪ.ə.lət/",
+      "meaning": "màu tím",
+      "exampleSentences": [
+        "She likes violet dresses.",
+        "Violet is a soft purple shade."
+      ]
+    },
+    {
+      "word": "purple",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ˈpɝː.pəl/",
+      "meaning": "màu tía",
+      "exampleSentences": [
+        "He painted the wall purple.",
+        "Purple is often associated with royalty."
+      ]
+    },
+    {
+      "word": "beige",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/beɪʒ/",
+      "meaning": "màu be",
+      "exampleSentences": [
+        "She bought a beige coat.",
+        "Beige is a neutral color."
+      ]
+    },
+    {
+      "word": "pink",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/pɪŋk/",
+      "meaning": "màu hồng",
+      "exampleSentences": [
+        "She loves pink dresses.",
+        "The flowers are pink."
+      ]
+    },
+    {
+      "word": "gray",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ɡreɪ/",
+      "meaning": "màu xám",
+      "exampleSentences": [
+        "The sky looks gray today.",
+        "He has gray hair."
+      ]
+    },
+    {
+      "word": "brown",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/braʊn/",
+      "meaning": "màu nâu",
+      "exampleSentences": [
+        "The table is brown.",
+        "She has brown eyes."
+      ]
+    },
+    {
+      "word": "silver",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ˈsɪl.vɚ/",
+      "meaning": "màu bạc",
+      "exampleSentences": [
+        "He wears a silver watch.",
+        "Silver shines brightly."
+      ]
+    },
+    {
+      "word": "indigo",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ˈɪn.dɪ.ɡoʊ/",
+      "meaning": "màu chàm",
+      "exampleSentences": [
+        "Indigo is a deep blue color.",
+        "She dyed her scarf indigo."
+      ]
+    },
+    {
+      "word": "navy blue",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ˌneɪ.vi ˈbluː/",
+      "meaning": "màu xanh tím than",
+      "exampleSentences": [
+        "He bought a navy blue suit.",
+        "Navy blue looks very professional."
+      ]
+    },
+    {
+      "word": "ivory",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ˈaɪ.vɚ.i/",
+      "meaning": "màu trắng ngà",
+      "exampleSentences": [
+        "She chose an ivory wedding dress.",
+        "Ivory is softer than pure white."
+      ]
+    },
+    {
+      "word": "coral",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/ˈkɔːr.əl/",
+      "meaning": "màu hồng san hô",
+      "exampleSentences": [
+        "She painted her nails coral.",
+        "Coral is perfect for summer."
+      ]
+    },
+    {
+      "word": "teal",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/tiːl/",
+      "meaning": "màu xanh mòng két (xanh lam pha xanh lục đậm)",
+      "exampleSentences": [
+        "The wall is painted teal.",
+        "Teal combines blue and green."
+      ]
+    },
+    {
+      "word": "blond",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "phonetic": "/blɑːnd/",
+      "meaning": "vàng hoe",
+      "exampleSentences": [
+        "She has blond hair.",
+        "He is a natural blond."
+      ]
+    }
+  ]
+}
