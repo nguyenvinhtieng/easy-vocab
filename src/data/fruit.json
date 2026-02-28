@@ -1,0 +1,235 @@
+{
+    "topic": "Trái cây",
+    "vocabs": [
+      {
+        "word": "apple",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈæp.əl/",
+        "meaning": "quả táo",
+        "exampleSentences": [
+          "I eat an apple every day.",
+          "She bought some fresh apples."
+        ]
+      },
+      {
+        "word": "banana",
+        "partOfSpeech": "noun",
+        "phonetic": "/bəˈnæn.ə/",
+        "meaning": "quả chuối",
+        "exampleSentences": [
+          "Bananas are good for your health.",
+          "He peeled a banana."
+        ]
+      },
+      {
+        "word": "pear",
+        "partOfSpeech": "noun",
+        "phonetic": "/per/",
+        "meaning": "quả lê",
+        "exampleSentences": [
+          "This pear is very sweet.",
+          "She sliced the pear."
+        ]
+      },
+      {
+        "word": "grape",
+        "partOfSpeech": "noun",
+        "phonetic": "/ɡreɪp/",
+        "meaning": "quả nho",
+        "exampleSentences": [
+          "He likes green grapes.",
+          "Grapes grow in bunches."
+        ]
+      },
+      {
+        "word": "peach",
+        "partOfSpeech": "noun",
+        "phonetic": "/piːtʃ/",
+        "meaning": "quả đào",
+        "exampleSentences": [
+          "The peach is juicy.",
+          "She made peach juice."
+        ]
+      },
+      {
+        "word": "orange",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈɔːr.ɪndʒ/",
+        "meaning": "quả cam",
+        "exampleSentences": [
+          "She drinks orange juice.",
+          "He bought some oranges."
+        ]
+      },
+      {
+        "word": "mango",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈmæŋ.ɡoʊ/",
+        "meaning": "quả xoài",
+        "exampleSentences": [
+          "This mango is very sweet.",
+          "I like mango smoothies."
+        ]
+      },
+      {
+        "word": "coconut",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈkoʊ.kə.nʌt/",
+        "meaning": "quả dừa",
+        "exampleSentences": [
+          "He drank coconut water.",
+          "Coconuts grow in tropical countries."
+        ]
+      },
+      {
+        "word": "pineapple",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈpaɪnæpl/",
+        "meaning": "quả dứa",
+        "exampleSentences": [
+          "Pineapple is sweet and sour.",
+          "She added pineapple to the salad."
+        ]
+      },
+      {
+        "word": "watermelon",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈwɑː.t̬ɚˌmel.ən/",
+        "meaning": "dưa hấu",
+        "exampleSentences": [
+          "Watermelon is refreshing in summer.",
+          "They shared a big watermelon."
+        ]
+      },
+      {
+        "word": "durian",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈduːriən/",
+        "meaning": "sầu riêng",
+        "exampleSentences": [
+          "Durian has a strong smell.",
+          "Many people love eating durian."
+        ]
+      },
+      {
+        "word": "lychee",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈlaɪtʃiː/",
+        "meaning": "quả vải",
+        "exampleSentences": [
+          "Lychees are sweet and juicy.",
+          "She bought fresh lychees."
+        ]
+      },
+      {
+        "word": "guava",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈɡwaːvə/",
+        "meaning": "quả ổi",
+        "exampleSentences": [
+          "Guava is rich in vitamin C.",
+          "He likes pink guava."
+        ]
+      },
+      {
+        "word": "starfruit",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈstɑːr.fruːt/",
+        "meaning": "quả khế",
+        "exampleSentences": [
+          "Starfruit has a unique shape.",
+          "She sliced the starfruit."
+        ]
+      },
+      {
+        "word": "apricot",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈeɪ.prɪ.kɑːt/",
+        "meaning": "quả mơ",
+        "exampleSentences": [
+          "Apricots are small and orange.",
+          "She made apricot jam."
+        ]
+      },
+      {
+        "word": "jackfruit",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈdʒæk.fruːt/",
+        "meaning": "quả mít",
+        "exampleSentences": [
+          "Jackfruit is very large.",
+          "They cooked young jackfruit."
+        ]
+      },
+      {
+        "word": "avocado",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˌɑː.vəˈkɑː.doʊ/",
+        "meaning": "quả bơ",
+        "exampleSentences": [
+          "Avocado is healthy.",
+          "She spread avocado on toast."
+        ]
+      },
+      {
+        "word": "papaya",
+        "partOfSpeech": "noun",
+        "phonetic": "/pəˈpaɪ.ə/",
+        "meaning": "quả đu đủ",
+        "exampleSentences": [
+          "Papaya is good for digestion.",
+          "He cut the papaya in half."
+        ]
+      },
+      {
+        "word": "plum",
+        "partOfSpeech": "noun",
+        "phonetic": "/plʌm/",
+        "meaning": "quả mận",
+        "exampleSentences": [
+          "This plum is very sweet.",
+          "She bought ripe plums."
+        ]
+      },
+      {
+        "word": "lemon",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈlem.ən/",
+        "meaning": "chanh vàng",
+        "exampleSentences": [
+          "He added lemon to his tea.",
+          "Lemons taste sour."
+        ]
+      },
+      {
+        "word": "kiwi",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈkiː.wiː/",
+        "meaning": "quả kiwi (dương đào)",
+        "exampleSentences": [
+          "Kiwi is rich in vitamin C.",
+          "She peeled the kiwi."
+        ]
+      },
+      {
+        "word": "raspberry",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈræz.ber.i/",
+        "meaning": "quả mâm xôi",
+        "exampleSentences": [
+          "Raspberries are red and small.",
+          "She made raspberry cake."
+        ]
+      },
+      {
+        "word": "blueberry",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈbluːˌbər.i/",
+        "meaning": "quả việt quất",
+        "exampleSentences": [
+          "Blueberries are very healthy.",
+          "He put blueberries in yogurt."
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,335 @@
+{
+    "topic": "Bộ phận Cơ thể",
+    "vocabs": [
+        {
+            "word": "head",
+            "partOfSpeech": "noun",
+            "phonetic": "/hed/",
+            "meaning": "đầu",
+            "exampleSentences": [
+                "He hit his head on the door.",
+                "Wash your head carefully."
+            ]
+        },
+        {
+            "word": "hair",
+            "partOfSpeech": "noun",
+            "phonetic": "/her/",
+            "meaning": "tóc",
+            "exampleSentences": [
+                "She has long black hair.",
+                "I cut my hair yesterday."
+            ]
+        },
+        {
+            "word": "face",
+            "partOfSpeech": "noun",
+            "phonetic": "/feɪs/",
+            "meaning": "gương mặt",
+            "exampleSentences": [
+                "His face is very expressive.",
+                "She smiled and her face lit up."
+            ]
+        },
+        {
+            "word": "forehead",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈfɑː.rɪd/",
+            "meaning": "trán",
+            "exampleSentences": [
+                "He wiped the sweat off his forehead.",
+                "Her forehead is very smooth."
+            ]
+        },
+        {
+            "word": "eyebrow",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈaɪ.braʊ/",
+            "meaning": "lông mày",
+            "exampleSentences": [
+                "He raised his eyebrows in surprise.",
+                "Her eyebrows are well-shaped."
+            ]
+        },
+        {
+            "word": "eye",
+            "partOfSpeech": "noun",
+            "phonetic": "/aɪ/",
+            "meaning": "mắt",
+            "exampleSentences": [
+                "Her eyes are blue.",
+                "I hurt my eye yesterday."
+            ]
+        },
+        {
+            "word": "eyelash",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈaɪ.læʃ/",
+            "meaning": "lông mi",
+            "exampleSentences": [
+                "She has long eyelashes.",
+                "Eyelashes protect the eyes from dust."
+            ]
+        },
+        {
+            "word": "nose",
+            "partOfSpeech": "noun",
+            "phonetic": "/nəʊz/",
+            "meaning": "mũi",
+            "exampleSentences": [
+                "He has a small nose.",
+                "She blew her nose."
+            ]
+        },
+        {
+            "word": "ear",
+            "partOfSpeech": "noun",
+            "phonetic": "/ɪr/",
+            "meaning": "tai",
+            "exampleSentences": [
+                "I have an earache.",
+                "Listen carefully with your ears."
+            ]
+        },
+        {
+            "word": "cheek",
+            "partOfSpeech": "noun",
+            "phonetic": "/tʃiːk/",
+            "meaning": "má",
+            "exampleSentences": [
+                "Her cheeks turned red.",
+                "He kissed her on the cheek."
+            ]
+        },
+        {
+            "word": "beard",
+            "partOfSpeech": "noun",
+            "phonetic": "/bɪrd/",
+            "meaning": "râu",
+            "exampleSentences": [
+                "He has a long beard.",
+                "Some men grow a beard for style."
+            ]
+        },
+        {
+            "word": "mouth",
+            "partOfSpeech": "noun",
+            "phonetic": "/maʊθ/",
+            "meaning": "miệng",
+            "exampleSentences": [
+                "Open your mouth wide.",
+                "She has a beautiful smile."
+            ]
+        },
+        {
+            "word": "lip",
+            "partOfSpeech": "noun",
+            "phonetic": "/lɪp/",
+            "meaning": "môi",
+            "exampleSentences": [
+                "He kissed her lips gently.",
+                "Her lips are very soft."
+            ]
+        },
+        {
+            "word": "tooth",
+            "partOfSpeech": "noun",
+            "phonetic": "/tuːθ/",
+            "meaning": "răng",
+            "exampleSentences": [
+                "I brush my teeth twice a day.",
+                "He has a loose tooth."
+            ]
+        },
+        {
+            "word": "teeth",
+            "partOfSpeech": "noun",
+            "phonetic": "/tiːθ/",
+            "meaning": "răng (số nhiều)",
+            "exampleSentences": [
+                "Children have 20 baby teeth.",
+                "She has perfect teeth."
+            ]
+        },
+        {
+            "word": "gum",
+            "partOfSpeech": "noun",
+            "phonetic": "/ɡʌm/",
+            "meaning": "nướu, lợi",
+            "exampleSentences": [
+                "Brush your gums gently.",
+                "Gum disease can be painful."
+            ]
+        },
+        {
+            "word": "jaw",
+            "partOfSpeech": "noun",
+            "phonetic": "/dʒɑː/",
+            "meaning": "hàm, quai hàm",
+            "exampleSentences": [
+                "He clenched his jaw in anger.",
+                "My jaw hurts after eating."
+            ]
+        },
+        {
+            "word": "chin",
+            "partOfSpeech": "noun",
+            "phonetic": "/tʃɪn/",
+            "meaning": "cằm",
+            "exampleSentences": [
+                "He rested his chin on his hand.",
+                "Her chin is pointed."
+            ]
+        },
+        {
+            "word": "neck",
+            "partOfSpeech": "noun",
+            "phonetic": "/nek/",
+            "meaning": "cổ",
+            "exampleSentences": [
+                "She wore a necklace around her neck.",
+                "He hurt his neck while sleeping."
+            ]
+        },
+        {
+            "word": "chest",
+            "partOfSpeech": "noun",
+            "phonetic": "/tʃest/",
+            "meaning": "ngực (chung)",
+            "exampleSentences": [
+                "He has a broad chest.",
+                "Her chest hurts after coughing."
+            ]
+        },
+        {
+            "word": "back",
+            "partOfSpeech": "noun",
+            "phonetic": "/bæk/",
+            "meaning": "lưng",
+            "exampleSentences": [
+                "My back hurts from sitting too long.",
+                "He has a tattoo on his back."
+            ]
+        },
+        {
+            "word": "belly",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈbeli/",
+            "meaning": "bụng",
+            "exampleSentences": [
+                "He rubbed his belly after eating.",
+                "She has a flat belly."
+            ]
+        },
+        {
+            "word": "hip",
+            "partOfSpeech": "noun",
+            "phonetic": "/hɪp/",
+            "meaning": "hông",
+            "exampleSentences": [
+                "He hurt his hip while running.",
+                "She has wide hips."
+            ]
+        },
+        {
+            "word": "arm",
+            "partOfSpeech": "noun",
+            "phonetic": "/ɑːrm/",
+            "meaning": "cánh tay",
+            "exampleSentences": [
+                "Raise your arms.",
+                "He broke his arm playing football."
+            ]
+        },
+        {
+            "word": "armpit",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈɑːrm.pɪt/",
+            "meaning": "nách",
+            "exampleSentences": [
+                "She applied deodorant to her armpits.",
+                "The cat scratched under my armpit."
+            ]
+        },
+        {
+            "word": "forearm",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈfɔːr.ɑːrm/",
+            "meaning": "cẳng tay",
+            "exampleSentences": [
+                "He has strong forearms.",
+                "She tattooed her forearm."
+            ]
+        },
+        {
+            "word": "elbow",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈel.boʊ/",
+            "meaning": "khuỷu tay",
+            "exampleSentences": [
+                "He hit his elbow on the table.",
+                "Bend your elbow to lift the weight."
+            ]
+        },
+        {
+            "word": "finger",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈfɪŋ.ɡɚ/",
+            "meaning": "ngón tay",
+            "exampleSentences": [
+                "She wears a ring on her finger.",
+                "Count your fingers."
+            ]
+        },
+        {
+            "word": "knuckle",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈnʌk.əl/",
+            "meaning": "khớp đốt ngón tay",
+            "exampleSentences": [
+                "He cracked his knuckles.",
+                "The knuckle connects your fingers to your hand."
+            ]
+        },
+        {
+            "word": "leg",
+            "partOfSpeech": "noun",
+            "phonetic": "/leɡ/",
+            "meaning": "chân",
+            "exampleSentences": [
+                "He hurt his leg.",
+                "Run as fast as you can on your legs."
+            ]
+        },
+        {
+            "word": "knee",
+            "partOfSpeech": "noun",
+            "phonetic": "/niː/",
+            "meaning": "đầu gối",
+            "exampleSentences": [
+                "Bend your knees when lifting heavy objects.",
+                "She fell and scraped her knee."
+            ]
+        },
+        {
+            "word": "ankle",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈæŋ.kəl/",
+            "meaning": "mắt cá chân",
+            "exampleSentences": [
+                "He twisted his ankle.",
+                "Wear shoes that support your ankle."
+            ]
+        },
+        {
+            "word": "heel",
+            "partOfSpeech": "noun",
+            "phonetic": "/hiːl/",
+            "meaning": "gót chân",
+            "exampleSentences": [
+                "Her heels hurt after walking.",
+                "The dog bit my heel."
+            ]
+        }
+    ]
+}

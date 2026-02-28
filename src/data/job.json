@@ -1,0 +1,315 @@
+{
+    "topic": "Nghề nghiệp",
+    "vocabs": [
+      {
+        "word": "accountant",
+        "partOfSpeech": "noun",
+        "phonetic": "/əˈkaʊn.t̬ənt/",
+        "meaning": "kế toán",
+        "exampleSentences": [
+          "She works as an accountant.",
+          "An accountant manages financial records."
+        ]
+      },
+      {
+        "word": "actor",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈæk.tɚ/",
+        "meaning": "diễn viên (nam)",
+        "exampleSentences": [
+          "He is a famous actor.",
+          "The actor performed well in the movie."
+        ]
+      },
+      {
+        "word": "actress",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈæk.trəs/",
+        "meaning": "diễn viên (nữ)",
+        "exampleSentences": [
+          "She is a talented actress.",
+          "The actress won an award."
+        ]
+      },
+      {
+        "word": "artist",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈɑːr.t̬ɪst/",
+        "meaning": "nghệ sĩ",
+        "exampleSentences": [
+          "He is a modern artist.",
+          "The artist painted a beautiful picture."
+        ]
+      },
+      {
+        "word": "astronaut",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈæs.trə.nɑːt/",
+        "meaning": "phi hành gia",
+        "exampleSentences": [
+          "She dreams of becoming an astronaut.",
+          "The astronaut traveled to space."
+        ]
+      },
+      {
+        "word": "baker",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈbeɪ.kɚ/",
+        "meaning": "thợ nướng bánh",
+        "exampleSentences": [
+          "The baker makes fresh bread.",
+          "He works as a baker."
+        ]
+      },
+      {
+        "word": "butcher",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈbʊtʃ.ɚ/",
+        "meaning": "người mổ thịt",
+        "exampleSentences": [
+          "The butcher sells fresh meat.",
+          "He bought beef from the butcher."
+        ]
+      },
+      {
+        "word": "cashier",
+        "partOfSpeech": "noun",
+        "phonetic": "/kæʃˈɪr/",
+        "meaning": "nhân viên thu ngân",
+        "exampleSentences": [
+          "The cashier scanned the items.",
+          "She works as a cashier at a supermarket."
+        ]
+      },
+      {
+        "word": "chef",
+        "partOfSpeech": "noun",
+        "phonetic": "/ʃef/",
+        "meaning": "đầu bếp",
+        "exampleSentences": [
+          "The chef cooks delicious food.",
+          "He is a professional chef."
+        ]
+      },
+      {
+        "word": "comedian",
+        "partOfSpeech": "noun",
+        "phonetic": "/kəˈmiː.di.ən/",
+        "meaning": "diễn viên hài",
+        "exampleSentences": [
+          "The comedian made everyone laugh.",
+          "She is a popular comedian."
+        ]
+      },
+      {
+        "word": "delivery man",
+        "partOfSpeech": "noun",
+        "phonetic": "/dɪˈlɪv.ɚ.i.mæn/",
+        "meaning": "nhân viên giao hàng",
+        "exampleSentences": [
+          "The delivery man brought the package.",
+          "A delivery man knocked on the door."
+        ]
+      },
+      {
+        "word": "doctor",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈdoktə/",
+        "meaning": "bác sĩ",
+        "exampleSentences": [
+          "She is a doctor at the hospital.",
+          "You should see a doctor."
+        ]
+      },
+      {
+        "word": "entrepreneur",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˌɑːn.trə.prəˈnɝː/",
+        "meaning": "nhà kinh doanh",
+        "exampleSentences": [
+          "He is a successful entrepreneur.",
+          "Entrepreneurs start new businesses."
+        ]
+      },
+      {
+        "word": "engineer",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˌen.dʒɪˈnɪər/",
+        "meaning": "kỹ sư",
+        "exampleSentences": [
+          "She works as an engineer.",
+          "Engineers design buildings."
+        ]
+      },
+      {
+        "word": "factory worker",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈfæk.tɚ.i ˈwɝː.kɚ/",
+        "meaning": "công nhân nhà máy",
+        "exampleSentences": [
+          "He is a factory worker.",
+          "Factory workers work long hours."
+        ]
+      },
+      {
+        "word": "office worker",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈɑː.fɪs ˈwɝː.kɚ/",
+        "meaning": "nhân viên văn phòng",
+        "exampleSentences": [
+          "She is an office worker.",
+          "Office workers usually work from 9 to 5."
+        ]
+      },
+      {
+        "word": "florist",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈflɔːr.ɪst/",
+        "meaning": "người bán hoa",
+        "exampleSentences": [
+          "The florist arranged the flowers.",
+          "She bought roses from the florist."
+        ]
+      },
+      {
+        "word": "hairdresser",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈherˌdres.ɚ/",
+        "meaning": "thợ cắt tóc",
+        "exampleSentences": [
+          "The hairdresser cut my hair.",
+          "She works as a hairdresser."
+        ]
+      },
+      {
+        "word": "lawyer",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈlɑː.jɚ/",
+        "meaning": "luật sư",
+        "exampleSentences": [
+          "He is a criminal lawyer.",
+          "The lawyer defended his client."
+        ]
+      },
+      {
+        "word": "musician",
+        "partOfSpeech": "noun",
+        "phonetic": "/mjuːˈzɪʃ.ən/",
+        "meaning": "nhạc sĩ, nhạc công",
+        "exampleSentences": [
+          "She is a talented musician.",
+          "The musician played the piano."
+        ]
+      },
+      {
+        "word": "pharmacist",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈfɑːr.mə.sɪst/",
+        "meaning": "dược sĩ",
+        "exampleSentences": [
+          "The pharmacist gave me medicine.",
+          "Ask the pharmacist for advice."
+        ]
+      },
+      {
+        "word": "plumber",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈplʌm.ɚ/",
+        "meaning": "thợ ống nước",
+        "exampleSentences": [
+          "The plumber fixed the pipe.",
+          "We called a plumber."
+        ]
+      },
+      {
+        "word": "politician",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˌpɑː.ləˈtɪʃ.ən/",
+        "meaning": "chính trị gia",
+        "exampleSentences": [
+          "The politician gave a speech.",
+          "He wants to become a politician."
+        ]
+      },
+      {
+        "word": "programmer",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈproʊ.ɡræm.ɚ/",
+        "meaning": "lập trình viên",
+        "exampleSentences": [
+          "He works as a programmer.",
+          "A programmer writes code."
+        ]
+      },
+      {
+        "word": "real estate agent",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈriː.əl ɪ.steɪt ˌeɪ.dʒənt/",
+        "meaning": "người môi giới bất động sản",
+        "exampleSentences": [
+          "The real estate agent showed us the house.",
+          "She works as a real estate agent."
+        ]
+      },
+      {
+        "word": "tailor",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈteɪ.lɚ/",
+        "meaning": "thợ may",
+        "exampleSentences": [
+          "The tailor made a new suit.",
+          "He went to the tailor."
+        ]
+      },
+      {
+        "word": "taxi driver",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈtæk.si ˌdraɪ.vɚ/",
+        "meaning": "tài xế taxi",
+        "exampleSentences": [
+          "The taxi driver took me to the airport.",
+          "He works as a taxi driver."
+        ]
+      },
+      {
+        "word": "teacher",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈtiː.tʃɚ/",
+        "meaning": "giáo viên",
+        "exampleSentences": [
+          "My teacher is very helpful.",
+          "She is an English teacher."
+        ]
+      },
+      {
+        "word": "receptionist",
+        "partOfSpeech": "noun",
+        "phonetic": "/rɪˈsep.ʃən.ɪst/",
+        "meaning": "nhân viên lễ tân",
+        "exampleSentences": [
+          "The receptionist answered the phone.",
+          "She works as a receptionist."
+        ]
+      },
+      {
+        "word": "singer",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈsɪŋ.ɚ/",
+        "meaning": "ca sĩ",
+        "exampleSentences": [
+          "She is a famous singer.",
+          "The singer performed on stage."
+        ]
+      },
+      {
+        "word": "firefighter",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈfaɪərfaɪtər/",
+        "meaning": "lính cứu hỏa",
+        "exampleSentences": [
+          "The firefighter saved the child.",
+          "Firefighters work in dangerous situations."
+        ]
+      }
+    ]
+  }

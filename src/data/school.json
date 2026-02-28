@@ -1,0 +1,225 @@
+{
+    "topic": "Trường học",
+    "vocabs": [
+        {
+            "word": "school",
+            "partOfSpeech": "noun",
+            "phonetic": "/skuːl/",
+            "meaning": "trường học",
+            "exampleSentences": [
+                "I go to school every day.",
+                "The school is very big."
+            ]
+        },
+        {
+            "word": "class",
+            "partOfSpeech": "noun",
+            "phonetic": "/klɑːs/",
+            "meaning": "lớp học",
+            "exampleSentences": [
+                "We have an English class today.",
+                "My class is on the second floor."
+            ]
+        },
+        {
+            "word": "student",
+            "partOfSpeech": "noun",
+            "phonetic": "/’stjuːdnt/",
+            "meaning": "học sinh, sinh viên",
+            "exampleSentences": [
+                "She is a good student.",
+                "The students are studying hard."
+            ]
+        },
+        {
+            "word": "pupil",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈpjuːpl/",
+            "meaning": "học sinh",
+            "exampleSentences": [
+                "The pupils listened carefully.",
+                "Every pupil must wear a uniform."
+            ]
+        },
+        {
+            "word": "teacher",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈtiː.tʃɚ/",
+            "meaning": "giáo viên",
+            "exampleSentences": [
+                "The teacher explains the lesson clearly.",
+                "Our teacher is very kind."
+            ]
+        },
+        {
+            "word": "principal",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈprɪnsɪpəl/",
+            "meaning": "hiệu trưởng",
+            "exampleSentences": [
+                "The principal greeted the students.",
+                "Our school principal is strict but fair."
+            ]
+        },
+        {
+            "word": "course",
+            "partOfSpeech": "noun",
+            "phonetic": "/kɔːrs/",
+            "meaning": "khóa học",
+            "exampleSentences": [
+                "I am taking a math course.",
+                "The course lasts one semester."
+            ]
+        },
+        {
+            "word": "semester",
+            "partOfSpeech": "noun",
+            "phonetic": "/sɪˈmestər/",
+            "meaning": "học kì",
+            "exampleSentences": [
+                "This semester is very busy.",
+                "The semester ends in December."
+            ]
+        },
+        {
+            "word": "exercise",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈeksərsaɪz/",
+            "meaning": "bài tập",
+            "exampleSentences": [
+                "Complete the exercises in your book.",
+                "Exercise helps improve your skills."
+            ]
+        },
+        {
+            "word": "homework",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈhəʊmwɜːrk/",
+            "meaning": "bài tập về nhà",
+            "exampleSentences": [
+                "I finished my homework.",
+                "The teacher gave us a lot of homework."
+            ]
+        },
+        {
+            "word": "exam",
+            "partOfSpeech": "noun",
+            "phonetic": "/ɪɡˈzæm/",
+            "meaning": "bài kiểm tra",
+            "exampleSentences": [
+                "I studied hard for the exam.",
+                "The exam was very difficult."
+            ]
+        },
+        {
+            "word": "examination",
+            "partOfSpeech": "noun",
+            "phonetic": "/ɪɡˌzæmɪˈneɪʃn/",
+            "meaning": "bài kiểm tra",
+            "exampleSentences": [
+                "The examination will start at 9 a.m.",
+                "Students were nervous during the examination."
+            ]
+        },
+        {
+            "word": "grade",
+            "partOfSpeech": "noun",
+            "phonetic": "/ɡreɪd/",
+            "meaning": "điểm số",
+            "exampleSentences": [
+                "I got a good grade on my test.",
+                "Grades reflect your performance."
+            ]
+        },
+        {
+            "word": "certificate",
+            "partOfSpeech": "noun",
+            "phonetic": "/sərˈtɪfɪkət/",
+            "meaning": "bằng cấp, giấy khen",
+            "exampleSentences": [
+                "She received a certificate for her achievement.",
+                "Certificates are awarded at graduation."
+            ]
+        },
+        {
+            "word": "kindergarten",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈkɪn.dɚˌɡɑːr.tən/",
+            "meaning": "lớp mẫu giáo, nhà trẻ",
+            "exampleSentences": [
+                "My little brother goes to kindergarten.",
+                "Kindergarten helps children learn basic skills."
+            ]
+        },
+        {
+            "word": "primary school",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈpraɪ.mɚ.i ˌskuːl/",
+            "meaning": "trường tiểu học, trường cấp 1",
+            "exampleSentences": [
+                "She attended a primary school in Hanoi.",
+                "Primary school lasts six years."
+            ]
+        },
+        {
+            "word": "secondary school",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈsek.ən.der.i ˌskuːl/",
+            "meaning": "trường trung học, trường cấp 2",
+            "exampleSentences": [
+                "He is a student at the secondary school.",
+                "Secondary school students have more subjects."
+            ]
+        },
+        {
+            "word": "high school",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈhaɪ skuːl/",
+            "meaning": "trường cấp 3",
+            "exampleSentences": [
+                "She is in her last year of high school.",
+                "High school students prepare for exams."
+            ]
+        },
+        {
+            "word": "university",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+            "meaning": "trường đại học",
+            "exampleSentences": [
+                "He studies at a university in Singapore.",
+                "Universities offer many courses."
+            ]
+        },
+        {
+            "word": "college",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˈkɑːlɪdʒ/",
+            "meaning": "trường đại học, cao đẳng",
+            "exampleSentences": [
+                "She attends a college in New York.",
+                "College life is very different from high school."
+            ]
+        },
+        {
+            "word": "private school",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˌpraɪ.vət ˈskuːl/",
+            "meaning": "trường tư",
+            "exampleSentences": [
+                "He goes to a private school.",
+                "Private schools often have smaller classes."
+            ]
+        },
+        {
+            "word": "public school",
+            "partOfSpeech": "noun",
+            "phonetic": "/ˌpʌblɪk ˈskuːl/",
+            "meaning": "trường công",
+            "exampleSentences": [
+                "Public schools are free for students.",
+                "Public schools have many students."
+            ]
+        }
+    ]
+}

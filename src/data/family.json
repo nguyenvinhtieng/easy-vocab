@@ -1,0 +1,205 @@
+{
+    "topic": "Gia đình",
+    "vocabs": [
+      {
+        "word": "family",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈfæm.əl.i/",
+        "meaning": "gia đình",
+        "exampleSentences": [
+          "I love spending time with my family.",
+          "My family supports me in everything I do."
+        ]
+      },
+      {
+        "word": "mother",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈmaðə/",
+        "meaning": "mẹ",
+        "exampleSentences": [
+          "My mother cooks very well.",
+          "I talk to my mother every day."
+        ]
+      },
+      {
+        "word": "father",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈfɑː.ðɚ/",
+        "meaning": "bố, cha",
+        "exampleSentences": [
+          "My father works in an office.",
+          "My father taught me how to ride a bike."
+        ]
+      },
+      {
+        "word": "parent",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈpeərənt/",
+        "meaning": "bố hoặc mẹ (parents: bố mẹ, phụ huynh)",
+        "exampleSentences": [
+          "Every parent wants the best for their child.",
+          "My parents are very supportive."
+        ]
+      },
+      {
+        "word": "daughter",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈdɑː.t̬ɚ/",
+        "meaning": "con gái",
+        "exampleSentences": [
+          "Their daughter is very smart.",
+          "She is the youngest daughter in the family."
+        ]
+      },
+      {
+        "word": "son",
+        "partOfSpeech": "noun",
+        "phonetic": "/san/",
+        "meaning": "con trai",
+        "exampleSentences": [
+          "Their son is studying abroad.",
+          "He is their only son."
+        ]
+      },
+      {
+        "word": "sibling",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈsibliŋ/",
+        "meaning": "anh chị em ruột",
+        "exampleSentences": [
+          "I have one sibling.",
+          "Siblings often share many memories."
+        ]
+      },
+      {
+        "word": "sister",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈsistə/",
+        "meaning": "chị, em gái",
+        "exampleSentences": [
+          "My sister is younger than me.",
+          "I often go shopping with my sister."
+        ]
+      },
+      {
+        "word": "brother",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈbrʌð.ɚ/",
+        "meaning": "anh, em trai",
+        "exampleSentences": [
+          "My brother plays football.",
+          "I have an older brother."
+        ]
+      },
+      {
+        "word": "grandmother",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈɡræn.mʌð.ɚ/",
+        "meaning": "bà nội (ngoại)",
+        "exampleSentences": [
+          "My grandmother tells interesting stories.",
+          "We visit our grandmother every weekend."
+        ]
+      },
+      {
+        "word": "grandfather",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈɡræn.fɑː.ðɚ/",
+        "meaning": "ông nội (ngoại)",
+        "exampleSentences": [
+          "My grandfather likes gardening.",
+          "My grandfather is 75 years old."
+        ]
+      },
+      {
+        "word": "grandparent",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈɡræn.per.ənt/",
+        "meaning": "ông hoặc bà (grandparents: ông bà)",
+        "exampleSentences": [
+          "My grandparents live in the countryside.",
+          "Grandparents often take care of their grandchildren."
+        ]
+      },
+      {
+        "word": "relative",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈrelətiv/",
+        "meaning": "họ hàng",
+        "exampleSentences": [
+          "I have many relatives in my hometown.",
+          "We invited all our relatives to the wedding."
+        ]
+      },
+      {
+        "word": "aunt",
+        "partOfSpeech": "noun",
+        "phonetic": "/ænt/",
+        "meaning": "cô, dì",
+        "exampleSentences": [
+          "My aunt lives in Singapore.",
+          "I visited my aunt last summer."
+        ]
+      },
+      {
+        "word": "uncle",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈaŋkl/",
+        "meaning": "chú, bác, cậu, dượng",
+        "exampleSentences": [
+          "My uncle is a doctor.",
+          "We had dinner at my uncle's house."
+        ]
+      },
+      {
+        "word": "cousin",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈkʌz.ən/",
+        "meaning": "anh em họ",
+        "exampleSentences": [
+          "My cousin is the same age as me.",
+          "I often play games with my cousins."
+        ]
+      },
+      {
+        "word": "nephew",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈnefjuː/",
+        "meaning": "cháu trai (con của anh chị em)",
+        "exampleSentences": [
+          "My nephew is five years old.",
+          "I bought a gift for my nephew."
+        ]
+      },
+      {
+        "word": "niece",
+        "partOfSpeech": "noun",
+        "phonetic": "/niːs/",
+        "meaning": "cháu gái (con của anh chị em)",
+        "exampleSentences": [
+          "My niece is very cute.",
+          "I spend time playing with my niece."
+        ]
+      },
+      {
+        "word": "wife",
+        "partOfSpeech": "noun",
+        "phonetic": "/waif/",
+        "meaning": "vợ",
+        "exampleSentences": [
+          "He loves his wife very much.",
+          "His wife works as a teacher."
+        ]
+      },
+      {
+        "word": "husband",
+        "partOfSpeech": "noun",
+        "phonetic": "/ˈhʌz.bənd/",
+        "meaning": "chồng",
+        "exampleSentences": [
+          "Her husband is very kind.",
+          "She and her husband run a small business."
+        ]
+      }
+    ]
+  }
