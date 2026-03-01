@@ -1,0 +1,107 @@
+{
+  "topic": "Hình khối",
+  "vocabs": [
+    {
+      "word": "line",
+      "partOfSpeech": "noun",
+      "phonetic": "/laɪn/",
+      "meaning": "đường thẳng"
+    },
+    {
+      "word": "circle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɝː.kəl/",
+      "meaning": "hình tròn"
+    },
+    {
+      "word": "triangle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtraɪ.æŋ.ɡəl/",
+      "meaning": "hình tam giác"
+    },
+    {
+      "word": "rectangle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈrek.tæŋ.ɡəl/",
+      "meaning": "hình chữ nhật"
+    },
+    {
+      "word": "square",
+      "partOfSpeech": "noun",
+      "phonetic": "/skwer/",
+      "meaning": "hình vuông"
+    },
+    {
+      "word": "trapezoid",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtræp.ɪ.zɔɪd/",
+      "meaning": "hình thang"
+    },
+    {
+      "word": "heart",
+      "partOfSpeech": "noun",
+      "phonetic": "/hɑːrt/",
+      "meaning": "hình trái tim"
+    },
+    {
+      "word": "star",
+      "partOfSpeech": "noun",
+      "phonetic": "/stɑːr/",
+      "meaning": "hình ngôi sao"
+    },
+    {
+      "word": "diamond",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdaɪ.mənd/",
+      "meaning": "hình kim cương"
+    },
+    {
+      "word": "ellipse",
+      "partOfSpeech": "noun",
+      "phonetic": "/iˈlɪps/",
+      "meaning": "hình Elip"
+    },
+    {
+      "word": "oval",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈoʊ.vəl/",
+      "meaning": "hình trái xoan, hình bầu dục"
+    },
+    {
+      "word": "curve",
+      "partOfSpeech": "noun",
+      "phonetic": "/wedʒ/",
+      "meaning": "đường cong"
+    },
+    {
+      "word": "arrow",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈer.oʊ/",
+      "meaning": "hình mũi tên"
+    },
+    {
+      "word": "cross",
+      "partOfSpeech": "noun",
+      "phonetic": "/krɑːs/",
+      "meaning": "hình chữ thập"
+    },
+    {
+      "word": "crescent",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkres.ənt/",
+      "meaning": "hình lưỡi liềm"
+    },
+    {
+      "word": "cone",
+      "partOfSpeech": "noun",
+      "phonetic": "/koʊn/",
+      "meaning": "hình nón"
+    },
+    {
+      "word": "cube",
+      "partOfSpeech": "noun",
+      "phonetic": "/kjuːb/",
+      "meaning": "hình lập phương"
+    }
+  ]
+}

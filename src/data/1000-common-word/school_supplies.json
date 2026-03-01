@@ -7,38 +7,38 @@
       "phonetic": "/pen/",
       "meaning": "bút mực",
       "exampleSentences": [
-        "This is a pen.",
-        "I like the pen."
+        "I write with a pen.",
+        "She bought a new pen."
       ]
     },
     {
       "word": "pencil",
       "partOfSpeech": "noun",
-      "phonetic": "/ˈpen.səl/",
+      "phonetic": "/ˈpensl/",
       "meaning": "bút chì",
       "exampleSentences": [
-        "This is a pencil.",
-        "I like the pencil."
+        "He uses a pencil to draw.",
+        "Sharpen your pencil, please."
       ]
     },
     {
       "word": "highlighter",
       "partOfSpeech": "noun",
-      "phonetic": "/ˈhaɪ.laɪ.t̬ɚ/",
+      "phonetic": "/ˈhaɪˌlaɪ.t̬ɚ/",
       "meaning": "bút nhớ",
       "exampleSentences": [
-        "This is a highlighter.",
-        "I like the highlighter."
+        "She uses a highlighter for important notes.",
+        "The text is marked with a yellow highlighter."
       ]
     },
     {
       "word": "ruler",
       "partOfSpeech": "noun",
-      "phonetic": "/ˈruː.lɚ/",
+      "phonetic": "/ˈruːlər/",
       "meaning": "thước kẻ",
       "exampleSentences": [
-        "This is a ruler.",
-        "I like the ruler."
+        "Measure the line with a ruler.",
+        "He forgot his ruler at home."
       ]
     },
     {
@@ -47,18 +47,18 @@
       "phonetic": "/ɪˈreɪ.sɚ/",
       "meaning": "tẩy, gôm",
       "exampleSentences": [
-        "This is an eraser.",
-        "I like the eraser."
+        "Use an eraser to fix mistakes.",
+        "My eraser is pink."
       ]
     },
     {
       "word": "pencil case",
       "partOfSpeech": "noun",
-      "phonetic": "/ˈpen.səl ˌkeɪs/",
+      "phonetic": "/ˈpensl keɪs/",
       "meaning": "hộp bút",
       "exampleSentences": [
-        "This is a pencil case.",
-        "I like the pencil case."
+        "My pencil case is blue.",
+        "She keeps her pens in a pencil case."
       ]
     },
     {
@@ -67,18 +67,18 @@
       "phonetic": "/bʊk/",
       "meaning": "quyển sách",
       "exampleSentences": [
-        "This is a book.",
-        "I like the book."
+        "This book is interesting.",
+        "Open your book to page 10."
       ]
     },
     {
       "word": "notebook",
       "partOfSpeech": "noun",
-      "phonetic": "/ˈnoʊt.bʊk/",
+      "phonetic": "/ˈnəʊtbʊk/",
       "meaning": "vở",
       "exampleSentences": [
-        "This is a notebook.",
-        "I like the notebook."
+        "Write it in your notebook.",
+        "Her notebook is very neat."
       ]
     },
     {
@@ -87,8 +87,8 @@
       "phonetic": "/ˈpeɪ.pɚ/",
       "meaning": "giấy",
       "exampleSentences": [
-        "This is a paper.",
-        "I like the paper."
+        "I need a piece of paper.",
+        "The paper is on the desk."
       ]
     },
     {
@@ -97,8 +97,8 @@
       "phonetic": "/ˈsɪz.ɚz/",
       "meaning": "kéo",
       "exampleSentences": [
-        "This is a scissors.",
-        "I like the scissors."
+        "Cut the paper with scissors.",
+        "Be careful with the scissors."
       ]
     },
     {
@@ -107,8 +107,8 @@
       "phonetic": "/klɑːk/",
       "meaning": "đồng hồ",
       "exampleSentences": [
-        "This is a clock.",
-        "I like the clock."
+        "The clock is on the wall.",
+        "Look at the clock."
       ]
     },
     {
@@ -117,8 +117,8 @@
       "phonetic": "/klɪp/",
       "meaning": "kẹp ghim",
       "exampleSentences": [
-        "This is a clip.",
-        "I like the clip."
+        "Use a clip to hold the papers.",
+        "The clip is small but useful."
       ]
     },
     {
@@ -127,8 +127,8 @@
       "phonetic": "/ˈsteɪ.plɚ/",
       "meaning": "cái dập ghim",
       "exampleSentences": [
-        "This is a stapler.",
-        "I like the stapler."
+        "She used a stapler to bind the pages.",
+        "The stapler is on the desk."
       ]
     },
     {
@@ -137,8 +137,8 @@
       "phonetic": "/pɪn/",
       "meaning": "đinh ghim",
       "exampleSentences": [
-        "This is a pin.",
-        "I like the pin."
+        "Fix the paper with a pin.",
+        "Be careful not to touch the sharp pin."
       ]
     },
     {
@@ -147,18 +147,18 @@
       "phonetic": "/ɡluː/",
       "meaning": "hồ dán",
       "exampleSentences": [
-        "This is a glue.",
-        "I like the glue."
+        "Use glue to stick the paper.",
+        "The glue is very strong."
       ]
     },
     {
       "word": "sticky tape",
       "partOfSpeech": "noun",
-      "phonetic": "/ˌstɪk.i ˈteɪp/",
+      "phonetic": "/ˈstɪki teɪp/",
       "meaning": "băng dính",
       "exampleSentences": [
-        "This is a sticky tape.",
-        "I like the sticky tape."
+        "Wrap it with sticky tape.",
+        "I need sticky tape for this."
       ]
     },
     {
@@ -167,8 +167,8 @@
       "phonetic": "/ˈkæl.kjə.leɪ.t̬ɚ/",
       "meaning": "máy tính bỏ túi",
       "exampleSentences": [
-        "This is a calculator.",
-        "I like the calculator."
+        "Use a calculator to solve the problem.",
+        "He forgot his calculator."
       ]
     },
     {
@@ -177,8 +177,8 @@
       "phonetic": "/desk/",
       "meaning": "bàn học",
       "exampleSentences": [
-        "This is a desk.",
-        "I like the desk."
+        "The book is on the desk.",
+        "She sits at her desk."
       ]
     },
     {
@@ -187,8 +187,8 @@
       "phonetic": "/tʃer/",
       "meaning": "ghế",
       "exampleSentences": [
-        "This is a chair.",
-        "I like the chair."
+        "The chair is comfortable.",
+        "He is sitting on a chair."
       ]
     },
     {
@@ -197,8 +197,8 @@
       "phonetic": "/ˈblæk.bɔːrd/",
       "meaning": "bảng đen",
       "exampleSentences": [
-        "This is a blackboard.",
-        "I like the blackboard."
+        "The teacher writes on the blackboard.",
+        "Look at the blackboard."
       ]
     }
   ]

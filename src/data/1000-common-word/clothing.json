@@ -1,0 +1,515 @@
+{
+  "topic": "Trang phục",
+  "vocabs": [
+    {
+      "word": "clothes",
+      "partOfSpeech": "noun",
+      "phonetic": "/kləʊðz/",
+      "meaning": "quần áo (nói chung)",
+      "exampleSentences": [
+        "I bought new clothes.",
+        "She wears fashionable clothes."
+      ]
+    },
+    {
+      "word": "t-shirt",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtiː.ʃɝːt/",
+      "meaning": "áo phông",
+      "exampleSentences": [
+        "He wears a t-shirt every day.",
+        "This t-shirt is very comfortable."
+      ]
+    },
+    {
+      "word": "shirt",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃɝːt/",
+      "meaning": "áo sơ mi",
+      "exampleSentences": [
+        "He wears a white shirt to work.",
+        "The shirt is too big."
+      ]
+    },
+    {
+      "word": "sweater",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈswet̬.ɚ/",
+      "meaning": "áo len dài tay",
+      "exampleSentences": [
+        "She wears a warm sweater.",
+        "This sweater is very soft."
+      ]
+    },
+    {
+      "word": "vest",
+      "partOfSpeech": "noun",
+      "phonetic": "/vest/",
+      "meaning": "áo gi-lê, áo vét",
+      "exampleSentences": [
+        "He wore a vest under his suit.",
+        "The vest is stylish."
+      ]
+    },
+    {
+      "word": "suit",
+      "partOfSpeech": "noun",
+      "phonetic": "/suːt/",
+      "meaning": "bộ com lê, Âu phục",
+      "exampleSentences": [
+        "He wore a black suit.",
+        "The suit fits him perfectly."
+      ]
+    },
+    {
+      "word": "trench coat",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtrentʃ ˌkoʊt/",
+      "meaning": "áo choàng",
+      "exampleSentences": [
+        "She wore a trench coat in the rain.",
+        "This trench coat is very elegant."
+      ]
+    },
+    {
+      "word": "skirt",
+      "partOfSpeech": "noun",
+      "phonetic": "/skɜːrt/",
+      "meaning": "chân váy",
+      "exampleSentences": [
+        "She wears a skirt to school.",
+        "This skirt is very fashionable."
+      ]
+    },
+    {
+      "word": "pants",
+      "partOfSpeech": "noun",
+      "phonetic": "/pænts/",
+      "meaning": "quần",
+      "exampleSentences": [
+        "He bought new pants.",
+        "These pants are too tight."
+      ]
+    },
+    {
+      "word": "jeans",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʒiːnz/",
+      "meaning": "quần bò",
+      "exampleSentences": [
+        "I wear jeans every day.",
+        "These jeans are comfortable."
+      ]
+    },
+    {
+      "word": "shorts",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃɔːrts/",
+      "meaning": "quần sóoc, quần đùi",
+      "exampleSentences": [
+        "He wears shorts in summer.",
+        "These shorts are too short."
+      ]
+    },
+    {
+      "word": "accessories",
+      "partOfSpeech": "noun",
+      "phonetic": "/əkˈsesəris/",
+      "meaning": "phụ kiện",
+      "exampleSentences": [
+        "She bought some accessories.",
+        "Accessories can complete an outfit."
+      ]
+    },
+    {
+      "word": "hat",
+      "partOfSpeech": "noun",
+      "phonetic": "/hæt/",
+      "meaning": "mũ",
+      "exampleSentences": [
+        "He wears a hat to protect from the sun.",
+        "This hat is very stylish."
+      ]
+    },
+    {
+      "word": "glasses",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɡlæs·əz/",
+      "meaning": "kính mắt",
+      "exampleSentences": [
+        "She wears glasses for reading.",
+        "These glasses are new."
+      ]
+    },
+    {
+      "word": "sunglasses",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsʌnˌɡlæs.ɪz/",
+      "meaning": "kính râm, kính mát",
+      "exampleSentences": [
+        "He wears sunglasses on sunny days.",
+        "Sunglasses protect your eyes."
+      ]
+    },
+    {
+      "word": "earring",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɪrɪŋ/",
+      "meaning": "khuyên tai",
+      "exampleSentences": [
+        "She wore earrings to the party.",
+        "These earrings are beautiful."
+      ]
+    },
+    {
+      "word": "necklace",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnekləs/",
+      "meaning": "vòng cổ",
+      "exampleSentences": [
+        "She bought a gold necklace.",
+        "This necklace matches her dress."
+      ]
+    },
+    {
+      "word": "ring",
+      "partOfSpeech": "noun",
+      "phonetic": "/rɪŋ/",
+      "meaning": "nhẫn",
+      "exampleSentences": [
+        "He gave her a ring.",
+        "This ring is very expensive."
+      ]
+    },
+    {
+      "word": "hairpin",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈherpɪn/",
+      "meaning": "cặp tóc",
+      "exampleSentences": [
+        "She used a hairpin to hold her hair.",
+        "The hairpin is decorative."
+      ]
+    },
+    {
+      "word": "tie",
+      "partOfSpeech": "noun",
+      "phonetic": "/taɪ/",
+      "meaning": "cà vạt, nơ",
+      "exampleSentences": [
+        "He wears a tie to work.",
+        "This tie is very elegant."
+      ]
+    },
+    {
+      "word": "scarf",
+      "partOfSpeech": "noun",
+      "phonetic": "/skɑːrf/",
+      "meaning": "khăn choàng",
+      "exampleSentences": [
+        "She wore a scarf around her neck.",
+        "This scarf is warm and soft."
+      ]
+    },
+    {
+      "word": "gloves",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɡlʌv/",
+      "meaning": "găng tay, bao tay",
+      "exampleSentences": [
+        "He wears gloves in winter.",
+        "These gloves are leather."
+      ]
+    },
+    {
+      "word": "watch",
+      "partOfSpeech": "noun",
+      "phonetic": "/wɑːtʃ/",
+      "meaning": "đồng hồ",
+      "exampleSentences": [
+        "He wears a watch on his wrist.",
+        "This watch is very accurate."
+      ]
+    },
+    {
+      "word": "handbag",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhænd.bæɡ/",
+      "meaning": "túi xách",
+      "exampleSentences": [
+        "She bought a new handbag.",
+        "Her handbag is very stylish."
+      ]
+    },
+    {
+      "word": "wallet",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɑː.lɪt/",
+      "meaning": "ví, bóp",
+      "exampleSentences": [
+        "He keeps money in his wallet.",
+        "This wallet is leather."
+      ]
+    },
+    {
+      "word": "belt",
+      "partOfSpeech": "noun",
+      "phonetic": "/belt/",
+      "meaning": "thắt lưng",
+      "exampleSentences": [
+        "He wears a belt with his pants.",
+        "This belt is too tight."
+      ]
+    },
+    {
+      "word": "socks",
+      "partOfSpeech": "noun",
+      "phonetic": "/sɑːk/",
+      "meaning": "tất, vớ",
+      "exampleSentences": [
+        "He wears socks every day.",
+        "These socks are very soft."
+      ]
+    },
+    {
+      "word": "shoe",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃuː/",
+      "meaning": "giày",
+      "exampleSentences": [
+        "She bought new shoes.",
+        "These shoes are very comfortable."
+      ]
+    },
+    {
+      "word": "boot",
+      "partOfSpeech": "noun",
+      "phonetic": "/buːt/",
+      "meaning": "ủng, giày cao cổ",
+      "exampleSentences": [
+        "He wears boots in winter.",
+        "These boots are waterproof."
+      ]
+    },
+    {
+      "word": "swimsuit",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈswɪm.suːt/",
+      "meaning": "đồ tắm, đồ bơi",
+      "exampleSentences": [
+        "She bought a new swimsuit.",
+        "This swimsuit is perfect for the beach."
+      ]
+    },
+    {
+      "word": "bra",
+      "partOfSpeech": "noun",
+      "phonetic": "/brɑː/",
+      "meaning": "áo lót",
+      "exampleSentences": [
+        "She wears a bra every day.",
+        "This bra is very comfortable."
+      ]
+    },
+    {
+      "word": "underwear",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʌndərwer/",
+      "meaning": "quần lót",
+      "exampleSentences": [
+        "He bought new underwear.",
+        "Comfortable underwear is important."
+      ]
+    },
+    {
+      "word": "button",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbʌtn/",
+      "meaning": "khuy áo",
+      "exampleSentences": [
+        "This shirt has white buttons.",
+        "She sewed a button on her shirt."
+      ]
+    },
+    {
+      "word": "collar",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɑːlər/",
+      "meaning": "cổ áo",
+      "exampleSentences": [
+        "The shirt's collar is stiff.",
+        "He adjusted his collar."
+      ]
+    },
+    {
+      "word": "hem",
+      "partOfSpeech": "noun",
+      "phonetic": "/hem/",
+      "meaning": "đường viền (áo, quần)",
+      "exampleSentences": [
+        "The hem of my pants is frayed.",
+        "She fixed the hem of the skirt."
+      ]
+    },
+    {
+      "word": "hood",
+      "partOfSpeech": "noun",
+      "phonetic": "/hʊd/",
+      "meaning": "mũ áo",
+      "exampleSentences": [
+        "He put the hood on his jacket.",
+        "The hood protects from rain."
+      ]
+    },
+    {
+      "word": "pocket",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpɑːkɪt/",
+      "meaning": "túi áo, túi quần",
+      "exampleSentences": [
+        "He keeps his keys in his pocket.",
+        "The pocket is too small."
+      ]
+    },
+    {
+      "word": "sleeve",
+      "partOfSpeech": "noun",
+      "phonetic": "/sliːv/",
+      "meaning": "tay áo",
+      "exampleSentences": [
+        "The sleeves are too long.",
+        "She rolled up her sleeves."
+      ]
+    },
+    {
+      "word": "strap",
+      "partOfSpeech": "noun",
+      "phonetic": "/stræp/",
+      "meaning": "dây",
+      "exampleSentences": [
+        "The bag has a long strap.",
+        "Adjust the strap to fit."
+      ]
+    },
+    {
+      "word": "zip",
+      "partOfSpeech": "noun",
+      "phonetic": "/zɪp/",
+      "meaning": "khóa kéo",
+      "exampleSentences": [
+        "The zip is broken.",
+        "Zip up your jacket."
+      ]
+    },
+    {
+      "word": "cuff",
+      "partOfSpeech": "noun",
+      "phonetic": "/kʌf/",
+      "meaning": "cổ tay áo",
+      "exampleSentences": [
+        "The cuffs are stained.",
+        "He folded his cuffs."
+      ]
+    },
+    {
+      "word": "denim",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdenɪm/",
+      "meaning": "vải bò",
+      "exampleSentences": [
+        "She wears a denim jacket.",
+        "Denim is very durable."
+      ]
+    },
+    {
+      "word": "silk",
+      "partOfSpeech": "noun",
+      "phonetic": "/sɪlk/",
+      "meaning": "lụa",
+      "exampleSentences": [
+        "The scarf is made of silk.",
+        "Silk is very smooth."
+      ]
+    },
+    {
+      "word": "corduroy",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɔːrdərɔɪ/",
+      "meaning": "nhung",
+      "exampleSentences": [
+        "He wore corduroy pants.",
+        "Corduroy is warm and soft."
+      ]
+    },
+    {
+      "word": "cotton",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɑːtn/",
+      "meaning": "vải sợi bông",
+      "exampleSentences": [
+        "This shirt is made of cotton.",
+        "Cotton is very comfortable."
+      ]
+    },
+    {
+      "word": "linen",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlɪnɪn/",
+      "meaning": "vải lanh",
+      "exampleSentences": [
+        "Linen shirts are cool in summer.",
+        "This dress is made of linen."
+      ]
+    },
+    {
+      "word": "khaki",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɑːki/",
+      "meaning": "vải kaki",
+      "exampleSentences": [
+        "He wears khaki pants.",
+        "Khaki is a popular color for trousers."
+      ]
+    },
+    {
+      "word": "jewel",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʒuːəl/",
+      "meaning": "đá quý",
+      "exampleSentences": [
+        "She wore a jewel on her ring.",
+        "This jewel is very valuable."
+      ]
+    },
+    {
+      "word": "diamond",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdaɪmənd/",
+      "meaning": "kim cương",
+      "exampleSentences": [
+        "The diamond is in the ring.",
+        "She bought a diamond necklace."
+      ]
+    },
+    {
+      "word": "gold",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɡoʊld/",
+      "meaning": "vàng",
+      "exampleSentences": [
+        "He wears a gold watch.",
+        "This ring is made of gold."
+      ]
+    },
+    {
+      "word": "silver",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɪlvər/",
+      "meaning": "bạc",
+      "exampleSentences": [
+        "She has a silver bracelet.",
+        "Silver jewelry is popular."
+      ]
+    }
+  ]
+}

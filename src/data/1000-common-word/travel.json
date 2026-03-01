@@ -1,0 +1,137 @@
+{
+  "topic": "Du lịch",
+  "vocabs": [
+    {
+      "word": "travel",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈtræv.əl/",
+      "meaning": "đi du lịch"
+    },
+    {
+      "word": "depart",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈpɑːrt/",
+      "meaning": "khởi hành"
+    },
+    {
+      "word": "leave",
+      "partOfSpeech": "verb",
+      "phonetic": "/liːv/",
+      "meaning": "rời đi"
+    },
+    {
+      "word": "arrive",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "đến nơi"
+    },
+    {
+      "word": "airport",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈer.pɔːrt/",
+      "meaning": "sân bay"
+    },
+    {
+      "word": "take off",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈteɪk ɔːf/",
+      "meaning": "cất cánh"
+    },
+    {
+      "word": "land",
+      "partOfSpeech": "verb",
+      "phonetic": "/lænd/",
+      "meaning": "hạ cánh"
+    },
+    {
+      "word": "check in",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈtʃek ɪn/",
+      "meaning": "đăng ký phòng ở khách sạn"
+    },
+    {
+      "word": "check out",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈtʃek aʊt/",
+      "meaning": "trả phòng khách sạn"
+    },
+    {
+      "word": "visit",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈvɪz.ɪt/",
+      "meaning": "thăm viếng"
+    },
+    {
+      "word": "destination",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌdes.təˈneɪ.ʃən/",
+      "meaning": "điểm đến"
+    },
+    {
+      "word": "passenger",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpæs.ən.dʒɚ/",
+      "meaning": "hành khách"
+    },
+    {
+      "word": "tourist",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʊrɪst/",
+      "meaning": "khách du lịch"
+    },
+    {
+      "word": "cruise",
+      "partOfSpeech": "noun",
+      "phonetic": "/kruːz/",
+      "meaning": "chuyến đi chơi trên biển"
+    },
+    {
+      "word": "route",
+      "partOfSpeech": "noun",
+      "phonetic": "/ruːt/ /raʊt/",
+      "meaning": "lộ trình"
+    },
+    {
+      "word": "tour",
+      "partOfSpeech": "noun",
+      "phonetic": "/tʊr/",
+      "meaning": "chuyến đi du lịch"
+    },
+    {
+      "word": "trip",
+      "partOfSpeech": "noun",
+      "phonetic": "/trɪp/",
+      "meaning": "cuộc du ngoạn, dạo chơi"
+    },
+    {
+      "word": "journey",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʒɝː.ni/",
+      "meaning": "hành trình"
+    },
+    {
+      "word": "passport",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpæspɔːrt/",
+      "meaning": "hộ chiếu"
+    },
+    {
+      "word": "ticket",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtɪkɪt/",
+      "meaning": "vé"
+    },
+    {
+      "word": "visa",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈviːzə/",
+      "meaning": "thị thực"
+    },
+    {
+      "word": "luggage",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlʌɡɪdʒ/",
+      "meaning": "hành lý"
+    }
+  ]
+}

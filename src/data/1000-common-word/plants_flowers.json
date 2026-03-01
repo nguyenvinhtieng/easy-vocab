@@ -1,0 +1,203 @@
+{
+  "topic": "Cây và Hoa",
+  "vocabs": [
+    {
+      "word": "rose",
+      "partOfSpeech": "noun",
+      "phonetic": "/rəʊz/",
+      "meaning": "hoa hồng"
+    },
+    {
+      "word": "sunflower",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsʌnflaʊər/",
+      "meaning": "hoa hướng dương"
+    },
+    {
+      "word": "lily",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlɪli/",
+      "meaning": "hoa huệ tây"
+    },
+    {
+      "word": "orchid",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɔːrkɪd/",
+      "meaning": "hoa lan"
+    },
+    {
+      "word": "daisy",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdeɪzi/",
+      "meaning": "hoa cúc"
+    },
+    {
+      "word": "dandelion",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdændɪlaɪən/",
+      "meaning": "hoa bồ công anh"
+    },
+    {
+      "word": "tulip",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtuːlɪp/",
+      "meaning": "hoa tulip"
+    },
+    {
+      "word": "water lily",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɔːtər lɪli/",
+      "meaning": "hoa súng"
+    },
+    {
+      "word": "lotus",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈləʊtəs/",
+      "meaning": "hoa sen"
+    },
+    {
+      "word": "hydrangea",
+      "partOfSpeech": "noun",
+      "phonetic": "/haɪˈdreɪndʒə/",
+      "meaning": "hoa cẩm tú cầu"
+    },
+    {
+      "word": "jasmine",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʒæzmɪn/",
+      "meaning": "hoa nhài"
+    },
+    {
+      "word": "camellia",
+      "partOfSpeech": "noun",
+      "phonetic": "/kəˈmiːliə/",
+      "meaning": "hoa trà"
+    },
+    {
+      "word": "peony",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpiːəni/",
+      "meaning": "hoa mẫu đơn"
+    },
+    {
+      "word": "carnation",
+      "partOfSpeech": "noun",
+      "phonetic": "/kɑːrˈneɪʃn/",
+      "meaning": "hoa cẩm chướng"
+    },
+    {
+      "word": "tree",
+      "partOfSpeech": "noun",
+      "phonetic": "/triː/",
+      "meaning": "cây"
+    },
+    {
+      "word": "leaf",
+      "partOfSpeech": "noun",
+      "phonetic": "/liːf/",
+      "meaning": "lá"
+    },
+    {
+      "word": "flower",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈflaʊər/",
+      "meaning": "hoa"
+    },
+    {
+      "word": "petal",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpetl/",
+      "meaning": "cánh hoa"
+    },
+    {
+      "word": "pollen",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpɑːlən/",
+      "meaning": "phấn hoa"
+    },
+    {
+      "word": "thorn",
+      "partOfSpeech": "noun",
+      "phonetic": "/θɔːrn/",
+      "meaning": "gai"
+    },
+    {
+      "word": "bud",
+      "partOfSpeech": "noun",
+      "phonetic": "/bʌd/",
+      "meaning": "chồi"
+    },
+    {
+      "word": "branch",
+      "partOfSpeech": "noun",
+      "phonetic": "/bræntʃ/",
+      "meaning": "cành cây"
+    },
+    {
+      "word": "sap",
+      "partOfSpeech": "noun",
+      "phonetic": "/sæp/",
+      "meaning": "nhựa cây"
+    },
+    {
+      "word": "root",
+      "partOfSpeech": "noun",
+      "phonetic": "/ruːt/",
+      "meaning": "rễ cây"
+    },
+    {
+      "word": "bark",
+      "partOfSpeech": "noun",
+      "phonetic": "/bɑːrk/",
+      "meaning": "vỏ cây"
+    },
+    {
+      "word": "cactus",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkæktəs/",
+      "meaning": "xương rồng"
+    },
+    {
+      "word": "succulent",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsʌkjələnt/",
+      "meaning": "sen đá"
+    },
+    {
+      "word": "aloe vera",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌæləʊ ˈvɪrə/",
+      "meaning": "nha đam"
+    },
+    {
+      "word": "bamboo",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌbæmˈbuː/",
+      "meaning": "cây tre"
+    },
+    {
+      "word": "suger cane",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʃʊɡər keɪn/",
+      "meaning": "cây mía"
+    },
+    {
+      "word": "pine",
+      "partOfSpeech": "noun",
+      "phonetic": "/paɪn/",
+      "meaning": "cây thông"
+    },
+    {
+      "word": "willow",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɪləʊ/",
+      "meaning": "cây liễu"
+    },
+    {
+      "word": "maple",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmeɪpl/",
+      "meaning": "cây phong"
+    }
+  ]
+}

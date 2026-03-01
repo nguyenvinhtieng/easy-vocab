@@ -1,0 +1,257 @@
+{
+  "topic": "Nấu ăn",
+  "vocabs": [
+    {
+      "word": "ingredient",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪnˈɡriːdiənt/",
+      "meaning": "nguyên liệu"
+    },
+    {
+      "word": "recipe",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈresəpi/",
+      "meaning": "công thức nấu ăn"
+    },
+    {
+      "word": "cooking oil",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkʊkɪŋ ɔɪl/",
+      "meaning": "dầu ăn"
+    },
+    {
+      "word": "salt",
+      "partOfSpeech": "noun",
+      "phonetic": "/sɔːlt/",
+      "meaning": "muối"
+    },
+    {
+      "word": "sugar",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʃʊɡər/",
+      "meaning": "đường"
+    },
+    {
+      "word": "vinegar",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈvɪnɪɡər/",
+      "meaning": "dấm"
+    },
+    {
+      "word": "chili sauce",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʃɪli sɔːs/",
+      "meaning": "tương ớt"
+    },
+    {
+      "word": "ketchup",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈketʃəp/",
+      "meaning": "tương cà chua"
+    },
+    {
+      "word": "raw",
+      "partOfSpeech": "adjective",
+      "phonetic": "/rɑː/",
+      "meaning": "sống"
+    },
+    {
+      "word": "wash",
+      "partOfSpeech": "verb",
+      "phonetic": "/wɑːʃ/",
+      "meaning": "rửa"
+    },
+    {
+      "word": "peel",
+      "partOfSpeech": "verb",
+      "phonetic": "/piːl/",
+      "meaning": "bóc vỏ"
+    },
+    {
+      "word": "chop",
+      "partOfSpeech": "verb",
+      "phonetic": "/tʃɑːp/",
+      "meaning": "chặt, bổ"
+    },
+    {
+      "word": "chunk",
+      "partOfSpeech": "verb,noun",
+      "phonetic": "/tʃʌŋk/",
+      "meaning": "cắt khúc, khúc"
+    },
+    {
+      "word": "fillet",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈfɪl.ɪt/",
+      "meaning": "róc xương, lạng thịt"
+    },
+    {
+      "word": "slice",
+      "partOfSpeech": "verb",
+      "phonetic": "/slaɪs/",
+      "meaning": "thái"
+    },
+    {
+      "word": "dice",
+      "partOfSpeech": "verb",
+      "phonetic": "/daɪs/",
+      "meaning": "thái hạt lựu"
+    },
+    {
+      "word": "mince",
+      "partOfSpeech": "verb",
+      "phonetic": "/mɪns/",
+      "meaning": "băm, xay"
+    },
+    {
+      "word": "mash",
+      "partOfSpeech": "verb",
+      "phonetic": "/mæʃ/",
+      "meaning": "nghiền, làm nát"
+    },
+    {
+      "word": "blend",
+      "partOfSpeech": "verb",
+      "phonetic": "/blend/",
+      "meaning": "trộn"
+    },
+    {
+      "word": "boil",
+      "partOfSpeech": "verb",
+      "phonetic": "/bɔɪl/",
+      "meaning": "đun sôi, luộc"
+    },
+    {
+      "word": "steam",
+      "partOfSpeech": "verb",
+      "phonetic": "/stiːm/",
+      "meaning": "hấp"
+    },
+    {
+      "word": "stew",
+      "partOfSpeech": "verb",
+      "phonetic": "/stuː/",
+      "meaning": "hầm, ninh nhừ"
+    },
+    {
+      "word": "blanch",
+      "partOfSpeech": "verb",
+      "phonetic": "/blæntʃ/",
+      "meaning": "chần thức ăn"
+    },
+    {
+      "word": "stir",
+      "partOfSpeech": "verb",
+      "phonetic": "/stɝː/",
+      "meaning": "xào, quấy"
+    },
+    {
+      "word": "fry",
+      "partOfSpeech": "verb",
+      "phonetic": "/fraɪ/",
+      "meaning": "rán"
+    },
+    {
+      "word": "bake",
+      "partOfSpeech": "verb",
+      "phonetic": "/beɪk/",
+      "meaning": "nướng (bánh)"
+    },
+    {
+      "word": "roast",
+      "partOfSpeech": "verb",
+      "phonetic": "/roʊst/",
+      "meaning": "quay, nướng"
+    },
+    {
+      "word": "grill",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɡrɪl/",
+      "meaning": "nướng"
+    },
+    {
+      "word": "steep",
+      "partOfSpeech": "verb",
+      "phonetic": "/stiːp/",
+      "meaning": "ngâm"
+    },
+    {
+      "word": "dip",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪp/",
+      "meaning": "nhúng"
+    },
+    {
+      "word": "brew",
+      "partOfSpeech": "verb",
+      "phonetic": "/bruː/",
+      "meaning": "ủ (trà, rượu…)"
+    },
+    {
+      "word": "ferment",
+      "partOfSpeech": "verb",
+      "phonetic": "/fɚˈment/",
+      "meaning": "lên men"
+    },
+    {
+      "word": "chill",
+      "partOfSpeech": "verb",
+      "phonetic": "/tʃɪl/",
+      "meaning": "làm tan giá, rã đông"
+    },
+    {
+      "word": "cool",
+      "partOfSpeech": "verb",
+      "phonetic": "/kuːl/",
+      "meaning": "để nguội"
+    },
+    {
+      "word": "melt",
+      "partOfSpeech": "verb",
+      "phonetic": "/melt/",
+      "meaning": "làm tan chảy"
+    },
+    {
+      "word": "flavor",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈfleɪ.vɚ/",
+      "meaning": "tẩm gia vị"
+    },
+    {
+      "word": "marinate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈmer.ə.neɪt/",
+      "meaning": "ướp"
+    },
+    {
+      "word": "salt",
+      "partOfSpeech": "verb",
+      "phonetic": "/sɑːlt/",
+      "meaning": "ướp gia vị, rắc muối"
+    },
+    {
+      "word": "garnish",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈɡɑːr.nɪʃ/",
+      "meaning": "trang trí, bày biện"
+    },
+    {
+      "word": "press",
+      "partOfSpeech": "verb",
+      "phonetic": "/pres/",
+      "meaning": "ấn, ép"
+    },
+    {
+      "word": "refrigerate",
+      "partOfSpeech": "verb",
+      "phonetic": "/rɪˈfrɪdʒ.ə.reɪt/",
+      "meaning": "ướp lạnh"
+    },
+    {
+      "word": "roll",
+      "partOfSpeech": "verb",
+      "phonetic": "/roʊl/",
+      "meaning": "cuộn"
+    }
+  ]
+}

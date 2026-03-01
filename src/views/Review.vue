@@ -60,6 +60,15 @@ function partOfSpeechLabel(pos: string | string[]): string {
   return Array.isArray(pos) ? pos.join(', ') : pos
 }
 
+/** Split sentence into segments and mark occurrences of the learning word for highlight. */
+function highlightWordInSentence(sentence: string, word: string): { text: string; highlight: boolean }[] {
+  if (!word?.trim()) return [{ text: sentence, highlight: false }]
+  const escaped = word.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  const regex = new RegExp(`(${escaped})`, 'gi')
+  const parts = sentence.split(regex)
+  return parts.map((text, i) => ({ text, highlight: i % 2 === 1 }))
+}
+
 function toggleFlip() {
   flipped.value = !flipped.value
 }
@@ -337,7 +346,12 @@ onMounted(() => {
               <div v-if="currentDisplay.vocab?.exampleSentences?.length" class="mt-auto text-left pt-2 border-t border-white/25">
                 <p class="font-semibold mb-1.5 text-sm m-0 text-white">Examples</p>
                 <ul class="m-0 pl-4 space-y-1 text-sm leading-relaxed text-white/95">
-                  <li v-for="(s, i) in currentDisplay.vocab.exampleSentences" :key="i">{{ s }}</li>
+                  <li v-for="(s, i) in currentDisplay.vocab.exampleSentences" :key="i">
+                    <template v-for="(seg, j) in highlightWordInSentence(s, currentDisplay.word)" :key="j">
+                      <span v-if="seg.highlight" class="bg-amber-300/90 text-slate-900 font-semibold rounded px-0.5">{{ seg.text }}</span>
+                      <template v-else>{{ seg.text }}</template>
+                    </template>
+                  </li>
                 </ul>
               </div>
             </div>

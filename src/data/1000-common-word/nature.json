@@ -1,0 +1,415 @@
+{
+  "topic": "Thiên nhiên",
+  "vocabs": [
+    {
+      "word": "forest",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfɔːrɪst/",
+      "meaning": "rừng",
+      "exampleSentences": [
+        "Many animals live in the forest.",
+        "We went hiking in the forest."
+      ]
+    },
+    {
+      "word": "rainforest",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈreɪnfɔːrɪst/",
+      "meaning": "rừng mưa nhiệt đới",
+      "exampleSentences": [
+        "The Amazon is a large rainforest.",
+        "Rainforests are full of biodiversity."
+      ]
+    },
+    {
+      "word": "mountain",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmaʊn.tən/",
+      "meaning": "núi, dãy núi",
+      "exampleSentences": [
+        "They climbed the mountain.",
+        "Snow covers the mountain in winter."
+      ]
+    },
+    {
+      "word": "highland",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhaɪ.lənd/",
+      "meaning": "cao nguyên",
+      "exampleSentences": [
+        "The highland region is cool.",
+        "Farmers live in the highland area."
+      ]
+    },
+    {
+      "word": "hill",
+      "partOfSpeech": "noun",
+      "phonetic": "/hɪl/",
+      "meaning": "đồi",
+      "exampleSentences": [
+        "The house is on a hill.",
+        "Children rolled down the hill."
+      ]
+    },
+    {
+      "word": "valley",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈvæl.i/",
+      "meaning": "thung lũng, châu thổ, lưu vực",
+      "exampleSentences": [
+        "The river flows through the valley.",
+        "They camped in the valley."
+      ]
+    },
+    {
+      "word": "cave",
+      "partOfSpeech": "noun",
+      "phonetic": "/keɪv/",
+      "meaning": "hang động",
+      "exampleSentences": [
+        "The bear lives in a cave.",
+        "They explored a dark cave."
+      ]
+    },
+    {
+      "word": "rock",
+      "partOfSpeech": "noun",
+      "phonetic": "/rɑːk/",
+      "meaning": "đá",
+      "exampleSentences": [
+        "The rock is very heavy.",
+        "He threw a small rock into the water."
+      ]
+    },
+    {
+      "word": "slope",
+      "partOfSpeech": "noun",
+      "phonetic": "/sloʊp/",
+      "meaning": "dốc",
+      "exampleSentences": [
+        "The slope is very steep.",
+        "They skied down the slope."
+      ]
+    },
+    {
+      "word": "volcano",
+      "partOfSpeech": "noun",
+      "phonetic": "/vɑːlˈkeɪ.noʊ/",
+      "meaning": "núi lửa",
+      "exampleSentences": [
+        "The volcano is active.",
+        "Lava comes from a volcano."
+      ]
+    },
+    {
+      "word": "eruption",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪˈrʌp.ʃən/",
+      "meaning": "sự phun trào (núi lửa)",
+      "exampleSentences": [
+        "The eruption caused damage.",
+        "People evacuated after the eruption."
+      ]
+    },
+    {
+      "word": "waterfall",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɑː.t̬ɚ.fɑːl/",
+      "meaning": "thác nước",
+      "exampleSentences": [
+        "The waterfall is beautiful.",
+        "Tourists visit the waterfall every year."
+      ]
+    },
+    {
+      "word": "canyon",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkænjən/",
+      "meaning": "hẻm núi",
+      "exampleSentences": [
+        "The canyon is very deep.",
+        "They hiked through the canyon."
+      ]
+    },
+    {
+      "word": "cliff",
+      "partOfSpeech": "noun",
+      "phonetic": "/klɪf/",
+      "meaning": "vách đá",
+      "exampleSentences": [
+        "The house stands on a cliff.",
+        "Be careful near the cliff."
+      ]
+    },
+    {
+      "word": "bush",
+      "partOfSpeech": "noun",
+      "phonetic": "/bʊʃ/",
+      "meaning": "bụi cây, bụi rậm",
+      "exampleSentences": [
+        "The cat hid behind the bush.",
+        "There are many bushes in the garden."
+      ]
+    },
+    {
+      "word": "desert",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdez.ɚt/",
+      "meaning": "sa mạc, hoang mạc",
+      "exampleSentences": [
+        "The Sahara is a vast desert.",
+        "Deserts are very dry."
+      ]
+    },
+    {
+      "word": "oasis",
+      "partOfSpeech": "noun",
+      "phonetic": "/əʊˈeɪsɪs/",
+      "meaning": "ốc đảo",
+      "exampleSentences": [
+        "They found an oasis in the desert.",
+        "An oasis provides water and shade."
+      ]
+    },
+    {
+      "word": "savanna",
+      "partOfSpeech": "noun",
+      "phonetic": "/səˈvæn.ə/",
+      "meaning": "thảo nguyên",
+      "exampleSentences": [
+        "Lions live in the savanna.",
+        "The savanna has tall grass."
+      ]
+    },
+    {
+      "word": "sand dune",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsænd duːn/",
+      "meaning": "đụn cát",
+      "exampleSentences": [
+        "The wind shaped the sand dune.",
+        "Children played on the sand dune."
+      ]
+    },
+    {
+      "word": "coal",
+      "partOfSpeech": "noun",
+      "phonetic": "/koʊl/",
+      "meaning": "than đá",
+      "exampleSentences": [
+        "Coal is used as fuel.",
+        "The factory burns coal."
+      ]
+    },
+    {
+      "word": "fossil",
+      "partOfSpeech": "noun/adjective",
+      "phonetic": "/ˈfɑː.səl/",
+      "meaning": "hóa thạch; thuộc về hóa thạch",
+      "exampleSentences": [
+        "They discovered a dinosaur fossil.",
+        "Fossil fuels harm the environment."
+      ]
+    },
+    {
+      "word": "soil",
+      "partOfSpeech": "noun",
+      "phonetic": "/sɔɪl/",
+      "meaning": "đất trồng",
+      "exampleSentences": [
+        "Plants grow in rich soil.",
+        "The soil is dry."
+      ]
+    },
+    {
+      "word": "pond",
+      "partOfSpeech": "noun",
+      "phonetic": "/pɑːnd/",
+      "meaning": "ao nước",
+      "exampleSentences": [
+        "Fish swim in the pond.",
+        "There is a small pond in the park."
+      ]
+    },
+    {
+      "word": "river",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈrɪv.ɚ/",
+      "meaning": "dòng sông",
+      "exampleSentences": [
+        "The river flows to the sea.",
+        "They sailed on the river."
+      ]
+    },
+    {
+      "word": "riverbank",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈrɪvəˌbæŋk/",
+      "meaning": "bờ sông, bãi sông",
+      "exampleSentences": [
+        "They sat on the riverbank.",
+        "Trees grow along the riverbank."
+      ]
+    },
+    {
+      "word": "creek",
+      "partOfSpeech": "noun",
+      "phonetic": "/kriːk/",
+      "meaning": "lạch, nhánh sông",
+      "exampleSentences": [
+        "A small creek runs behind the house.",
+        "Children played near the creek."
+      ]
+    },
+    {
+      "word": "sea",
+      "partOfSpeech": "noun",
+      "phonetic": "/siː/",
+      "meaning": "biển",
+      "exampleSentences": [
+        "The sea is calm today.",
+        "They sailed across the sea."
+      ]
+    },
+    {
+      "word": "ocean",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈəʊʃn/",
+      "meaning": "đại dương",
+      "exampleSentences": [
+        "The Pacific Ocean is vast.",
+        "Many creatures live in the ocean."
+      ]
+    },
+    {
+      "word": "reef",
+      "partOfSpeech": "noun",
+      "phonetic": "/riːf/",
+      "meaning": "rặng đá (dưới biển)",
+      "exampleSentences": [
+        "The boat hit the reef.",
+        "Fish swim near the reef."
+      ]
+    },
+    {
+      "word": "coral reef",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɔːrəl riːf/",
+      "meaning": "rặng san hô",
+      "exampleSentences": [
+        "The coral reef is colorful.",
+        "Divers explore the coral reef."
+      ]
+    },
+    {
+      "word": "beach",
+      "partOfSpeech": "noun",
+      "phonetic": "/biːtʃ/",
+      "meaning": "bãi biển",
+      "exampleSentences": [
+        "We walked along the beach.",
+        "Children built sandcastles on the beach."
+      ]
+    },
+    {
+      "word": "bay",
+      "partOfSpeech": "noun",
+      "phonetic": "/beɪ/",
+      "meaning": "vịnh",
+      "exampleSentences": [
+        "The boat is in the bay.",
+        "The bay is quiet and peaceful."
+      ]
+    },
+    {
+      "word": "seashore",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsiːʃɔːr/",
+      "meaning": "bờ biển",
+      "exampleSentences": [
+        "They collected shells on the seashore.",
+        "Waves hit the seashore."
+      ]
+    },
+    {
+      "word": "meadow",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmed.oʊ/",
+      "meaning": "đồng cỏ, bãi cỏ",
+      "exampleSentences": [
+        "Cows graze in the meadow.",
+        "The meadow is full of flowers."
+      ]
+    },
+    {
+      "word": "mud",
+      "partOfSpeech": "noun",
+      "phonetic": "/mʌd/",
+      "meaning": "bùn",
+      "exampleSentences": [
+        "His shoes are covered in mud.",
+        "Children played in the mud."
+      ]
+    },
+    {
+      "word": "peninsula",
+      "partOfSpeech": "noun",
+      "phonetic": "/pəˈnɪn.sə.lə/",
+      "meaning": "bán đảo",
+      "exampleSentences": [
+        "Italy is a peninsula.",
+        "They traveled across the peninsula."
+      ]
+    },
+    {
+      "word": "island",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈaɪlənd/",
+      "meaning": "đảo",
+      "exampleSentences": [
+        "They visited a tropical island.",
+        "The island is small but beautiful."
+      ]
+    },
+    {
+      "word": "continent",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɑːntɪnənt/",
+      "meaning": "châu lục",
+      "exampleSentences": [
+        "Asia is the largest continent.",
+        "They traveled to another continent."
+      ]
+    },
+    {
+      "word": "environment",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪnˈvaɪ.rən.mənt/",
+      "meaning": "môi trường",
+      "exampleSentences": [
+        "We must protect the environment.",
+        "Pollution harms the environment."
+      ]
+    },
+    {
+      "word": "planet",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈplæn.ɪt/",
+      "meaning": "hành tinh",
+      "exampleSentences": [
+        "Earth is our planet.",
+        "Mars is a red planet."
+      ]
+    },
+    {
+      "word": "scenery",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsiː.nɚ.i/",
+      "meaning": "phong cảnh, cảnh vật",
+      "exampleSentences": [
+        "The scenery is breathtaking.",
+        "They admired the mountain scenery."
+      ]
+    }
+  ]
+}

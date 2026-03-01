@@ -1,0 +1,305 @@
+{
+  "topic": "Đồ ăn",
+  "vocabs": [
+    {
+      "word": "soup",
+      "partOfSpeech": "noun",
+      "phonetic": "/suːp/",
+      "meaning": "món súp, món canh",
+      "exampleSentences": [
+        "I had soup for lunch.",
+        "This soup is very hot."
+      ]
+    },
+    {
+      "word": "salad",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsæl.əd/",
+      "meaning": "rau trộn, nộm rau",
+      "exampleSentences": [
+        "She ordered a salad.",
+        "This salad is fresh and healthy."
+      ]
+    },
+    {
+      "word": "bread",
+      "partOfSpeech": "noun",
+      "phonetic": "/bred/",
+      "meaning": "bánh mì",
+      "exampleSentences": [
+        "I eat bread every morning.",
+        "Can you buy some bread?"
+      ]
+    },
+    {
+      "word": "sausage",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɑː.sɪdʒ/",
+      "meaning": "xúc xích",
+      "exampleSentences": [
+        "He likes sausage for breakfast.",
+        "This sausage tastes good."
+      ]
+    },
+    {
+      "word": "hot dog",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhɑːt ˌdɑːɡ/",
+      "meaning": "bánh mỳ kẹp xúc xích",
+      "exampleSentences": [
+        "I bought a hot dog.",
+        "She ate two hot dogs."
+      ]
+    },
+    {
+      "word": "bacon",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbeɪ.kən/",
+      "meaning": "thịt xông khói",
+      "exampleSentences": [
+        "I like bacon and eggs.",
+        "This bacon is crispy."
+      ]
+    },
+    {
+      "word": "ham",
+      "partOfSpeech": "noun",
+      "phonetic": "/hæm/",
+      "meaning": "thịt giăm bông",
+      "exampleSentences": [
+        "He made a ham sandwich.",
+        "This ham is delicious."
+      ]
+    },
+    {
+      "word": "egg",
+      "partOfSpeech": "noun",
+      "phonetic": "/eɡ/",
+      "meaning": "trứng",
+      "exampleSentences": [
+        "She boiled an egg.",
+        "I eat eggs every day."
+      ]
+    },
+    {
+      "word": "pork",
+      "partOfSpeech": "noun",
+      "phonetic": "/pɔːrk/",
+      "meaning": "thịt lợn",
+      "exampleSentences": [
+        "He ordered pork with rice.",
+        "Pork is popular in many dishes."
+      ]
+    },
+    {
+      "word": "beef",
+      "partOfSpeech": "noun",
+      "phonetic": "/biːf/",
+      "meaning": "thịt bò",
+      "exampleSentences": [
+        "I prefer beef to pork.",
+        "This beef is very tender."
+      ]
+    },
+    {
+      "word": "chicken",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʃɪk.ɪn/",
+      "meaning": "thịt gà",
+      "exampleSentences": [
+        "We had grilled chicken.",
+        "Chicken is my favorite meat."
+      ]
+    },
+    {
+      "word": "duck",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʌk/",
+      "meaning": "thịt vịt",
+      "exampleSentences": [
+        "They cooked roast duck.",
+        "Duck tastes different from chicken."
+      ]
+    },
+    {
+      "word": "lamb",
+      "partOfSpeech": "noun",
+      "phonetic": "/læm/",
+      "meaning": "thịt cừu",
+      "exampleSentences": [
+        "He ordered lamb for dinner.",
+        "This lamb is very soft."
+      ]
+    },
+    {
+      "word": "ribs",
+      "partOfSpeech": "noun",
+      "phonetic": "/rɪbz/",
+      "meaning": "sườn",
+      "exampleSentences": [
+        "The ribs are well cooked.",
+        "I love barbecue ribs."
+      ]
+    },
+    {
+      "word": "seafood",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsiː.fuːd/",
+      "meaning": "hải sản",
+      "exampleSentences": [
+        "This restaurant serves seafood.",
+        "Seafood is rich in protein."
+      ]
+    },
+    {
+      "word": "salmon",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsæm.ən/",
+      "meaning": "cá hồi",
+      "exampleSentences": [
+        "I like grilled salmon.",
+        "Salmon is good for your health."
+      ]
+    },
+    {
+      "word": "tuna",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtuː.nə/",
+      "meaning": "cá ngừ",
+      "exampleSentences": [
+        "She made a tuna sandwich.",
+        "This tuna is very fresh."
+      ]
+    },
+    {
+      "word": "shrimp",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃrɪmp/",
+      "meaning": "tôm",
+      "exampleSentences": [
+        "We had shrimp for dinner.",
+        "These shrimp are delicious."
+      ]
+    },
+    {
+      "word": "pizza",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpiːt.sə/",
+      "meaning": "bánh pizza",
+      "exampleSentences": [
+        "They ordered a large pizza.",
+        "Pizza is my favorite food."
+      ]
+    },
+    {
+      "word": "beefsteak",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbiːf.steɪk/",
+      "meaning": "bít tết",
+      "exampleSentences": [
+        "He had beefsteak for dinner.",
+        "This beefsteak is cooked medium rare."
+      ]
+    },
+    {
+      "word": "French fries",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfrentʃ ˈfraɪz/",
+      "meaning": "khoai tây chiên",
+      "exampleSentences": [
+        "I ordered French fries.",
+        "These French fries are crispy."
+      ]
+    },
+    {
+      "word": "hamburger",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhæmˌbɝː.ɡɚ/",
+      "meaning": "hăm bơ gơ",
+      "exampleSentences": [
+        "He ate a hamburger.",
+        "This hamburger is very big."
+      ]
+    },
+    {
+      "word": "chicken nugget",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʃɪk.ɪn ˈnʌɡ.ɪt/",
+      "meaning": "gà viên chiên",
+      "exampleSentences": [
+        "Children love chicken nuggets.",
+        "She ordered six chicken nuggets."
+      ]
+    },
+    {
+      "word": "sandwich",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsæn.wɪtʃ/",
+      "meaning": "bánh mỳ kẹp",
+      "exampleSentences": [
+        "I made a sandwich.",
+        "This sandwich is tasty."
+      ]
+    },
+    {
+      "word": "pancake",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpæn.keɪk/",
+      "meaning": "bánh kếp, bánh xèo",
+      "exampleSentences": [
+        "She made pancakes for breakfast.",
+        "I like pancakes with honey."
+      ]
+    },
+    {
+      "word": "noodle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnuː.dəl/",
+      "meaning": "mỳ, bún",
+      "exampleSentences": [
+        "I had a bowl of noodles.",
+        "These noodles are spicy."
+      ]
+    },
+    {
+      "word": "pasta",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpɑː.stə/",
+      "meaning": "mỳ Ý",
+      "exampleSentences": [
+        "She cooked pasta for dinner.",
+        "This pasta tastes amazing."
+      ]
+    },
+    {
+      "word": "cheese",
+      "partOfSpeech": "noun",
+      "phonetic": "/tʃiːz/",
+      "meaning": "pho mát",
+      "exampleSentences": [
+        "I like cheese on my pizza.",
+        "This cheese is very soft."
+      ]
+    },
+    {
+      "word": "hot pot",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhɑːt ˌpɑːt/",
+      "meaning": "lẩu",
+      "exampleSentences": [
+        "We had hot pot last night.",
+        "Hot pot is popular in winter."
+      ]
+    },
+    {
+      "word": "porridge",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpɔːr.ɪdʒ/",
+      "meaning": "cháo",
+      "exampleSentences": [
+        "She eats porridge for breakfast.",
+        "This porridge is warm and soft."
+      ]
+    }
+  ]
+}

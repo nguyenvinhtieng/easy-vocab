@@ -1,0 +1,365 @@
+{
+  "topic": "Giải trí",
+  "vocabs": [
+    {
+      "word": "activity",
+      "partOfSpeech": "noun",
+      "phonetic": "/ækˈtɪv.ə.t̬i/",
+      "meaning": "hoạt động",
+      "exampleSentences": [
+        "Swimming is a fun activity.",
+        "We joined many outdoor activities."
+      ]
+    },
+    {
+      "word": "art gallery",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɑːrt ˌɡæl.ɚ.i/",
+      "meaning": "phòng trưng bày tranh",
+      "exampleSentences": [
+        "We visited an art gallery yesterday.",
+        "The art gallery has many famous paintings."
+      ]
+    },
+    {
+      "word": "exhibition",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌek.səˈbɪʃ.ən/",
+      "meaning": "buổi triển lãm, trưng bày",
+      "exampleSentences": [
+        "The exhibition starts tomorrow.",
+        "There is a science exhibition at school."
+      ]
+    },
+    {
+      "word": "museum",
+      "partOfSpeech": "noun",
+      "phonetic": "/mjuːˈziː.əm/",
+      "meaning": "bảo tàng",
+      "exampleSentences": [
+        "They went to the museum.",
+        "The museum displays ancient artifacts."
+      ]
+    },
+    {
+      "word": "concert",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɑːn.sɚt/",
+      "meaning": "buổi hòa nhạc",
+      "exampleSentences": [
+        "We enjoyed the concert last night.",
+        "She bought tickets for the concert."
+      ]
+    },
+    {
+      "word": "ballet",
+      "partOfSpeech": "noun",
+      "phonetic": "/bælˈeɪ/",
+      "meaning": "ba lê, kịch múa",
+      "exampleSentences": [
+        "She learns ballet.",
+        "The ballet performance was beautiful."
+      ]
+    },
+    {
+      "word": "opera",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɑː.pɚ.ə/",
+      "meaning": "nhạc kịch",
+      "exampleSentences": [
+        "They watched an opera.",
+        "The opera lasted three hours."
+      ]
+    },
+    {
+      "word": "bar",
+      "partOfSpeech": "noun",
+      "phonetic": "/bɑːr/",
+      "meaning": "quán rượu, quầy bán rượu",
+      "exampleSentences": [
+        "They met at a bar.",
+        "The bar closes at midnight."
+      ]
+    },
+    {
+      "word": "pub",
+      "partOfSpeech": "noun",
+      "phonetic": "/pʌb/",
+      "meaning": "nơi phục vụ đồ uống có cồn",
+      "exampleSentences": [
+        "We had dinner at a pub.",
+        "The pub is very popular."
+      ]
+    },
+    {
+      "word": "nightclub",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnaɪt.klʌb/",
+      "meaning": "hộp đêm",
+      "exampleSentences": [
+        "They went dancing at a nightclub.",
+        "The nightclub opens at 9 p.m."
+      ]
+    },
+    {
+      "word": "restaurant",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈres.tə.rɑːnt/",
+      "meaning": "nhà hàng ăn uống",
+      "exampleSentences": [
+        "We ate at a restaurant.",
+        "This restaurant serves Italian food."
+      ]
+    },
+    {
+      "word": "café",
+      "partOfSpeech": "noun",
+      "phonetic": "/kæfˈeɪ/",
+      "meaning": "quán cà phê",
+      "exampleSentences": [
+        "She works at a café.",
+        "Let's meet at the café."
+      ]
+    },
+    {
+      "word": "film",
+      "partOfSpeech": "noun",
+      "phonetic": "/fɪlm/",
+      "meaning": "phim, phim ảnh",
+      "exampleSentences": [
+        "We watched a film.",
+        "That film was exciting."
+      ]
+    },
+    {
+      "word": "cinema",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɪn.ə.mə/",
+      "meaning": "rạp chiếu phim",
+      "exampleSentences": [
+        "They went to the cinema.",
+        "The cinema is near my house."
+      ]
+    },
+    {
+      "word": "theater",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈθiː.ə.t̬ɚ/",
+      "meaning": "nhà hát, rạp hát",
+      "exampleSentences": [
+        "We saw a play at the theater.",
+        "The theater is crowded tonight."
+      ]
+    },
+    {
+      "word": "circus",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɝː.kəs/",
+      "meaning": "rạp xiếc",
+      "exampleSentences": [
+        "The children love the circus.",
+        "We saw many animals at the circus."
+      ]
+    },
+    {
+      "word": "cosplay",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɑːz.pleɪ/",
+      "meaning": "trò chơi hóa trang",
+      "exampleSentences": [
+        "She enjoys cosplay.",
+        "The cosplay event was fun."
+      ]
+    },
+    {
+      "word": "stadium",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsteɪ.di.əm/",
+      "meaning": "sân vận động",
+      "exampleSentences": [
+        "The match is at the stadium.",
+        "The stadium can hold 50,000 people."
+      ]
+    },
+    {
+      "word": "zoo",
+      "partOfSpeech": "noun",
+      "phonetic": "/zuː/",
+      "meaning": "sở thú",
+      "exampleSentences": [
+        "They visited the zoo.",
+        "The zoo has many rare animals."
+      ]
+    },
+    {
+      "word": "park",
+      "partOfSpeech": "noun",
+      "phonetic": "/pɑːrk/",
+      "meaning": "công viên",
+      "exampleSentences": [
+        "We walked in the park.",
+        "Children are playing in the park."
+      ]
+    },
+    {
+      "word": "handcraft",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhænd.kræft/",
+      "meaning": "nghề thủ công, hoạt động thủ công",
+      "exampleSentences": [
+        "She sells handcraft products.",
+        "Handcraft is a traditional skill."
+      ]
+    },
+    {
+      "word": "leisure centre",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈliː.ʒɚ ˌsen.t̬ɚ/",
+      "meaning": "khu vui chơi, trung tâm giải trí",
+      "exampleSentences": [
+        "We go to the leisure centre on weekends.",
+        "The leisure centre has a swimming pool."
+      ]
+    },
+    {
+      "word": "bowling",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈboʊ.lɪŋ/",
+      "meaning": "trò chơi lăn bóng, bowling",
+      "exampleSentences": [
+        "They went bowling.",
+        "Bowling is a fun game."
+      ]
+    },
+    {
+      "word": "monopoly",
+      "partOfSpeech": "noun",
+      "phonetic": "/məˈnɑː.pəl.i/",
+      "meaning": "trò chơi cờ tỷ phú",
+      "exampleSentences": [
+        "We played Monopoly last night.",
+        "Monopoly is a popular board game."
+      ]
+    },
+    {
+      "word": "puzzle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpʌz.əl/",
+      "meaning": "trò chơi xếp hình",
+      "exampleSentences": [
+        "She is solving a puzzle.",
+        "This puzzle is difficult."
+      ]
+    },
+    {
+      "word": "quiz",
+      "partOfSpeech": "noun",
+      "phonetic": "/kwɪz/",
+      "meaning": "trò chơi đố vui",
+      "exampleSentences": [
+        "We had a quiz in class.",
+        "The quiz was easy."
+      ]
+    },
+    {
+      "word": "library",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlaɪbreri/",
+      "meaning": "thư viện",
+      "exampleSentences": [
+        "She studies at the library.",
+        "The library is quiet."
+      ]
+    },
+    {
+      "word": "fishing",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfɪʃɪŋ/",
+      "meaning": "câu cá",
+      "exampleSentences": [
+        "They went fishing.",
+        "Fishing is relaxing."
+      ]
+    },
+    {
+      "word": "gardening",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɡɑːdnɪŋ/",
+      "meaning": "làm vườn",
+      "exampleSentences": [
+        "My father enjoys gardening.",
+        "Gardening takes patience."
+      ]
+    },
+    {
+      "word": "hiking",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhaɪkɪŋ/",
+      "meaning": "leo núi",
+      "exampleSentences": [
+        "We went hiking in the mountains.",
+        "Hiking is good exercise."
+      ]
+    },
+    {
+      "word": "reading",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈriːdɪŋ/",
+      "meaning": "đọc sách",
+      "exampleSentences": [
+        "Reading is my hobby.",
+        "She enjoys reading novels."
+      ]
+    },
+    {
+      "word": "music",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmjuːzɪk/",
+      "meaning": "âm nhạc",
+      "exampleSentences": [
+        "I love music.",
+        "Music makes me happy."
+      ]
+    },
+    {
+      "word": "poetry",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpəʊətri/",
+      "meaning": "thơ ca",
+      "exampleSentences": [
+        "He writes poetry.",
+        "Poetry can express deep feelings."
+      ]
+    },
+    {
+      "word": "shopping",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʃɑːpɪŋ/",
+      "meaning": "mua sắm",
+      "exampleSentences": [
+        "They went shopping.",
+        "Shopping is fun."
+      ]
+    },
+    {
+      "word": "painting",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpeɪntɪŋ/",
+      "meaning": "vẽ tranh",
+      "exampleSentences": [
+        "She likes painting.",
+        "Painting helps me relax."
+      ]
+    },
+    {
+      "word": "photography",
+      "partOfSpeech": "noun",
+      "phonetic": "/fəˈtɑːɡrəfi/",
+      "meaning": "nhiếp ảnh",
+      "exampleSentences": [
+        "Photography is his hobby.",
+        "She studies photography."
+      ]
+    }
+  ]
+}

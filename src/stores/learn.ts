@@ -20,7 +20,7 @@ function loadFromStorage(): LearnItem[] {
           topicId = (i as { topicId: string }).topicId
         } else if ('topic' in i && typeof (i as { topic: unknown }).topic === 'string') {
           const name = (i as { topic: string }).topic
-          topicId = topics.find((t) => t.name === name)?.id ?? name
+          topicId = topics.find((t) => t.name === name)?.topicKey ?? name
         } else {
           topicId = 'imported'
         }
@@ -104,7 +104,7 @@ export const useLearnStore = defineStore('learn', {
           } else if ('topic' in i && typeof (i as { topic: unknown }).topic === 'string') {
             const name = (i as { topic: string }).topic
             const found = topics.find((t) => t.name === name)
-            topicId = found?.id ?? name
+            topicId = found?.topicKey ?? name
           } else {
             topicId = 'imported'
           }

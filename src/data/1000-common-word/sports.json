@@ -1,0 +1,125 @@
+{
+  "topic": "Thể thao",
+  "vocabs": [
+    {
+      "word": "football",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsɑːkər/ /ˈfʊtbɔːl/",
+      "meaning": "bóng đá"
+    },
+    {
+      "word": "American football",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˌmerɪkən ˈfʊtbɔːl/",
+      "meaning": "bóng bầu dục"
+    },
+    {
+      "word": "volleyball",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈvɑːlibɔːl/",
+      "meaning": "bóng chuyền"
+    },
+    {
+      "word": "swimming",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈswɪmɪŋ/",
+      "meaning": "bơi lội"
+    },
+    {
+      "word": "tennis",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtenɪs/",
+      "meaning": "quần vợt"
+    },
+    {
+      "word": "badminton",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbædmɪntən/",
+      "meaning": "cầu lông"
+    },
+    {
+      "word": "basketball",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbæskɪtbɔːl/",
+      "meaning": "bóng rổ"
+    },
+    {
+      "word": "table tennis",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈteɪbl tenɪs/",
+      "meaning": "bóng bàn"
+    },
+    {
+      "word": "baseball",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbeɪsbɔːl/",
+      "meaning": "bóng chày"
+    },
+    {
+      "word": "athletics",
+      "partOfSpeech": "noun",
+      "phonetic": "/æθˈletɪks/",
+      "meaning": "điền kinh"
+    },
+    {
+      "word": "martial arts",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌmɑːrʃl ˈɑːrt/",
+      "meaning": "võ thuật"
+    },
+    {
+      "word": "archery",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɑːrtʃəri/",
+      "meaning": "bắn cung"
+    },
+    {
+      "word": "cycling",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsaɪklɪŋ/",
+      "meaning": "đua xe đạp"
+    },
+    {
+      "word": "boxing",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbɑːksɪŋ/",
+      "meaning": "quyền anh"
+    },
+    {
+      "word": "diving",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdaɪvɪŋ/",
+      "meaning": "nhảy cầu, lặn"
+    },
+    {
+      "word": "skiing",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈskiːɪŋ/",
+      "meaning": "trượt tuyết"
+    },
+    {
+      "word": "figure skating",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfɪɡjər skeɪtɪŋ/",
+      "meaning": "trượt băng nghệ thuật"
+    },
+    {
+      "word": "skateboarding",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈskeɪtbɔːrdɪŋ/",
+      "meaning": "trượt ván"
+    },
+    {
+      "word": "billiards",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbɪljərdz/",
+      "meaning": "bi-a"
+    },
+    {
+      "word": "weightlifting",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈweɪtlɪftɪŋ/",
+      "meaning": "cử tạ"
+    }
+  ]
+}

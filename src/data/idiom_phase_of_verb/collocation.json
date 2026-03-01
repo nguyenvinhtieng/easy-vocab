@@ -1,0 +1,986 @@
+{
+    "topic": "Collocations",
+    "vocabs": [
+        {
+            "word": "abandon an attempt",
+            "partOfSpeech": "collocation",
+            "meaning": "từ bỏ nỗ lực",
+            "exampleSentences": [
+                "He had to abandon an attempt to climb the mountain due to bad weather.",
+                "She abandoned an attempt at fixing the car herself."
+            ]
+        },
+        {
+            "word": "absolutely vital",
+            "partOfSpeech": "collocation",
+            "meaning": "vô cùng quan trọng",
+            "exampleSentences": [
+                "It is absolutely vital to follow the instructions carefully.",
+                "Regular exercise is absolutely vital for good health."
+            ]
+        },
+        {
+            "word": "acquire knowledge",
+            "partOfSpeech": "collocation",
+            "meaning": "tiếp nhận kiến thức",
+            "exampleSentences": [
+                "Students acquire knowledge through reading and practice.",
+                "Traveling helps acquire knowledge about different cultures."
+            ]
+        },
+        {
+            "word": "act your age",
+            "partOfSpeech": "collocation",
+            "meaning": "hành xử đúng với tuổi",
+            "exampleSentences": [
+                "Stop joking around and act your age.",
+                "He should act his age instead of behaving like a child."
+            ]
+        },
+        {
+            "word": "address an issue",
+            "partOfSpeech": "collocation",
+            "meaning": "giải quyết một vấn đề",
+            "exampleSentences": [
+                "We need to address the issue of late submissions.",
+                "The manager addressed the issue in the meeting."
+            ]
+        },
+        {
+            "word": "admit defeat",
+            "partOfSpeech": "collocation",
+            "meaning": "thừa nhận thất bại",
+            "exampleSentences": [
+                "After several attempts, he admitted defeat.",
+                "She admitted defeat in the chess tournament."
+            ]
+        },
+        {
+            "word": "adopt a method",
+            "partOfSpeech": "collocation",
+            "meaning": "áp dụng phương pháp",
+            "exampleSentences": [
+                "Teachers adopt a method that suits the students.",
+                "We decided to adopt a new method for testing."
+            ]
+        },
+        {
+            "word": "allocate resources",
+            "partOfSpeech": "collocation",
+            "meaning": "phân bổ nguồn lực",
+            "exampleSentences": [
+                "The company allocated resources to the new project.",
+                "Government must allocate resources efficiently."
+            ]
+        },
+        {
+            "word": "attention wanders",
+            "partOfSpeech": "collocation",
+            "meaning": "lơ đãng, mất tập trung",
+            "exampleSentences": [
+                "Her attention wanders during long meetings.",
+                "My attention wanders when the lecture is boring."
+            ]
+        },
+        {
+            "word": "bear in mind",
+            "partOfSpeech": "collocation",
+            "meaning": "ghi nhớ làm việc gì đó",
+            "exampleSentences": [
+                "Bear in mind that the rules are strict.",
+                "Bear in mind the deadline for submission."
+            ]
+        },
+        {
+            "word": "bold experiment",
+            "partOfSpeech": "collocation",
+            "meaning": "thí nghiệm liều lĩnh",
+            "exampleSentences": [
+                "The scientists conducted a bold experiment.",
+                "Trying to travel solo is a bold experiment for beginners."
+            ]
+        },
+        {
+            "word": "break the news",
+            "partOfSpeech": "collocation",
+            "meaning": "báo tin, tiết lộ thông tin",
+            "exampleSentences": [
+                "She had to break the news about the accident gently.",
+                "He broke the news of his promotion to his team."
+            ]
+        },
+        {
+            "word": "broach the subject",
+            "partOfSpeech": "collocation",
+            "meaning": "đề cập, nhắc tới một chủ đề nào đó",
+            "exampleSentences": [
+                "I didn’t know how to broach the subject of money.",
+                "He broached the subject of their future together."
+            ]
+        },
+        {
+            "word": "broad generalization",
+            "partOfSpeech": "collocation",
+            "meaning": "sự vơ đũa, nói chung chung",
+            "exampleSentences": [
+                "It's a broad generalization to say all cats are aloof.",
+                "Avoid making broad generalizations about people."
+            ]
+        },
+        {
+            "word": "casual acquaintance",
+            "partOfSpeech": "collocation",
+            "meaning": "người quen (nhưng không thân)",
+            "exampleSentences": [
+                "We are just casual acquaintances.",
+                "I met him as a casual acquaintance at a party."
+            ]
+        },
+        {
+            "word": "cause somebody trouble",
+            "partOfSpeech": "collocation",
+            "meaning": "gây rắc rối cho ai đó",
+            "exampleSentences": [
+                "Don't cause your parents trouble.",
+                "He caused me trouble by arriving late."
+            ]
+        },
+        {
+            "word": "complete stranger",
+            "partOfSpeech": "collocation",
+            "meaning": "một người hoàn toàn xa lạ",
+            "exampleSentences": [
+                "I felt nervous talking to a complete stranger.",
+                "She was helped by a complete stranger."
+            ]
+        },
+        {
+            "word": "constructive criticism",
+            "partOfSpeech": "collocation",
+            "meaning": "lời phê bình mang tính xây dựng",
+            "exampleSentences": [
+                "He accepted the constructive criticism well.",
+                "Teachers provide constructive criticism to improve writing."
+            ]
+        },
+        {
+            "word": "contain excitement",
+            "partOfSpeech": "collocation",
+            "meaning": "kiềm chế sự háo hức",
+            "exampleSentences": [
+                "She could barely contain her excitement.",
+                "They tried to contain their excitement before the announcement."
+            ]
+        },
+        {
+            "word": "convincing win/victory",
+            "partOfSpeech": "collocation",
+            "meaning": "chiến thắng thuyết phục",
+            "exampleSentences": [
+                "The team had a convincing victory.",
+                "He scored a convincing win in the debate."
+            ]
+        },
+        {
+            "word": "crowded street",
+            "partOfSpeech": "collocation",
+            "meaning": "đường phố đông đúc",
+            "exampleSentences": [
+                "We walked down a crowded street in Tokyo.",
+                "The market is always a crowded street on weekends."
+            ]
+        },
+        {
+            "word": "cultural heritage",
+            "partOfSpeech": "collocation",
+            "meaning": "di sản văn hoá",
+            "exampleSentences": [
+                "The museum preserves cultural heritage.",
+                "UNESCO protects cultural heritage around the world."
+            ]
+        },
+        {
+            "word": "curb inflation",
+            "partOfSpeech": "collocation",
+            "meaning": "kiểm soát lạm phát",
+            "exampleSentences": [
+                "The government took steps to curb inflation.",
+                "Central banks try to curb inflation with interest rates."
+            ]
+        },
+        {
+            "word": "daunting task",
+            "partOfSpeech": "collocation",
+            "meaning": "nhiệm vụ khó khăn, làm nản chí",
+            "exampleSentences": [
+                "Climbing Everest is a daunting task.",
+                "Starting a business can be a daunting task."
+            ]
+        },
+        {
+            "word": "deciding factor",
+            "partOfSpeech": "collocation",
+            "meaning": "yếu tố quyết định",
+            "exampleSentences": [
+                "Price was the deciding factor in my choice.",
+                "Her experience was the deciding factor for hiring."
+            ]
+        },
+        {
+            "word": "drop an email",
+            "partOfSpeech": "collocation",
+            "meaning": "gửi thư điện tử cho ai đó",
+            "exampleSentences": [
+                "I will drop an email to confirm.",
+                "She dropped an email to her professor."
+            ]
+        },
+        {
+            "word": "drop the subject",
+            "partOfSpeech": "collocation",
+            "meaning": "bỏ qua một chủ đề nào đó",
+            "exampleSentences": [
+                "Let's drop the subject.",
+                "He suggested dropping the subject of politics."
+            ]
+        },
+        {
+            "word": "eager anticipation",
+            "partOfSpeech": "collocation",
+            "meaning": "sự mong chờ, dự đoán đầy háo hức",
+            "exampleSentences": [
+                "She waited in eager anticipation.",
+                "The children were in eager anticipation of the trip."
+            ]
+        },
+        {
+            "word": "empty promise",
+            "partOfSpeech": "collocation",
+            "meaning": "lời hứa suông",
+            "exampleSentences": [
+                "Politicians often make empty promises.",
+                "It was just an empty promise."
+            ]
+        },
+        {
+            "word": "environmental catastrophe",
+            "partOfSpeech": "collocation",
+            "meaning": "thảm hoạ môi trường",
+            "exampleSentences": [
+                "Oil spills are an environmental catastrophe.",
+                "Deforestation can lead to environmental catastrophes."
+            ]
+        },
+        {
+            "word": "exclusive interview",
+            "partOfSpeech": "collocation",
+            "meaning": "buổi phỏng vấn độc quyền",
+            "exampleSentences": [
+                "The actor gave an exclusive interview to the magazine.",
+                "We had an exclusive interview with the CEO."
+            ]
+        },
+        {
+            "word": "excruciatingly uncomfortable",
+            "partOfSpeech": "collocation",
+            "meaning": "cực kì khó chịu",
+            "exampleSentences": [
+                "The chair was excruciatingly uncomfortable.",
+                "He felt excruciatingly uncomfortable in the meeting."
+            ]
+        },
+        {
+            "word": "extreme sports",
+            "partOfSpeech": "collocation",
+            "meaning": "những môn thể thao mạo hiểm",
+            "exampleSentences": [
+                "He loves extreme sports like skydiving.",
+                "Extreme sports are popular among young people."
+            ]
+        },
+        {
+            "word": "face a problem",
+            "partOfSpeech": "collocation",
+            "meaning": "đối mặt với một vấn đề nào đó",
+            "exampleSentences": [
+                "We must face a problem directly.",
+                "She faced a problem at work calmly."
+            ]
+        },
+        {
+            "word": "family gathering",
+            "partOfSpeech": "collocation",
+            "meaning": "buổi gặp mặt gia đình",
+            "exampleSentences": [
+                "They had a family gathering on Sunday.",
+                "Family gatherings are important during holidays."
+            ]
+        },
+        {
+            "word": "festive mood",
+            "partOfSpeech": "collocation",
+            "meaning": "không khí, tinh thần vui vẻ, hào hứng",
+            "exampleSentences": [
+                "The town was in a festive mood.",
+                "We decorated the office to create a festive mood."
+            ]
+        },
+        {
+            "word": "fit for purpose",
+            "partOfSpeech": "collocation",
+            "meaning": "đúng nhiệm vụ, chức năng",
+            "exampleSentences": [
+                "The equipment is fit for purpose.",
+                "This software is fit for purpose in schools."
+            ]
+        },
+        {
+            "word": "flatly reject/deny",
+            "partOfSpeech": "collocation",
+            "meaning": "từ chối thẳng thừng",
+            "exampleSentences": [
+                "He flatly rejected the offer.",
+                "The company flatly denied the accusations."
+            ]
+        },
+        {
+            "word": "flying visit",
+            "partOfSpeech": "collocation",
+            "meaning": "chuyến thăm chớp nhoáng",
+            "exampleSentences": [
+                "He made a flying visit to London.",
+                "I only had time for a flying visit."
+            ]
+        },
+        {
+            "word": "get hitched",
+            "partOfSpeech": "collocation",
+            "meaning": "kết hôn",
+            "exampleSentences": [
+                "They decided to get hitched next summer.",
+                "My friends are getting hitched this weekend."
+            ]
+        },
+        {
+            "word": "get into debt",
+            "partOfSpeech": "collocation",
+            "meaning": "mắc nợ",
+            "exampleSentences": [
+                "Many students get into debt because of tuition fees.",
+                "He got into debt after buying a new car."
+            ]
+        },
+        {
+            "word": "get the sack",
+            "partOfSpeech": "collocation",
+            "meaning": "bị sa thải, bị đuổi việc",
+            "exampleSentences": [
+                "He got the sack for being late.",
+                "She got the sack after the company downsized."
+            ]
+        },
+        {
+            "word": "give somebody a ring",
+            "partOfSpeech": "collocation",
+            "meaning": "gọi cho ai đó (bằng điện thoại)",
+            "exampleSentences": [
+                "Give me a ring when you arrive.",
+                "She gave her friend a ring to confirm."
+            ]
+        },
+        {
+            "word": "glowing review",
+            "partOfSpeech": "collocation",
+            "meaning": "đánh giá tích cực",
+            "exampleSentences": [
+                "The book received a glowing review.",
+                "Her performance got a glowing review from critics."
+            ]
+        },
+        {
+            "word": "go clubbing",
+            "partOfSpeech": "collocation",
+            "meaning": "đi club",
+            "exampleSentences": [
+                "We go clubbing every Friday night.",
+                "He loves to go clubbing with his friends."
+            ]
+        },
+        {
+            "word": "go on a diet",
+            "partOfSpeech": "collocation",
+            "meaning": "ăn kiêng",
+            "exampleSentences": [
+                "She decided to go on a diet.",
+                "Many people go on a diet after New Year."
+            ]
+        },
+        {
+            "word": "great pleasure",
+            "partOfSpeech": "collocation",
+            "meaning": "vinh hạnh lớn",
+            "exampleSentences": [
+                "It was a great pleasure to meet you.",
+                "I take great pleasure in my work."
+            ]
+        },
+        {
+            "word": "hazy memories",
+            "partOfSpeech": "collocation",
+            "meaning": "ký ức mờ nhạt (về một điều gì đó)",
+            "exampleSentences": [
+                "I have hazy memories of my childhood.",
+                "The trip left hazy memories in my mind."
+            ]
+        },
+        {
+            "word": "healthy competition",
+            "partOfSpeech": "collocation",
+            "meaning": "cạnh tranh lành mạnh",
+            "exampleSentences": [
+                "A little healthy competition motivates students.",
+                "Sports encourage healthy competition."
+            ]
+        },
+        {
+            "word": "heavy traffic",
+            "partOfSpeech": "collocation",
+            "meaning": "giao thông đông đúc",
+            "exampleSentences": [
+                "The city is known for heavy traffic.",
+                "We were stuck in heavy traffic for hours."
+            ]
+        },
+        {
+            "word": "heavy workload",
+            "partOfSpeech": "collocation",
+            "meaning": "khối lượng công việc nặng nề",
+            "exampleSentences": [
+                "She has a heavy workload this week.",
+                "Teachers often face a heavy workload."
+            ]
+        },
+        {
+            "word": "highly recommend",
+            "partOfSpeech": "collocation",
+            "meaning": "nhiệt liệt đề cử, giới thiệu, khuyến khích",
+            "exampleSentences": [
+                "I highly recommend this restaurant.",
+                "Experts highly recommend regular exercise."
+            ]
+        },
+        {
+            "word": "hopelessly lost",
+            "partOfSpeech": "collocation",
+            "meaning": "lạc đường, lạc lối trong tuyệt vọng",
+            "exampleSentences": [
+                "He felt hopelessly lost in the new city.",
+                "The hikers were hopelessly lost in the forest."
+            ]
+        },
+        {
+            "word": "hugely popular",
+            "partOfSpeech": "collocation",
+            "meaning": "cực kì nổi tiếng, thịnh hành",
+            "exampleSentences": [
+                "The singer is hugely popular among teenagers.",
+                "The new app became hugely popular overnight."
+            ]
+        },
+        {
+            "word": "husky voice",
+            "partOfSpeech": "collocation",
+            "meaning": "giọng khàn",
+            "exampleSentences": [
+                "She spoke with a husky voice after cheering loudly.",
+                "His husky voice was captivating on the radio."
+            ]
+        },
+        {
+            "word": "idle chatter",
+            "partOfSpeech": "collocation",
+            "meaning": "chuyện phiếm, chuyện vô thưởng vô phạt",
+            "exampleSentences": [
+                "The office was filled with idle chatter.",
+                "We spent the afternoon in idle chatter."
+            ]
+        },
+        {
+            "word": "inner city",
+            "partOfSpeech": "collocation",
+            "meaning": "nội thành",
+            "exampleSentences": [
+                "He grew up in the inner city.",
+                "The inner city has many historical buildings."
+            ]
+        },
+        {
+            "word": "intrepid explorer",
+            "partOfSpeech": "collocation",
+            "meaning": "nhà thám hiểm gan dạ",
+            "exampleSentences": [
+                "He was an intrepid explorer of the Amazon.",
+                "The intrepid explorer documented his journeys."
+            ]
+        },
+        {
+            "word": "juicy gossip",
+            "partOfSpeech": "collocation",
+            "meaning": "thông tin thú vị",
+            "exampleSentences": [
+                "She loves sharing juicy gossip at work.",
+                "The magazine is full of juicy gossip."
+            ]
+        },
+        {
+            "word": "keep in shape",
+            "partOfSpeech": "collocation",
+            "meaning": "giữ dáng",
+            "exampleSentences": [
+                "I go jogging to keep in shape.",
+                "Regular exercise helps keep in shape."
+            ]
+        },
+        {
+            "word": "land a job",
+            "partOfSpeech": "collocation",
+            "meaning": "đậu, trúng tuyển việc làm",
+            "exampleSentences": [
+                "He finally landed a job at a tech company.",
+                "She landed a job after several interviews."
+            ]
+        },
+        {
+            "word": "lasting impression",
+            "partOfSpeech": "collocation",
+            "meaning": "ấn tượng sâu đậm",
+            "exampleSentences": [
+                "The performance left a lasting impression.",
+                "Her kindness made a lasting impression on everyone."
+            ]
+        },
+        {
+            "word": "lengthy delay",
+            "partOfSpeech": "collocation",
+            "meaning": "sự trì hoãn kéo dài",
+            "exampleSentences": [
+                "There was a lengthy delay at the airport.",
+                "The project faced a lengthy delay due to funding issues."
+            ]
+        },
+        {
+            "word": "lifelong friend",
+            "partOfSpeech": "collocation",
+            "meaning": "bạn tri kỷ, bạn thân lâu năm",
+            "exampleSentences": [
+                "He is my lifelong friend.",
+                "They have been lifelong friends since school."
+            ]
+        },
+        {
+            "word": "long-term solution",
+            "partOfSpeech": "collocation",
+            "meaning": "giải pháp lâu dài",
+            "exampleSentences": [
+                "We need a long-term solution to traffic problems.",
+                "Education is a long-term solution for poverty."
+            ]
+        },
+        {
+            "word": "make a complaint",
+            "partOfSpeech": "collocation",
+            "meaning": "phản ánh, than phiền về một vấn đề nào đó",
+            "exampleSentences": [
+                "I want to make a complaint about the service.",
+                "She made a complaint to the manager."
+            ]
+        },
+        {
+            "word": "make a mistake",
+            "partOfSpeech": "collocation",
+            "meaning": "mắc lỗi",
+            "exampleSentences": [
+                "Everyone makes a mistake sometimes.",
+                "He made a mistake in the report."
+            ]
+        },
+        {
+            "word": "make a payment",
+            "partOfSpeech": "collocation",
+            "meaning": "thanh toán, trả tiền",
+            "exampleSentences": [
+                "You can make a payment online.",
+                "She made a payment at the cashier."
+            ]
+        },
+        {
+            "word": "make friends",
+            "partOfSpeech": "collocation",
+            "meaning": "kết bạn",
+            "exampleSentences": [
+                "He made friends quickly at school.",
+                "Traveling helps make friends with locals."
+            ]
+        },
+        {
+            "word": "movie buff",
+            "partOfSpeech": "collocation",
+            "meaning": "mọt phim, tín đồ điện ảnh",
+            "exampleSentences": [
+                "He’s a movie buff who watches everything.",
+                "She is a real movie buff and knows directors well."
+            ]
+        },
+        {
+            "word": "newborn baby",
+            "partOfSpeech": "collocation",
+            "meaning": "em bé mới sinh",
+            "exampleSentences": [
+                "The newborn baby slept peacefully.",
+                "They welcomed a newborn baby last week."
+            ]
+        },
+        {
+            "word": "novel solution",
+            "partOfSpeech": "collocation",
+            "meaning": "giải pháp mới, đột phá",
+            "exampleSentences": [
+                "The engineer proposed a novel solution.",
+                "Scientists developed a novel solution for energy storage."
+            ]
+        },
+        {
+            "word": "overstate the case",
+            "partOfSpeech": "collocation",
+            "meaning": "nói quá, cường điệu hoá một vấn đề",
+            "exampleSentences": [
+                "He tends to overstate the case.",
+                "Don't overstate the case in your report."
+            ]
+        },
+        {
+            "word": "place an order",
+            "partOfSpeech": "collocation",
+            "meaning": "đặt hàng",
+            "exampleSentences": [
+                "I would like to place an order online.",
+                "They placed an order for new furniture."
+            ]
+        },
+        {
+            "word": "play a blinder",
+            "partOfSpeech": "collocation",
+            "meaning": "chơi/thể hiện một cách xuất sắc",
+            "exampleSentences": [
+                "He played a blinder in the match.",
+                "She played a blinder in the debate."
+            ]
+        },
+        {
+            "word": "play truant",
+            "partOfSpeech": "collocation",
+            "meaning": "trốn học, trốn làm",
+            "exampleSentences": [
+                "Some students play truant from school.",
+                "He used to play truant when he was young."
+            ]
+        },
+        {
+            "word": "power cut",
+            "partOfSpeech": "collocation",
+            "meaning": "cắt điện",
+            "exampleSentences": [
+                "There was a power cut last night.",
+                "The storm caused a power cut."
+            ]
+        },
+        {
+            "word": "prime-time television",
+            "partOfSpeech": "collocation",
+            "meaning": "giờ vàng trên TV",
+            "exampleSentences": [
+                "The show airs on prime-time television.",
+                "Advertisements are more expensive on prime-time television."
+            ]
+        },
+        {
+            "word": "problems arise",
+            "partOfSpeech": "collocation",
+            "meaning": "các vấn đề xuất hiện, nổi lên",
+            "exampleSentences": [
+                "Problems arise when communication is poor.",
+                "Problems may arise during construction."
+            ]
+        },
+        {
+            "word": "propose a toast",
+            "partOfSpeech": "collocation",
+            "meaning": "nâng ly chúc mừng, vinh danh, hoặc tưởng nhớ ai đó",
+            "exampleSentences": [
+                "He proposed a toast to the newlyweds.",
+                "She proposed a toast at the celebration."
+            ]
+        },
+        {
+            "word": "public spending",
+            "partOfSpeech": "collocation",
+            "meaning": "chi tiêu công",
+            "exampleSentences": [
+                "Public spending has increased.",
+                "The government plans to cut public spending."
+            ]
+        },
+        {
+            "word": "put into practice",
+            "partOfSpeech": "collocation",
+            "meaning": "ứng dụng, áp dụng vào thực tế",
+            "exampleSentences": [
+                "We need to put these ideas into practice.",
+                "He put the theory into practice."
+            ]
+        },
+        {
+            "word": "quick learner",
+            "partOfSpeech": "collocation",
+            "meaning": "người học có khả năng tiếp thu nhanh",
+            "exampleSentences": [
+                "She is a quick learner.",
+                "A quick learner adapts easily to new environments."
+            ]
+        },
+        {
+            "word": "rash promise",
+            "partOfSpeech": "collocation",
+            "meaning": "lời hứa liều",
+            "exampleSentences": [
+                "He made a rash promise he couldn’t keep.",
+                "Avoid making rash promises."
+            ]
+        },
+        {
+            "word": "reach the decision",
+            "partOfSpeech": "collocation",
+            "meaning": "đi đến, đạt được quyết định",
+            "exampleSentences": [
+                "We finally reached the decision to move.",
+                "The committee reached the decision unanimously."
+            ]
+        },
+        {
+            "word": "regular customer",
+            "partOfSpeech": "collocation",
+            "meaning": "khách quen, khách hàng thân thiết",
+            "exampleSentences": [
+                "She is a regular customer at the café.",
+                "Regular customers get discounts."
+            ]
+        },
+        {
+            "word": "renewable energy",
+            "partOfSpeech": "collocation",
+            "meaning": "năng lượng có thể tái tạo",
+            "exampleSentences": [
+                "Wind is a source of renewable energy.",
+                "The government invests in renewable energy."
+            ]
+        },
+        {
+            "word": "room for improvement",
+            "partOfSpeech": "collocation",
+            "meaning": "điểm có thể cải thiện hơn",
+            "exampleSentences": [
+                "The project has room for improvement.",
+                "There is always room for improvement in your work."
+            ]
+        },
+        {
+            "word": "seek permission",
+            "partOfSpeech": "collocation",
+            "meaning": "xin phép",
+            "exampleSentences": [
+                "You must seek permission before entering.",
+                "She sought permission to leave early."
+            ]
+        },
+        {
+            "word": "set the trend",
+            "partOfSpeech": "collocation",
+            "meaning": "tạo ra, dẫn đầu xu hướng",
+            "exampleSentences": [
+                "The designer set the trend in fashion.",
+                "The tech company set the trend in smartphones."
+            ]
+        },
+        {
+            "word": "severely disrupted",
+            "partOfSpeech": "collocation",
+            "meaning": "bị gián đoạn nghiêm trọng",
+            "exampleSentences": [
+                "The storm severely disrupted travel.",
+                "Operations were severely disrupted by the strike."
+            ]
+        },
+        {
+            "word": "sheer luxury",
+            "partOfSpeech": "collocation",
+            "meaning": "sự xa xỉ tuyệt đối",
+            "exampleSentences": [
+                "The hotel is sheer luxury.",
+                "Living in that mansion is sheer luxury."
+            ]
+        },
+        {
+            "word": "speak highly",
+            "partOfSpeech": "collocation",
+            "meaning": "nói tốt, khen ngợi, đánh giá cao ai đó",
+            "exampleSentences": [
+                "She speaks highly of her mentor.",
+                "The critics speak highly of the film."
+            ]
+        },
+        {
+            "word": "spot an error",
+            "partOfSpeech": "collocation",
+            "meaning": "phát hiện ra lỗi",
+            "exampleSentences": [
+                "He quickly spotted an error in the report.",
+                "She spotted an error on the webpage."
+            ]
+        },
+        {
+            "word": "star-studded cast",
+            "partOfSpeech": "collocation",
+            "meaning": "dàn diễn viên toàn sao",
+            "exampleSentences": [
+                "The movie has a star-studded cast.",
+                "The play featured a star-studded cast."
+            ]
+        },
+        {
+            "word": "strong language",
+            "partOfSpeech": "collocation",
+            "meaning": "ngôn ngữ thô tục, lời nói nặng nề",
+            "exampleSentences": [
+                "The film contains strong language.",
+                "He used strong language during the argument."
+            ]
+        },
+        {
+            "word": "strongly influence",
+            "partOfSpeech": "collocation",
+            "meaning": "ảnh hưởng mạnh mẽ",
+            "exampleSentences": [
+                "Parents strongly influence their children.",
+                "The weather strongly influences crops."
+            ]
+        },
+        {
+            "word": "take exception to somebody/something",
+            "partOfSpeech": "collocation",
+            "meaning": "cảm thấy bị xúc phạm, tức giận vì một ai đó/cái gì đó",
+            "exampleSentences": [
+                "She took exception to his remark.",
+                "He took exception to their criticism."
+            ]
+        },
+        {
+            "word": "take something seriously",
+            "partOfSpeech": "collocation",
+            "meaning": "coi chuyện gì đó là nghiêm túc",
+            "exampleSentences": [
+                "You should take your studies seriously.",
+                "He takes safety regulations seriously."
+            ]
+        },
+        {
+            "word": "temperatures soar",
+            "partOfSpeech": "collocation",
+            "meaning": "nhiệt độ tăng",
+            "exampleSentences": [
+                "Temperatures soared to 40°C today.",
+                "During the heatwave, temperatures soared."
+            ]
+        },
+        {
+            "word": "tempting offer",
+            "partOfSpeech": "collocation",
+            "meaning": "lời đề nghị hấp dẫn",
+            "exampleSentences": [
+                "It was a tempting offer she couldn’t refuse.",
+                "The job came with a tempting offer."
+            ]
+        },
+        {
+            "word": "thirst for knowledge",
+            "partOfSpeech": "collocation",
+            "meaning": "mong muốn học hỏi",
+            "exampleSentences": [
+                "He has a great thirst for knowledge.",
+                "The students showed a thirst for knowledge."
+            ]
+        },
+        {
+            "word": "throw a party",
+            "partOfSpeech": "collocation",
+            "meaning": "tổ chức tiệc",
+            "exampleSentences": [
+                "We plan to throw a party this weekend.",
+                "She threw a party for her birthday."
+            ]
+        },
+        {
+            "word": "throwaway comment",
+            "partOfSpeech": "collocation",
+            "meaning": "bình luận, nhận xét bâng quơ",
+            "exampleSentences": [
+                "He made a throwaway comment.",
+                "I regret my throwaway comment yesterday."
+            ]
+        },
+        {
+            "word": "top quality",
+            "partOfSpeech": "collocation",
+            "meaning": "chất lượng hàng đầu",
+            "exampleSentences": [
+                "This product is top quality.",
+                "They sell top quality furniture."
+            ]
+        },
+        {
+            "word": "tough question",
+            "partOfSpeech": "collocation",
+            "meaning": "câu hỏi hóc búa, câu hỏi khó trả lời",
+            "exampleSentences": [
+                "The teacher asked a tough question.",
+                "It was a tough question to answer."
+            ]
+        },
+        {
+            "word": "vehicle emission",
+            "partOfSpeech": "collocation",
+            "meaning": "khí thải từ phương tiện giao thông",
+            "exampleSentences": [
+                "Vehicle emissions pollute the air.",
+                "Cars contribute to vehicle emissions."
+            ]
+        },
+        {
+            "word": "vital clue",
+            "partOfSpeech": "collocation",
+            "meaning": "bằng chứng, dấu hiệu quan trọng",
+            "exampleSentences": [
+                "The detective found a vital clue.",
+                "The note was a vital clue in the case."
+            ]
+        },
+        {
+            "word": "widespread flooding",
+            "partOfSpeech": "collocation",
+            "meaning": "lũ lụt ở diện rộng",
+            "exampleSentences": [
+                "The heavy rain caused widespread flooding.",
+                "Widespread flooding affected thousands of homes."
+            ]
+        }
+    ]
+}

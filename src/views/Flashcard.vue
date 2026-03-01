@@ -17,8 +17,10 @@ const learnStore = useLearnStore()
 const knownStore = useKnownStore()
 const themeStore = useThemeStore()
 
-const topicId = computed(() => (route.params.topicId as string) ?? '')
-const topicData = computed(() => getTopicData(topicId.value))
+const typeId = computed(() => (route.params.typeId as string) ?? '')
+const topicSlug = computed(() => (route.params.topicId as string) ?? '')
+const topicKey = computed(() => (typeId.value && topicSlug.value ? `${typeId.value}/${topicSlug.value}` : ''))
+const topicData = computed(() => getTopicData(topicKey.value))
 const currentWord = computed(() => vocabStore.currentWord)
 const vocabs = computed(() => vocabStore.currentVocabs)
 const progress = computed(() => vocabStore.progress)
@@ -28,23 +30,49 @@ const typedAnswer = ref('')
 const checkResult = ref<'idle' | 'correct' | 'wrong'>('idle')
 const showExamples = ref(true)
 const showIpaGuide = ref(false)
+/** When true, show only words not in known or learn list. */
+const onlyNewWords = ref(false)
+
+/** Count of words in this topic that are not in known or learn list (full topic list). */
+const filteredCount = computed(() => {
+  if (!topicKey.value || !topicData.value?.vocabs) return 0
+  return topicData.value.vocabs.filter(
+    (w) =>
+      !learnStore.hasItem(topicKey.value, w.word) &&
+      !knownStore.hasKnown(topicKey.value, w.word)
+  ).length
+})
+const hasNoNewWords = computed(
+  () =>
+    onlyNewWords.value &&
+    (topicData.value?.vocabs?.length ?? 0) > 0 &&
+    filteredCount.value === 0
+)
 
 const wordForImage = computed(() => currentWord.value?.word ?? '')
 const currentWordImage = useWordImage(wordForImage)
 const { pronounce, pronounceSlow, isSpeaking } = useSpeech()
 
 function initTopic() {
-  if (!topicId.value || !topicData.value) {
+  if (!topicKey.value || !topicData.value) {
     router.replace({ name: 'topics' })
     return
   }
-  vocabStore.setTopic(topicId.value)
+  vocabStore.setTopic(topicKey.value)
 }
 
 onMounted(initTopic)
 
-watch(topicId, () => {
-  if (topicData.value) vocabStore.setTopic(topicId.value)
+function applyOnlyNewFilter() {
+  vocabStore.setFilterOnlyNew(onlyNewWords.value)
+  flipped.value = false
+  typedAnswer.value = ''
+  checkResult.value = 'idle'
+}
+
+watch(topicKey, () => {
+  if (topicData.value) vocabStore.setTopic(topicKey.value)
+  onlyNewWords.value = false
   flipped.value = false
   typedAnswer.value = ''
   checkResult.value = 'idle'
@@ -63,14 +91,23 @@ function partOfSpeechLabel(pos: string | string[]): string {
   return Array.isArray(pos) ? pos.join(', ') : pos
 }
 
+/** Split sentence into segments and mark occurrences of the learning word for highlight. */
+function highlightWordInSentence(sentence: string, word: string): { text: string; highlight: boolean }[] {
+  if (!word?.trim()) return [{ text: sentence, highlight: false }]
+  const escaped = word.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  const regex = new RegExp(`(${escaped})`, 'gi')
+  const parts = sentence.split(regex)
+  return parts.map((text, i) => ({ text, highlight: i % 2 === 1 }))
+}
+
 function toggleFlip() {
   flipped.value = !flipped.value
 }
 
 function markKnown() {
   if (currentWord.value) {
-    knownStore.add(topicId.value, currentWord.value.word)
-    learnStore.remove(topicId.value, currentWord.value.word)
+    knownStore.add(topicKey.value, currentWord.value.word)
+    learnStore.remove(topicKey.value, currentWord.value.word)
   }
   goNext()
 }
@@ -81,7 +118,7 @@ function checkTyped() {
   const actual = typedAnswer.value.trim().toLowerCase()
   const correct = actual === expected
   checkResult.value = correct ? 'correct' : 'wrong'
-  if (correct) learnStore.add(topicId.value, currentWord.value.word)
+  if (correct) learnStore.add(topicKey.value, currentWord.value.word)
 }
 
 function goNext() {
@@ -114,7 +151,17 @@ function backToTopics() {
       <h1 class="flex-1 m-0 font-heading text-xl sm:text-2xl text-slate-800 dark:text-slate-100 min-w-0 truncate">
         {{ topicData?.topic }}
       </h1>
-      <div class="flex items-center gap-2 shrink-0">
+      <div class="flex items-center gap-2 shrink-0 flex-wrap justify-end">
+        <label class="inline-flex items-center gap-2 cursor-pointer select-none text-sm text-slate-600 dark:text-slate-400">
+          <input
+            v-model="onlyNewWords"
+            type="checkbox"
+            class="rounded border-slate-300 dark:border-slate-600 text-teal-600 focus:ring-teal-500"
+            @change="applyOnlyNewFilter()"
+          />
+          <span>Only new words</span>
+          <span v-if="vocabs.length" class="text-slate-500 dark:text-slate-500">({{ filteredCount }} new)</span>
+        </label>
         <button
           type="button"
           class="p-2 rounded-lg bg-white/80 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 hover:shadow-md transition-all"
@@ -127,7 +174,17 @@ function backToTopics() {
       </div>
     </header>
 
-    <main v-if="currentWord" class="max-w-[28rem] mx-auto">
+    <main v-if="hasNoNewWords" class="max-w-[28rem] mx-auto text-center py-12">
+      <p class="text-slate-600 dark:text-slate-400 mb-4">All words in this topic are already in your known or learning list.</p>
+      <button
+        type="button"
+        class="px-4 py-2.5 rounded-xl font-semibold border-2 border-teal-200 dark:border-teal-700 bg-white dark:bg-slate-800 text-teal-700 dark:text-teal-300"
+        @click="onlyNewWords = false; applyOnlyNewFilter()"
+      >
+        Show all words
+      </button>
+    </main>
+    <main v-else-if="currentWord" class="max-w-[28rem] mx-auto">
       <div class="card-perspective mb-10">
         <div
           class="card-outer cursor-pointer select-none"
@@ -221,7 +278,12 @@ function backToTopics() {
               <div v-if="showExamples && currentWord.exampleSentences?.length" class="mt-auto text-left pt-2 border-t border-white/25">
                 <p class="font-semibold mb-1.5 text-sm m-0 text-white">Examples</p>
                 <ul class="m-0 pl-4 space-y-1 text-sm leading-relaxed text-white/95">
-                  <li v-for="(s, i) in currentWord.exampleSentences" :key="i">{{ s }}</li>
+                  <li v-for="(s, i) in currentWord.exampleSentences" :key="i">
+                    <template v-for="(seg, j) in highlightWordInSentence(s, currentWord.word)" :key="j">
+                      <span v-if="seg.highlight" class="bg-amber-300/90 text-slate-900 font-semibold rounded px-0.5">{{ seg.text }}</span>
+                      <template v-else>{{ seg.text }}</template>
+                    </template>
+                  </li>
                 </ul>
               </div>
             </div>

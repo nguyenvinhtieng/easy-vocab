@@ -1,0 +1,305 @@
+{
+  "topic": "Thời tiết",
+  "vocabs": [
+    {
+      "word": "weather",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈweðər/",
+      "meaning": "thời tiết"
+    },
+    {
+      "word": "weather forecast",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈweðər fɔːrkæst/",
+      "meaning": "dự báo thời tiết"
+    },
+    {
+      "word": "windy",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈwɪndi/",
+      "meaning": "nhiều gió"
+    },
+    {
+      "word": "haze",
+      "partOfSpeech": "noun",
+      "phonetic": "/heɪz/",
+      "meaning": "màn sương mỏng, thường gây ra bởi sức nóng"
+    },
+    {
+      "word": "breeze",
+      "partOfSpeech": "noun",
+      "phonetic": "/briːz/",
+      "meaning": "gió nhẹ"
+    },
+    {
+      "word": "gloomy",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈɡluːmi/",
+      "meaning": "trời ảm đạm"
+    },
+    {
+      "word": "cloudy",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈklaʊdi/",
+      "meaning": "trời nhiều mây"
+    },
+    {
+      "word": "sunny",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈsʌni/",
+      "meaning": "bầu trời chỉ có mặt trời chiếu sáng, không có mây"
+    },
+    {
+      "word": "foggy",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈfɑːɡi/",
+      "meaning": "có sương mù"
+    },
+    {
+      "word": "humid",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈhjuːmɪd/",
+      "meaning": "ẩm"
+    },
+    {
+      "word": "bright",
+      "partOfSpeech": "adj",
+      "phonetic": "/braɪt/",
+      "meaning": "sáng mạnh"
+    },
+    {
+      "word": "wet",
+      "partOfSpeech": "adj",
+      "phonetic": "/wet/",
+      "meaning": "ẩm ướt"
+    },
+    {
+      "word": "dry",
+      "partOfSpeech": "adj",
+      "phonetic": "/draɪ/",
+      "meaning": "hanh khô"
+    },
+    {
+      "word": "mild",
+      "partOfSpeech": "adj",
+      "phonetic": "/maɪld/",
+      "meaning": "ôn hòa, ấm áp"
+    },
+    {
+      "word": "clear",
+      "partOfSpeech": "adj",
+      "phonetic": "/klɪr/",
+      "meaning": "trời trong trẻo, quang đãng"
+    },
+    {
+      "word": "climate",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈklaɪmət/",
+      "meaning": "khí hậu"
+    },
+    {
+      "word": "overcast",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˌəʊvərˈkæst/",
+      "meaning": "âm u"
+    },
+    {
+      "word": "lightning",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlaɪtnɪŋ/",
+      "meaning": "tia chớp"
+    },
+    {
+      "word": "snow",
+      "partOfSpeech": "noun",
+      "phonetic": "/snəʊ/",
+      "meaning": "tuyết"
+    },
+    {
+      "word": "drizzle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdrɪzl/",
+      "meaning": "mưa phùn"
+    },
+    {
+      "word": "hail",
+      "partOfSpeech": "noun",
+      "phonetic": "/heɪl/",
+      "meaning": "mưa đá"
+    },
+    {
+      "word": "thunderstorm",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈθʌndərstɔːrm/",
+      "meaning": "bão tố có sấm sét, cơn giông"
+    },
+    {
+      "word": "snowflake",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsnəʊfleɪk/",
+      "meaning": "bông hoa tuyết"
+    },
+    {
+      "word": "snowstorm",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsnəʊstɔːrm/",
+      "meaning": "bão tuyết"
+    },
+    {
+      "word": "blizzard",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈblɪzərd/",
+      "meaning": "cơn bão tuyết"
+    },
+    {
+      "word": "damp",
+      "partOfSpeech": "adj",
+      "phonetic": "/dæmp/",
+      "meaning": "ẩm thấp, ẩm ướt"
+    },
+    {
+      "word": "thunder",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈθʌndər/",
+      "meaning": "sấm sét"
+    },
+    {
+      "word": "rain",
+      "partOfSpeech": "noun",
+      "phonetic": "/reɪn/",
+      "meaning": "mưa"
+    },
+    {
+      "word": "shower",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʃaʊər/",
+      "meaning": "mưa rào"
+    },
+    {
+      "word": "rain-torm",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈreɪnstɔːrm/",
+      "meaning": "mưa bão"
+    },
+    {
+      "word": "flood",
+      "partOfSpeech": "noun",
+      "phonetic": "/flʌd/",
+      "meaning": "lũ lụt"
+    },
+    {
+      "word": "gale",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɡeɪl/",
+      "meaning": "gió giật"
+    },
+    {
+      "word": "tornado",
+      "partOfSpeech": "noun",
+      "phonetic": "/tɔːrˈneɪdəʊ/",
+      "meaning": "lốc xoáy"
+    },
+    {
+      "word": "typhoon",
+      "partOfSpeech": "noun",
+      "phonetic": "/taɪˈfuːn/",
+      "meaning": "bão nhiệt đới"
+    },
+    {
+      "word": "storm",
+      "partOfSpeech": "noun",
+      "phonetic": "/stɔːrm/",
+      "meaning": "dông bão"
+    },
+    {
+      "word": "rainbow",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈreɪnbəʊ/",
+      "meaning": "cầu vồng"
+    },
+    {
+      "word": "blustery",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈblʌstəri/",
+      "meaning": "cơn gió mạnh"
+    },
+    {
+      "word": "mist",
+      "partOfSpeech": "noun",
+      "phonetic": "/mɪst/",
+      "meaning": "sương"
+    },
+    {
+      "word": "hurricane",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhɜːrəkeɪn/",
+      "meaning": "siêu bão"
+    },
+    {
+      "word": "frosty",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈfrɔːsti/",
+      "meaning": "lạnh băng"
+    },
+    {
+      "word": "hot",
+      "partOfSpeech": "adj",
+      "phonetic": "/hɑːt/",
+      "meaning": "nóng"
+    },
+    {
+      "word": "boiling (hot)",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈbɔɪlɪŋ/",
+      "meaning": "rất nóng"
+    },
+    {
+      "word": "cold",
+      "partOfSpeech": "adj",
+      "phonetic": "/kəʊld/",
+      "meaning": "lạnh"
+    },
+    {
+      "word": "chilly",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈtʃɪli/",
+      "meaning": "lạnh thấu xương"
+    },
+    {
+      "word": "freeze",
+      "partOfSpeech": "verb",
+      "phonetic": "/friːz/",
+      "meaning": "đóng băng"
+    },
+    {
+      "word": "temperature",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtemprətʃər/",
+      "meaning": "nhiệt độ"
+    },
+    {
+      "word": "thermometer",
+      "partOfSpeech": "noun",
+      "phonetic": "/θərˈmɑːmɪtər/",
+      "meaning": "nhiệt kế"
+    },
+    {
+      "word": "degree",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈɡriː/",
+      "meaning": "độ"
+    },
+    {
+      "word": "Fahrenheit (degree)",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈfærənhaɪt/",
+      "meaning": "độ F"
+    },
+    {
+      "word": "Celsius (degree)",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈselsiəs/",
+      "meaning": "độ C"
+    }
+  ]
+}

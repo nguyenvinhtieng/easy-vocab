@@ -1,0 +1,155 @@
+{
+  "topic": "Phương tiện giao thông",
+  "vocabs": [
+    {
+      "word": "automobile",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɔːtəməbiːl/",
+      "meaning": "xe ô tô"
+    },
+    {
+      "word": "car",
+      "partOfSpeech": "noun",
+      "phonetic": "/kɑːr/",
+      "meaning": "xe ô tô"
+    },
+    {
+      "word": "taxi",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtæk.si/",
+      "meaning": "xe taxi"
+    },
+    {
+      "word": "bus",
+      "partOfSpeech": "noun",
+      "phonetic": "/bʌs/",
+      "meaning": "xe buýt"
+    },
+    {
+      "word": "bicycle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbaɪ.sə.kəl/",
+      "meaning": "xe đạp"
+    },
+    {
+      "word": "bike",
+      "partOfSpeech": "noun",
+      "phonetic": "/baɪk/",
+      "meaning": "xe đạp"
+    },
+    {
+      "word": "motorcycle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈməʊtərsaɪkl/",
+      "meaning": "xe máy"
+    },
+    {
+      "word": "motorbike",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈməʊtərbaɪk/",
+      "meaning": "xe máy"
+    },
+    {
+      "word": "airplane",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈer.pleɪn/",
+      "meaning": "máy bay"
+    },
+    {
+      "word": "plane",
+      "partOfSpeech": "noun",
+      "phonetic": "/pleɪn/",
+      "meaning": "máy bay"
+    },
+    {
+      "word": "helicopter",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhel.əˌkɑːp.tɚ/",
+      "meaning": "trực thăng"
+    },
+    {
+      "word": "train",
+      "partOfSpeech": "noun",
+      "phonetic": "/treɪn/",
+      "meaning": "tàu hỏa"
+    },
+    {
+      "word": "subway",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsʌbweɪ/",
+      "meaning": "tàu điện ngầm"
+    },
+    {
+      "word": "boat",
+      "partOfSpeech": "noun",
+      "phonetic": "/boʊt/",
+      "meaning": "thuyền"
+    },
+    {
+      "word": "ship",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃɪp/",
+      "meaning": "tàu"
+    },
+    {
+      "word": "van",
+      "partOfSpeech": "noun",
+      "phonetic": "/væn/",
+      "meaning": "xe van"
+    },
+    {
+      "word": "police car",
+      "partOfSpeech": "noun",
+      "phonetic": "/pəˈliːs ˌkɑːr/",
+      "meaning": "xe cảnh sát"
+    },
+    {
+      "word": "ambulance",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈæm.bjə.ləns/",
+      "meaning": "xe cứu thương"
+    },
+    {
+      "word": "scooter",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈskuːtər/",
+      "meaning": "xe tay ga"
+    },
+    {
+      "word": "truck",
+      "partOfSpeech": "noun",
+      "phonetic": "/trʌk/",
+      "meaning": "xe tải"
+    },
+    {
+      "word": "yacht",
+      "partOfSpeech": "noun",
+      "phonetic": "/jɑːt/",
+      "meaning": "du thuyền"
+    },
+    {
+      "word": "canoe",
+      "partOfSpeech": "noun",
+      "phonetic": "/kəˈnuː/",
+      "meaning": "ca nô"
+    },
+    {
+      "word": "fire engine",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfaɪər endʒɪn/",
+      "meaning": "xe cứu hỏa"
+    },
+    {
+      "word": "hot-air balloon",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌhɑːt ˈer bəluːn/",
+      "meaning": "khinh khí cầu"
+    },
+    {
+      "word": "submarine",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌsʌbməˈriːn/",
+      "meaning": "tàu ngầm"
+    }
+  ]
+}

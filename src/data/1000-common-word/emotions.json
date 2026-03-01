@@ -1,0 +1,925 @@
+{
+  "topic": "Cảm xúc",
+  "vocabs": [
+    {
+      "word": "annoyed",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈnɔɪd/",
+      "meaning": "khó chịu, bực bội, bị làm phiền",
+      "exampleSentences": [
+        "I was annoyed by the noise.",
+        "She felt annoyed when he was late."
+      ]
+    },
+    {
+      "word": "angry",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈæŋɡri/",
+      "meaning": "tức giận",
+      "exampleSentences": [
+        "He was angry about the delay.",
+        "She looked angry at the mistake."
+      ]
+    },
+    {
+      "word": "mad",
+      "partOfSpeech": "adjective",
+      "phonetic": "/mæd/",
+      "meaning": "cực kì giận",
+      "exampleSentences": [
+        "He was mad at his friend.",
+        "I am mad about the unfair decision."
+      ]
+    },
+    {
+      "word": "worried",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈwɜːrid/",
+      "meaning": "lo lắng",
+      "exampleSentences": [
+        "She was worried about the exam.",
+        "I am worried that it will rain."
+      ]
+    },
+    {
+      "word": "happy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhæpi/",
+      "meaning": "vui vẻ",
+      "exampleSentences": [
+        "He is happy with his new job.",
+        "She felt happy when she heard the news."
+      ]
+    },
+    {
+      "word": "sad",
+      "partOfSpeech": "adjective",
+      "phonetic": "/sæd/",
+      "meaning": "buồn sầu",
+      "exampleSentences": [
+        "She was sad after the movie.",
+        "He feels sad about leaving."
+      ]
+    },
+    {
+      "word": "moody",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmuːdi/",
+      "meaning": "buồn bực",
+      "exampleSentences": [
+        "He is moody today.",
+        "She can be moody sometimes."
+      ]
+    },
+    {
+      "word": "anxious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈæŋk.ʃəs/",
+      "meaning": "lo âu, bồn chồn",
+      "exampleSentences": [
+        "She felt anxious before the test.",
+        "He is anxious about the results."
+      ]
+    },
+    {
+      "word": "grateful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡreɪtfl/",
+      "meaning": "biết ơn",
+      "exampleSentences": [
+        "I am grateful for your help.",
+        "She felt grateful to her teacher."
+      ]
+    },
+    {
+      "word": "emotional",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈməʊʃənl/",
+      "meaning": "xúc động",
+      "exampleSentences": [
+        "He became emotional during the speech.",
+        "She is very emotional about her family."
+      ]
+    },
+    {
+      "word": "hungry",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhʌŋɡri/",
+      "meaning": "đói",
+      "exampleSentences": [
+        "I am hungry after work.",
+        "He feels hungry every afternoon."
+      ]
+    },
+    {
+      "word": "thirsty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈθɜːrsti/",
+      "meaning": "khát",
+      "exampleSentences": [
+        "She is thirsty after running.",
+        "I feel thirsty in this hot weather."
+      ]
+    },
+    {
+      "word": "astonished",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈstɑː.nɪʃt/",
+      "meaning": "kinh ngạc",
+      "exampleSentences": [
+        "I was astonished by the news.",
+        "She looked astonished at the surprise."
+      ]
+    },
+    {
+      "word": "uncomfortable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌnˈkʌmftəbl/",
+      "meaning": "không thoải mái",
+      "exampleSentences": [
+        "I feel uncomfortable in this chair.",
+        "She looked uncomfortable at the meeting."
+      ]
+    },
+    {
+      "word": "wonderful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈwʌndərfl/",
+      "meaning": "tuyệt vời",
+      "exampleSentences": [
+        "It was a wonderful experience.",
+        "She had a wonderful time at the party."
+      ]
+    },
+    {
+      "word": "bored",
+      "partOfSpeech": "adjective",
+      "phonetic": "/bɔːrd/",
+      "meaning": "buồn chán, tẻ nhạt",
+      "exampleSentences": [
+        "I was bored during the lecture.",
+        "She felt bored at the party."
+      ]
+    },
+    {
+      "word": "tired",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtaɪərd/",
+      "meaning": "mệt mỏi",
+      "exampleSentences": [
+        "He is tired after working all day.",
+        "I feel tired after the long journey."
+      ]
+    },
+    {
+      "word": "terrible",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈterəbl/",
+      "meaning": "tệ hại",
+      "exampleSentences": [
+        "The service was terrible.",
+        "I had a terrible headache yesterday."
+      ]
+    },
+    {
+      "word": "calm",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kɑːm/",
+      "meaning": "bình tĩnh",
+      "exampleSentences": [
+        "She remained calm during the storm.",
+        "He is calm even under pressure."
+      ]
+    },
+    {
+      "word": "unhappy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌnˈhæpi/",
+      "meaning": "không vui",
+      "exampleSentences": [
+        "He was unhappy with his results.",
+        "She seems unhappy today."
+      ]
+    },
+    {
+      "word": "upset",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌʌpˈset/",
+      "meaning": "buồn bực",
+      "exampleSentences": [
+        "He was upset about losing the game.",
+        "She is upset with her friend."
+      ]
+    },
+    {
+      "word": "delighted",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dɪˈlaɪ.t̬ɪd/",
+      "meaning": "vui mừng, mừng rỡ",
+      "exampleSentences": [
+        "I am delighted to meet you.",
+        "She was delighted with the gift."
+      ]
+    },
+    {
+      "word": "desperate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdes.pɚ.ət/",
+      "meaning": "tuyệt vọng, chán chường",
+      "exampleSentences": [
+        "He felt desperate after failing the exam.",
+        "They are desperate for help."
+      ]
+    },
+    {
+      "word": "disturbed",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dɪˈstɝːbd/",
+      "meaning": "bối rối, lúng túng",
+      "exampleSentences": [
+        "She was disturbed by the news.",
+        "He looked disturbed during the meeting."
+      ]
+    },
+    {
+      "word": "doubtful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdaʊt.fəl/",
+      "meaning": "nghi hoặc, hoài nghi",
+      "exampleSentences": [
+        "I am doubtful about his story.",
+        "She seemed doubtful of his intentions."
+      ]
+    },
+    {
+      "word": "down",
+      "partOfSpeech": "adjective",
+      "phonetic": "/daʊn/",
+      "meaning": "nản lòng, chán nản",
+      "exampleSentences": [
+        "He felt down after losing the match.",
+        "She is feeling a bit down today."
+      ]
+    },
+    {
+      "word": "drained",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dreɪnd/",
+      "meaning": "kiệt sức",
+      "exampleSentences": [
+        "After the hike, I was completely drained.",
+        "He felt drained after working late."
+      ]
+    },
+    {
+      "word": "elated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/iˈleɪ.t̬ɪd/",
+      "meaning": "phấn khởi, hân hoan",
+      "exampleSentences": [
+        "She was elated to hear the good news.",
+        "He felt elated after winning the prize."
+      ]
+    },
+    {
+      "word": "embarrassed",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪmˈber.əst/",
+      "meaning": "xấu hổ, ngại ngùng",
+      "exampleSentences": [
+        "I was embarrassed when I tripped in public.",
+        "She felt embarrassed about her mistake."
+      ]
+    },
+    {
+      "word": "empathetic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌem.pəˈθet̬.ɪk/",
+      "meaning": "đồng cảm, xót xa",
+      "exampleSentences": [
+        "He is empathetic toward his colleagues.",
+        "She gave an empathetic response to the sad news."
+      ]
+    },
+    {
+      "word": "enlightened",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈlaɪ.t̬ənd/",
+      "meaning": "được làm sáng tỏ, được thông suốt",
+      "exampleSentences": [
+        "He felt enlightened after reading the book.",
+        "She became enlightened about the situation."
+      ]
+    },
+    {
+      "word": "jealous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒeləs/",
+      "meaning": "ghen tị",
+      "exampleSentences": [
+        "He was jealous of his brother's success.",
+        "She felt jealous when he praised her friend."
+      ]
+    },
+    {
+      "word": "envious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈen.vi.əs/",
+      "meaning": "ghen tị, đố kỵ",
+      "exampleSentences": [
+        "She was envious of her colleague's promotion.",
+        "He felt envious of their new house."
+      ]
+    },
+    {
+      "word": "excited",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪkˈsaɪ.t̬ɪd/",
+      "meaning": "hưng phấn, sôi nổi",
+      "exampleSentences": [
+        "I am excited about the trip.",
+        "She was excited to start her new job."
+      ]
+    },
+    {
+      "word": "excluded",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪkˈskluːd/",
+      "meaning": "bị bỏ rơi, cảm giác lạc lõng",
+      "exampleSentences": [
+        "He felt excluded from the group.",
+        "She was excluded from the conversation."
+      ]
+    },
+    {
+      "word": "exhausted",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪɡˈzɑː.stɪd/",
+      "meaning": "mệt lử",
+      "exampleSentences": [
+        "I was exhausted after the marathon.",
+        "He looked exhausted after the long flight."
+      ]
+    },
+    {
+      "word": "foolish",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfuː.lɪʃ/",
+      "meaning": "dại dột",
+      "exampleSentences": [
+        "It was foolish to ignore the warning.",
+        "He felt foolish after making that mistake."
+      ]
+    },
+    {
+      "word": "frustrated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfrʌs.treɪ.t̬ɪd/",
+      "meaning": "nản lòng, nản chí",
+      "exampleSentences": [
+        "She was frustrated with the slow progress.",
+        "He felt frustrated after repeated failures."
+      ]
+    },
+    {
+      "word": "furious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfʊr.i.əs/",
+      "meaning": "giận dữ, điên tiết",
+      "exampleSentences": [
+        "He was furious about the delay.",
+        "She became furious when she heard the news."
+      ]
+    },
+    {
+      "word": "giddy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡɪd.i/",
+      "meaning": "chóng mặt, choáng váng",
+      "exampleSentences": [
+        "I felt giddy after spinning around.",
+        "She was giddy with excitement."
+      ]
+    },
+    {
+      "word": "glad",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɡlæd/",
+      "meaning": "vui sướng",
+      "exampleSentences": [
+        "I am glad you came.",
+        "She was glad to hear the news."
+      ]
+    },
+    {
+      "word": "gleeful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡliː.fəl/",
+      "meaning": "hân hoan, mừng rỡ",
+      "exampleSentences": [
+        "The children were gleeful on Christmas morning.",
+        "He gave a gleeful laugh."
+      ]
+    },
+    {
+      "word": "guarded",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡɑːr.dɪd/",
+      "meaning": "thận trọng, ý tứ",
+      "exampleSentences": [
+        "He was guarded in his response.",
+        "She remained guarded about her plans."
+      ]
+    },
+    {
+      "word": "guilty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡɪl.ti/",
+      "meaning": "mặc cảm, cảm thấy tội lỗi",
+      "exampleSentences": [
+        "He felt guilty for lying.",
+        "She looked guilty after the argument."
+      ]
+    },
+    {
+      "word": "hesitant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhez.ə.tənt/",
+      "meaning": "do dự, ngập ngừng",
+      "exampleSentences": [
+        "He was hesitant to speak up.",
+        "She felt hesitant about the decision."
+      ]
+    },
+    {
+      "word": "hollow",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhɑː.loʊ/",
+      "meaning": "trống rỗng",
+      "exampleSentences": [
+        "He gave a hollow laugh.",
+        "The building felt hollow inside."
+      ]
+    },
+    {
+      "word": "horrified",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhɔːr.ə.faɪd/",
+      "meaning": "khiếp sợ",
+      "exampleSentences": [
+        "She was horrified by the accident.",
+        "He looked horrified at the sight."
+      ]
+    },
+    {
+      "word": "humiliated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/hjuːˈmɪl.i.eɪ.t̬ɪd/",
+      "meaning": "cảm giác bẽ mặt, xấu hổ",
+      "exampleSentences": [
+        "He felt humiliated in front of everyone.",
+        "She was humiliated by the mistake."
+      ]
+    },
+    {
+      "word": "indifferent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈdɪf.ɚ.ənt/",
+      "meaning": "dửng dưng, lãnh đạm, thờ ơ",
+      "exampleSentences": [
+        "He seemed indifferent to the outcome.",
+        "She was indifferent to their complaints."
+      ]
+    },
+    {
+      "word": "intense",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈtens/",
+      "meaning": "mãnh liệt, nồng nhiệt",
+      "exampleSentences": [
+        "He felt intense pressure at work.",
+        "The competition was intense."
+      ]
+    },
+    {
+      "word": "interested",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɪn.trɪ.stɪd/",
+      "meaning": "hứng thú, thích thú",
+      "exampleSentences": [
+        "She was interested in learning French.",
+        "He seemed interested in the project."
+      ]
+    },
+    {
+      "word": "irritated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɪr.ə.teɪ.t̬ɪd/",
+      "meaning": "tức tối, khó chịu",
+      "exampleSentences": [
+        "He was irritated by the noise.",
+        "She seemed irritated with the situation."
+      ]
+    },
+    {
+      "word": "jittery",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒɪt̬.ɚ.i/",
+      "meaning": "bồn chồn, dễ bị kích động",
+      "exampleSentences": [
+        "He felt jittery before the interview.",
+        "She was jittery waiting for the test results."
+      ]
+    },
+    {
+      "word": "jolly",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒɑː.li/",
+      "meaning": "vui tươi, nhộn nhịp",
+      "exampleSentences": [
+        "He was in a jolly mood.",
+        "The jolly atmosphere cheered everyone up."
+      ]
+    },
+    {
+      "word": "joyful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒɔɪ.fəl/",
+      "meaning": "hân hoan, vui mừng",
+      "exampleSentences": [
+        "The children were joyful on their birthday.",
+        "She was joyful to see her family again."
+      ]
+    },
+    {
+      "word": "keen",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kiːn/",
+      "meaning": "say mê, ham thích",
+      "exampleSentences": [
+        "He is keen on photography.",
+        "She has a keen interest in science."
+      ]
+    },
+    {
+      "word": "lonely",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈloʊn.li/",
+      "meaning": "cô đơn",
+      "exampleSentences": [
+        "He felt lonely in the new city.",
+        "She was lonely after moving away."
+      ]
+    },
+    {
+      "word": "longing",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlɑːŋ.ɪŋ/",
+      "meaning": "thèm khát, thèm muốn",
+      "exampleSentences": [
+        "He looked at the horizon with longing.",
+        "She had a longing for adventure."
+      ]
+    },
+    {
+      "word": "lost",
+      "partOfSpeech": "adjective",
+      "phonetic": "/lɑːst/",
+      "meaning": "lạc lõng, mất phương hướng",
+      "exampleSentences": [
+        "He felt lost in the crowd.",
+        "She was lost after the argument."
+      ]
+    },
+    {
+      "word": "lucky",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlʌk.i/",
+      "meaning": "may mắn",
+      "exampleSentences": [
+        "He was lucky to escape unharmed.",
+        "She felt lucky to have such friends."
+      ]
+    },
+    {
+      "word": "melancholic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌmel.əŋˈkɑː.lɪk/",
+      "meaning": "u sầu, buồn bã",
+      "exampleSentences": [
+        "He had a melancholic expression.",
+        "The music made her feel melancholic."
+      ]
+    },
+    {
+      "word": "miserable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmɪz.ɚ.ə.bəl/",
+      "meaning": "khốn khổ, đáng thương",
+      "exampleSentences": [
+        "He felt miserable after losing his job.",
+        "She looked miserable in the rain."
+      ]
+    },
+    {
+      "word": "mortified",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmɔːr.t̬ə.faɪd/",
+      "meaning": "xấu hổ, ái ngại",
+      "exampleSentences": [
+        "He was mortified by the mistake.",
+        "She felt mortified in front of the audience."
+      ]
+    },
+    {
+      "word": "mournful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmɔːrn.fəl/",
+      "meaning": "buồn rầu, ảm đạm",
+      "exampleSentences": [
+        "He gave a mournful sigh.",
+        "The mournful song made everyone sad."
+      ]
+    },
+    {
+      "word": "nasty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈnæs.ti/",
+      "meaning": "tục tĩu",
+      "exampleSentences": [
+        "He made a nasty comment.",
+        "The weather turned nasty."
+      ]
+    },
+    {
+      "word": "needy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈniː.di/",
+      "meaning": "thiếu thốn (về mặt tình cảm)",
+      "exampleSentences": [
+        "She felt needy after the breakup.",
+        "He is very needy for attention."
+      ]
+    },
+    {
+      "word": "nervous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈnɝː.vəs/",
+      "meaning": "lo lắng, bồn chồn",
+      "exampleSentences": [
+        "He was nervous before the exam.",
+        "She felt nervous about the interview."
+      ]
+    },
+    {
+      "word": "numb",
+      "partOfSpeech": "adjective",
+      "phonetic": "/nʌm/",
+      "meaning": "lặng người",
+      "exampleSentences": [
+        "His fingers were numb from the cold.",
+        "She felt numb after hearing the news."
+      ]
+    },
+    {
+      "word": "obsessed",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əbˈsest/",
+      "meaning": "ám ảnh",
+      "exampleSentences": [
+        "He is obsessed with video games.",
+        "She became obsessed with the new book series."
+      ]
+    },
+    {
+      "word": "offended",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈfendɪd/",
+      "meaning": "phật ý, cảm thấy bị xúc phạm",
+      "exampleSentences": [
+        "He was offended by the remark.",
+        "She felt offended by his behavior."
+      ]
+    },
+    {
+      "word": "optimistic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌɑːp.təˈmɪs.tɪk/",
+      "meaning": "lạc quan, yêu đời",
+      "exampleSentences": [
+        "He is optimistic about the future.",
+        "She remained optimistic despite difficulties."
+      ]
+    },
+    {
+      "word": "overwhelmed",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌoʊ.vɚˈwelmd/",
+      "meaning": "choáng ngợp, quá tải",
+      "exampleSentences": [
+        "She was overwhelmed by the support.",
+        "He felt overwhelmed with work."
+      ]
+    },
+    {
+      "word": "passionate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpæʃ.ən.ət/",
+      "meaning": "nồng nhiệt, thiết tha",
+      "exampleSentences": [
+        "He is passionate about music.",
+        "She spoke in a passionate tone."
+      ]
+    },
+    {
+      "word": "peaceful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpiːs.fəl/",
+      "meaning": "thanh thản, bình yên",
+      "exampleSentences": [
+        "The garden is very peaceful.",
+        "He felt peaceful after meditation."
+      ]
+    },
+    {
+      "word": "positive",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpɑː.zə.t̬ɪv/",
+      "meaning": "tích cực, lạc quan",
+      "exampleSentences": [
+        "She has a positive attitude.",
+        "He tried to stay positive."
+      ]
+    },
+    {
+      "word": "proud",
+      "partOfSpeech": "adjective",
+      "phonetic": "/praʊd/",
+      "meaning": "hãnh diện, tự hào",
+      "exampleSentences": [
+        "He was proud of his achievements.",
+        "She felt proud of her team."
+      ]
+    },
+    {
+      "word": "regretful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/rɪˈɡret.fəl/",
+      "meaning": "hối tiếc",
+      "exampleSentences": [
+        "He was regretful about the decision.",
+        "She looked regretful after the argument."
+      ]
+    },
+    {
+      "word": "relaxed",
+      "partOfSpeech": "adjective",
+      "phonetic": "/rɪˈlækst/",
+      "meaning": "thư giãn, thoải mái",
+      "exampleSentences": [
+        "He felt relaxed on vacation.",
+        "She was relaxed after yoga."
+      ]
+    },
+    {
+      "word": "relieved",
+      "partOfSpeech": "adjective",
+      "phonetic": "/rɪˈliːvd/",
+      "meaning": "nhẹ nhõm",
+      "exampleSentences": [
+        "He was relieved to hear the good news.",
+        "She felt relieved after the test."
+      ]
+    },
+    {
+      "word": "satisfied",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsæt̬.ɪs.faɪd/",
+      "meaning": "thỏa mãn, hài lòng",
+      "exampleSentences": [
+        "He was satisfied with his work.",
+        "She felt satisfied after completing the task."
+      ]
+    },
+    {
+      "word": "self-conscious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌselfˈkɑːn.ʃəs/",
+      "meaning": "e dè, ngượng nghịu",
+      "exampleSentences": [
+        "He felt self-conscious at the party.",
+        "She was self-conscious about her appearance."
+      ]
+    },
+    {
+      "word": "selfish",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsel.fɪʃ/",
+      "meaning": "ích kỷ",
+      "exampleSentences": [
+        "He is selfish with his belongings.",
+        "She acted selfishly."
+      ]
+    },
+    {
+      "word": "sensitive",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsen.sə.t̬ɪv/",
+      "meaning": "nhạy cảm, dễ tổn thương",
+      "exampleSentences": [
+        "He is very sensitive to criticism.",
+        "She is sensitive about her past."
+      ]
+    },
+    {
+      "word": "shameful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈʃeɪm.fəl/",
+      "meaning": "đáng hổ thẹn, ngượng",
+      "exampleSentences": [
+        "It was a shameful act.",
+        "He felt shameful about lying."
+      ]
+    },
+    {
+      "word": "shock",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʃɑːkt/",
+      "meaning": "bất ngờ, sốc",
+      "exampleSentences": [
+        "He was in shock after the accident.",
+        "She looked shocked at the news."
+      ]
+    },
+    {
+      "word": "speechless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈspiːtʃ.ləs/",
+      "meaning": "câm nín",
+      "exampleSentences": [
+        "He was speechless at the sight.",
+        "She was speechless with surprise."
+      ]
+    },
+    {
+      "word": "stressed",
+      "partOfSpeech": "adjective",
+      "phonetic": "/strest/",
+      "meaning": "căng thẳng",
+      "exampleSentences": [
+        "He felt stressed about the deadline.",
+        "She is stressed from work."
+      ]
+    },
+    {
+      "word": "stunned",
+      "partOfSpeech": "adjective",
+      "phonetic": "/stʌnd/",
+      "meaning": "sững sờ, bất ngờ",
+      "exampleSentences": [
+        "He was stunned by the result.",
+        "She looked stunned at the revelation."
+      ]
+    },
+    {
+      "word": "surprised",
+      "partOfSpeech": "adjective",
+      "phonetic": "/sɚˈpraɪzd/",
+      "meaning": "bất ngờ, ngạc nhiên",
+      "exampleSentences": [
+        "He was surprised by the gift.",
+        "She seemed surprised at the news."
+      ]
+    },
+    {
+      "word": "thankful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈθæŋk.fəl/",
+      "meaning": "biết ơn",
+      "exampleSentences": [
+        "I am thankful for your help.",
+        "She felt thankful for the support."
+      ]
+    },
+    {
+      "word": "upbeat",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈʌp.biːt/",
+      "meaning": "vui vẻ, phấn chấn",
+      "exampleSentences": [
+        "He is always upbeat in the morning.",
+        "She had an upbeat attitude."
+      ]
+    },
+    {
+      "word": "uptight",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌʌpˈtaɪt/",
+      "meaning": "căng thẳng, lo lắng",
+      "exampleSentences": [
+        "He was uptight about the presentation.",
+        "She felt uptight before the meeting."
+      ]
+    }
+  ]
+}

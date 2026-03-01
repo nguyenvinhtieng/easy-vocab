@@ -1,0 +1,6949 @@
+{
+  "topic": "1000 từ vựng IELTS thông dụng nhất",
+  "vocabs": [
+    {
+      "word": "abandon",
+      "partOfSpeech": "verb",
+      "phonetic": "/ə'bændən/",
+      "meaning": "từ bỏ; bỏ rơi, ruồng bỏ",
+      "exampleSentences": []
+    },
+    {
+      "word": "abode",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /əˈbəʊd/ nơi ở, sự lưu trú",
+      "exampleSentences": []
+    },
+    {
+      "word": "abort",
+      "partOfSpeech": "verb",
+      "phonetic": "/ə'bɔ:t/",
+      "meaning": "sẩy thai, làm sẩy thai, phá thai",
+      "exampleSentences": []
+    },
+    {
+      "word": "abortion",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'bɔ:∫n/",
+      "meaning": "sự sẩy thai, sự phá thai; sự nạo thai",
+      "exampleSentences": []
+    },
+    {
+      "word": "abroad",
+      "partOfSpeech": "adverb",
+      "phonetic": "/əˈbrɔːd/",
+      "meaning": "ở nước ngoài, ra nước ngoài",
+      "exampleSentences": []
+    },
+    {
+      "word": "absent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈæbsənt/",
+      "meaning": "vắng mặt, đi nghỉ",
+      "exampleSentences": []
+    },
+    {
+      "word": "abstraction",
+      "partOfSpeech": "noun",
+      "phonetic": "/æbˈstrækʃn/",
+      "meaning": "sự trừu tượng, cái nhìn trừu tượng",
+      "exampleSentences": []
+    },
+    {
+      "word": "absurd",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əb'sə:d/",
+      "meaning": "vô lý, ngu xuẩn, ngớ ngẩn",
+      "exampleSentences": []
+    },
+    {
+      "word": "abuse",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə´bju:z/",
+      "meaning": "sự lạm dụng",
+      "exampleSentences": []
+    },
+    {
+      "word": "academic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌækəˈdɛmɪk/",
+      "meaning": "(thuộc) học viện; (thuộc) trường đại học",
+      "exampleSentences": []
+    },
+    {
+      "word": "academy",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'kædəmi/",
+      "meaning": "học viện",
+      "exampleSentences": []
+    },
+    {
+      "word": "access",
+      "partOfSpeech": "noun",
+      "phonetic": "/'ækses/",
+      "meaning": "lối vào, cửa vào, đường vào",
+      "exampleSentences": []
+    },
+    {
+      "word": "accomplish",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈkɑːmplɪʃ/",
+      "meaning": "hoàn thành, làm xong, đạt được (mục",
+      "exampleSentences": []
+    },
+    {
+      "word": "accord",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈkɔːrd/",
+      "meaning": "phù hợp, hòa hợp",
+      "exampleSentences": []
+    },
+    {
+      "word": "account",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ə'kaunt/ sự tính toán, tính toán",
+      "exampleSentences": []
+    },
+    {
+      "word": "accountant",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə´kauntənt/",
+      "meaning": "nhân viên kế toán, người giữ sổ sách kế",
+      "exampleSentences": []
+    },
+    {
+      "word": "accurate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈækjərət/",
+      "meaning": "đúng đắn, chính xác, xác đáng",
+      "exampleSentences": []
+    },
+    {
+      "word": "accuse",
+      "partOfSpeech": "verb",
+      "phonetic": "/əkjuːz/",
+      "meaning": "buộc tội, kết tội, tố cáo",
+      "exampleSentences": []
+    },
+    {
+      "word": "accused",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'kju:zt/",
+      "meaning": "bị cáo",
+      "exampleSentences": []
+    },
+    {
+      "word": "achieve",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈtʃiːv/",
+      "meaning": "đạt được, giành được",
+      "exampleSentences": []
+    },
+    {
+      "word": "acid",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /'æsid/ (hoá học) axit, chua",
+      "exampleSentences": []
+    },
+    {
+      "word": "acknowledge",
+      "partOfSpeech": "verb",
+      "phonetic": "/ək'nɔlidʤ/",
+      "meaning": "nhận, thừa nhận, công nhận",
+      "exampleSentences": []
+    },
+    {
+      "word": "acquit",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈkwɪt/",
+      "meaning": "tha tội, tuyên bố trắng án",
+      "exampleSentences": []
+    },
+    {
+      "word": "active",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈæktɪv/",
+      "meaning": "tích cực, nhanh nhẹn, lanh lợi",
+      "exampleSentences": []
+    },
+    {
+      "word": "activity",
+      "partOfSpeech": "noun",
+      "phonetic": "/ækˈtɪvəti/",
+      "meaning": "sự tích cực, hoạt động",
+      "exampleSentences": []
+    },
+    {
+      "word": "adamant",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈædəmənt/ kỷ cương; cứng rắn",
+      "exampleSentences": []
+    },
+    {
+      "word": "add",
+      "partOfSpeech": "verb",
+      "phonetic": "/æd/",
+      "meaning": "thêm vào, làm tăng thêm",
+      "exampleSentences": []
+    },
+    {
+      "word": "address",
+      "partOfSpeech": "noun",
+      "phonetic": "/'ædres/",
+      "meaning": "địa chỉ",
+      "exampleSentences": []
+    },
+    {
+      "word": "adequate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈædɪkwət/",
+      "meaning": "đủ, đầy đủ, tương xứng, xứng đáng",
+      "exampleSentences": []
+    },
+    {
+      "word": "adjust",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈdʒʌst/",
+      "meaning": "sửa lại cho đúng, điều chỉnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "administration",
+      "partOfSpeech": "noun",
+      "phonetic": "/ədmini'streiʃn/",
+      "meaning": "sự trông nom, sự quản lý; sự cai quản, sự",
+      "exampleSentences": []
+    },
+    {
+      "word": "admit",
+      "partOfSpeech": "verb",
+      "phonetic": "/ədˈmɪt/",
+      "meaning": "nhận vào",
+      "exampleSentences": []
+    },
+    {
+      "word": "adopt",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈdɒpt/",
+      "meaning": "nhận làm con nuôi",
+      "exampleSentences": []
+    },
+    {
+      "word": "adore",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈdɔr , əˈdoʊr/",
+      "meaning": "ngưỡng vọng, kính yêu",
+      "exampleSentences": []
+    },
+    {
+      "word": "adroit",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈdrɔɪt/",
+      "meaning": "khéo léo, khéo tay",
+      "exampleSentences": []
+    },
+    {
+      "word": "adult",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /'ædʌlt",
+      "exampleSentences": []
+    },
+    {
+      "word": "adversity",
+      "partOfSpeech": "noun",
+      "phonetic": "/ədˈvɜːrsəti/",
+      "meaning": "sự bất hạnh, nghịch cảnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "affect",
+      "partOfSpeech": "verb",
+      "phonetic": "/ə'fekt/",
+      "meaning": "làm ảnh hưởng đến, làm tác động đến;",
+      "exampleSentences": []
+    },
+    {
+      "word": "affection",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʌ.fɛk.ʃən/",
+      "meaning": "sự làm ảnh hưởng đến, sự làm tác động",
+      "exampleSentences": []
+    },
+    {
+      "word": "affectionate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈfekʃənət/",
+      "meaning": "thương yêu, trìu mến",
+      "exampleSentences": []
+    },
+    {
+      "word": "afford",
+      "partOfSpeech": "verb",
+      "phonetic": "/ə'fɔ:rd/",
+      "meaning": "kính yêu, kính mến",
+      "exampleSentences": []
+    },
+    {
+      "word": "agency",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈeɪdʒənsi/",
+      "meaning": "tác dụng, lực",
+      "exampleSentences": []
+    },
+    {
+      "word": "agenda",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə´dʒendə/",
+      "meaning": "những việc phải làm",
+      "exampleSentences": []
+    },
+    {
+      "word": "aggressive",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈɡresɪv/",
+      "meaning": "hay gây hấn, hung hãn, hung hăng",
+      "exampleSentences": []
+    },
+    {
+      "word": "agility",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈdʒɪləti/",
+      "meaning": "sự nhanh nhẹn, lanh lợi",
+      "exampleSentences": []
+    },
+    {
+      "word": "agitate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈædʒɪteɪt/",
+      "meaning": "khích động, làm xúc động",
+      "exampleSentences": []
+    },
+    {
+      "word": "agree",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈɡriː/",
+      "meaning": "đồng ý, chấp thuận",
+      "exampleSentences": []
+    },
+    {
+      "word": "agreement",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'gri:mənt/",
+      "meaning": "hiệp định, hiệp nghị",
+      "exampleSentences": []
+    },
+    {
+      "word": "aid",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /eɪd/ sự giúp đỡ, sự viện trợ; cứu trợ",
+      "exampleSentences": []
+    },
+    {
+      "word": "air",
+      "partOfSpeech": "noun",
+      "phonetic": "/er/",
+      "meaning": "bầu không khí, không khí",
+      "exampleSentences": []
+    },
+    {
+      "word": "aisle",
+      "partOfSpeech": "noun",
+      "phonetic": "/aɪl/",
+      "meaning": "cánh, gian bên trong",
+      "exampleSentences": []
+    },
+    {
+      "word": "alarm",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'lɑ:m/",
+      "meaning": "sự báo động, sự báo nguy",
+      "exampleSentences": []
+    },
+    {
+      "word": "album",
+      "partOfSpeech": "noun",
+      "phonetic": "/´ælbəm/",
+      "meaning": "tập ảnh, quyển album",
+      "exampleSentences": []
+    },
+    {
+      "word": "alien",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'eiliən/",
+      "meaning": "xa lạ",
+      "exampleSentences": []
+    },
+    {
+      "word": "alike",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /əˈlaɪk/ tương tự, giống nhau, như nhau",
+      "exampleSentences": []
+    },
+    {
+      "word": "alliance",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'laiəns/",
+      "meaning": "sự liên minh, khối liên minh",
+      "exampleSentences": []
+    },
+    {
+      "word": "allow",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈlaʊ/",
+      "meaning": "cho phép, để cho",
+      "exampleSentences": []
+    },
+    {
+      "word": "allure",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /əˈlʊr/ sức quyến rũ; cám dỗ",
+      "exampleSentences": []
+    },
+    {
+      "word": "ally",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ə´lai/ nước đồng minh, liên kết, liên minh",
+      "exampleSentences": []
+    },
+    {
+      "word": "alone",
+      "partOfSpeech": "adverb",
+      "phonetic": "",
+      "meaning": ", adj /ə'loun/ một mình, trơ trọi, cô đơn, đơn độc",
+      "exampleSentences": []
+    },
+    {
+      "word": "alteration",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌɔːltəˈreɪʃn/",
+      "meaning": "sự thay đổi, điều chỉnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "alternative",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": "/ɔlˈtɜrnətɪv ,",
+      "exampleSentences": []
+    },
+    {
+      "word": "always",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meaning": "luôn luôn, mọi lúc",
+      "exampleSentences": []
+    },
+    {
+      "word": "amateur",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈæmətʃər/",
+      "exampleSentences": []
+    },
+    {
+      "word": "amaze",
+      "partOfSpeech": "verb",
+      "phonetic": "/ə´meiz/",
+      "meaning": "làm kinh ngạc, làm sửng sốt",
+      "exampleSentences": []
+    },
+    {
+      "word": "ambassador",
+      "partOfSpeech": "noun",
+      "phonetic": "/æm'bæsədə/",
+      "meaning": "đại sứ",
+      "exampleSentences": []
+    },
+    {
+      "word": "ambience",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈæmbiəns/",
+      "meaning": "môi trường, không khí ở một địa điểm",
+      "exampleSentences": []
+    },
+    {
+      "word": "ambition",
+      "partOfSpeech": "noun",
+      "phonetic": "/æmˈbɪʃn/",
+      "meaning": "đam mê, khát vọng, tham vọng",
+      "exampleSentences": []
+    },
+    {
+      "word": "ambitious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/æmˈbɪʃəs/",
+      "meaning": "có nhiều khát vọng, tham vọng",
+      "exampleSentences": []
+    },
+    {
+      "word": "ambulance",
+      "partOfSpeech": "noun",
+      "phonetic": "/'æmbjuləns/",
+      "meaning": "xe cứu thương, xe cấp cứu",
+      "exampleSentences": []
+    },
+    {
+      "word": "amiable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈeɪmiəbl/",
+      "meaning": "đáng mến, dễ thương",
+      "exampleSentences": []
+    },
+    {
+      "word": "amicable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈæmɪkəbl/",
+      "meaning": "thân ái, thân mật, thân tình",
+      "exampleSentences": []
+    },
+    {
+      "word": "amount",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /əˈmaʊnt/ số lượng, lượng; cộng dồn lên đến",
+      "exampleSentences": []
+    },
+    {
+      "word": "ample",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈæmpl/",
+      "meaning": "phong phú, nhiều",
+      "exampleSentences": []
+    },
+    {
+      "word": "amusing",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈmjuːzɪŋ/",
+      "meaning": "có tính giải trí, buồn cười",
+      "exampleSentences": []
+    },
+    {
+      "word": "angelic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ænˈdʒelɪk/",
+      "meaning": "tốt bụng, thánh thiện như thiên thần",
+      "exampleSentences": []
+    },
+    {
+      "word": "angry",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈæŋɡri/",
+      "meaning": "cáu giận, tức giận",
+      "exampleSentences": []
+    },
+    {
+      "word": "anguish",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈæŋɡwɪʃ/",
+      "meaning": "nỗi đau đớn, khổ não",
+      "exampleSentences": []
+    },
+    {
+      "word": "anniversary",
+      "partOfSpeech": "noun",
+      "phonetic": "/¸æni´və:səri/",
+      "meaning": "ngày kỷ niệm; lễ kỷ niệm",
+      "exampleSentences": []
+    },
+    {
+      "word": "annoy",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈnɔɪ/",
+      "meaning": "quấy rầy, làm phiền",
+      "exampleSentences": []
+    },
+    {
+      "word": "annual",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'ænjuəl/",
+      "meaning": "hàng năm, từng năm",
+      "exampleSentences": []
+    },
+    {
+      "word": "anonymous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ə'nɔniməs/",
+      "meaning": "giấu tên, ẩn danh, nặc danh",
+      "exampleSentences": []
+    },
+    {
+      "word": "answer",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈænsər/ câu trả lời; hồi đáp, trả lời",
+      "exampleSentences": []
+    },
+    {
+      "word": "antiquated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈæntɪkweɪtɪd/",
+      "meaning": "cổ xưa, cũ kỹ, không hợp thời",
+      "exampleSentences": []
+    },
+    {
+      "word": "antique",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ænˈtik/",
+      "meaning": "cổ, cổ xưa, theo lối cổ",
+      "exampleSentences": []
+    },
+    {
+      "word": "anxiety",
+      "partOfSpeech": "noun",
+      "phonetic": "/æɳ'zaiəti/",
+      "meaning": "mối lo, mối lo âu, mối băn khoăn; sự lo",
+      "exampleSentences": []
+    },
+    {
+      "word": "anxious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈæŋkʃəs/",
+      "meaning": "lo âu, băn khoăn",
+      "exampleSentences": []
+    },
+    {
+      "word": "anyhow",
+      "partOfSpeech": "adverb",
+      "phonetic": "/'enihau/",
+      "meaning": "thế nào cũng được, cách nào cũng được",
+      "exampleSentences": []
+    },
+    {
+      "word": "apart",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ə'pɑ:t/",
+      "meaning": "về một bên, qua một bên, riêng ra, xa ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "appeal",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'pi:l/",
+      "meaning": "sự kêu gọi; lời kêu gọi",
+      "exampleSentences": []
+    },
+    {
+      "word": "appetite",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈæpɪˌtaɪt/",
+      "meaning": "sự ngon miệng, sự thèm ăn",
+      "exampleSentences": []
+    },
+    {
+      "word": "apply",
+      "partOfSpeech": "verb",
+      "phonetic": "/ə´plai/",
+      "meaning": "gắn vào, áp vào, ghép vào, đính vào",
+      "exampleSentences": []
+    },
+    {
+      "word": "appointment",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'pɔintmənt/",
+      "meaning": "sự bổ nhiệm, chức vụ được bổ nhiệm",
+      "exampleSentences": []
+    },
+    {
+      "word": "appreciate",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈpriʃiˌeɪt/",
+      "meaning": "đánh giá, cảm kích",
+      "exampleSentences": []
+    },
+    {
+      "word": "appreciation",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˌpriːʃiˈeɪʃn/",
+      "meaning": "sự đánh giá cao, sự cảm kích",
+      "exampleSentences": []
+    },
+    {
+      "word": "approach",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə´proutʃ/",
+      "meaning": "sự đến gần, sự lại gần",
+      "exampleSentences": []
+    },
+    {
+      "word": "appropriate",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /ə'proupriət/ thích hợp, thích đáng",
+      "exampleSentences": []
+    },
+    {
+      "word": "approval",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'pru:vl/",
+      "meaning": "sự tán thành, sự đồng ý, sự chấp thuận",
+      "exampleSentences": []
+    },
+    {
+      "word": "approve",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈpruːv/",
+      "meaning": "tán thành, chấp thuận, bằng lòng",
+      "exampleSentences": []
+    },
+    {
+      "word": "area",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈeriə/",
+      "meaning": "diện tích, khu vực, lĩnh vực",
+      "exampleSentences": []
+    },
+    {
+      "word": "argue",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈɑrgyu/",
+      "meaning": "chứng tỏ, chỉ rõ",
+      "exampleSentences": []
+    },
+    {
+      "word": "arrive",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "đến nơi, đạt tới",
+      "exampleSentences": []
+    },
+    {
+      "word": "arrogant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'ærəgənt/",
+      "meaning": "kiêu ngạo, kiêu căng, ngạo mạn",
+      "exampleSentences": []
+    },
+    {
+      "word": "article",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɑrtɪkəl/",
+      "meaning": "bài báo",
+      "exampleSentences": []
+    },
+    {
+      "word": "ashamed",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ə'ʃeimd/",
+      "meaning": "xấu hổ, ngượng ngùng",
+      "exampleSentences": []
+    },
+    {
+      "word": "aside",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ə'said/",
+      "meaning": "về một bên, sang một bên",
+      "exampleSentences": []
+    },
+    {
+      "word": "ask",
+      "partOfSpeech": "verb",
+      "phonetic": "/æsk/",
+      "meaning": "hỏi, yêu cầu",
+      "exampleSentences": []
+    },
+    {
+      "word": "aspirin",
+      "partOfSpeech": "noun",
+      "phonetic": "/´æspirin/",
+      "meaning": "(dược học) atpirin",
+      "exampleSentences": []
+    },
+    {
+      "word": "aspiring",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈspaɪərɪŋ/",
+      "meaning": "thiết tha, mong mỏi, khao khát",
+      "exampleSentences": []
+    },
+    {
+      "word": "assault",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /əˈsɔːlt/ cuộc tấn công, đột kích; tấn công, công",
+      "exampleSentences": []
+    },
+    {
+      "word": "assembly",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈsembli/",
+      "meaning": "cuộc họp, dây chuyền",
+      "exampleSentences": []
+    },
+    {
+      "word": "assertive",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈsɜːrtɪv/",
+      "meaning": "quả quyết, quyết đoán",
+      "exampleSentences": []
+    },
+    {
+      "word": "assess",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈses/",
+      "meaning": "định giá, đánh giá",
+      "exampleSentences": []
+    },
+    {
+      "word": "asset",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈæset/",
+      "meaning": "tài sản, món quý",
+      "exampleSentences": []
+    },
+    {
+      "word": "assist",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈsɪst/",
+      "meaning": "giúp, giúp đỡ",
+      "exampleSentences": []
+    },
+    {
+      "word": "associate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈsoʊsieɪt/",
+      "meaning": "kết giao, kết hợp",
+      "exampleSentences": []
+    },
+    {
+      "word": "assume",
+      "partOfSpeech": "verb",
+      "phonetic": "/ə'sju:m/",
+      "meaning": "mang, khoác, có, lấy",
+      "exampleSentences": []
+    },
+    {
+      "word": "assure",
+      "partOfSpeech": "verb",
+      "phonetic": "/ə´ʃuə/",
+      "meaning": "quả quyết, cam đoan",
+      "exampleSentences": []
+    },
+    {
+      "word": "astonishing",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈstɑːnɪʃɪŋ/",
+      "meaning": "gây bất ngờ, làm ngạc nhiên",
+      "exampleSentences": []
+    },
+    {
+      "word": "atrocious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈtrəʊʃəs/",
+      "meaning": "hung bạo, tàn ác, tồi tệ",
+      "exampleSentences": []
+    },
+    {
+      "word": "attack",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ə'tæk/ sự tấn công, tấn công",
+      "exampleSentences": []
+    },
+    {
+      "word": "attempt",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'tempt/",
+      "meaning": "sự cố gắng, sự thử",
+      "exampleSentences": []
+    },
+    {
+      "word": "attend",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈtɛnd/",
+      "meaning": "dự, có mặt",
+      "exampleSentences": []
+    },
+    {
+      "word": "attire",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /əˈtaɪər/ quần áo, đồ trang điểm; mặc quần áo",
+      "exampleSentences": []
+    },
+    {
+      "word": "attitude",
+      "partOfSpeech": "noun",
+      "phonetic": "/'ætitju:d/",
+      "meaning": "thái độ, quan điểm",
+      "exampleSentences": []
+    },
+    {
+      "word": "attorney",
+      "partOfSpeech": "noun",
+      "phonetic": "/ə'tз:ni/",
+      "meaning": "người được ủy quyền đại diện",
+      "exampleSentences": []
+    },
+    {
+      "word": "attract",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈtrækt/",
+      "meaning": "thu hút, hấp dẫn",
+      "exampleSentences": []
+    },
+    {
+      "word": "attractive",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ə'træktiv/",
+      "meaning": "hút, thu hút, hấp dẫn",
+      "exampleSentences": []
+    },
+    {
+      "word": "auction",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /'ɔ:k∫n/ sự bán đấu giá",
+      "exampleSentences": []
+    },
+    {
+      "word": "audacious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɔːˈdeɪʃəs/",
+      "meaning": "trơ tráo, táo bạo",
+      "exampleSentences": []
+    },
+    {
+      "word": "audience",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɔdiəns/",
+      "meaning": "người nghe, thính giả, người xem, khán giả",
+      "exampleSentences": []
+    },
+    {
+      "word": "authentic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɔːˈθentɪk/",
+      "meaning": "đích thực, xác thực",
+      "exampleSentences": []
+    },
+    {
+      "word": "authority",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈθɔrɪti , əˈθɒrɪti/",
+      "meaning": "uy quyền, quyền lực, quyền thế",
+      "exampleSentences": []
+    },
+    {
+      "word": "available",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ə'veɪləbl/",
+      "meaning": "sẵn có, có thể dùng được",
+      "exampleSentences": []
+    },
+    {
+      "word": "avenge",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈvendʒ/",
+      "meaning": "trả thù, báo thù",
+      "exampleSentences": []
+    },
+    {
+      "word": "avoid",
+      "partOfSpeech": "verb",
+      "phonetic": "/ə'void/",
+      "meaning": "tránh, tránh xa, ngăn ngừa",
+      "exampleSentences": []
+    },
+    {
+      "word": "aware",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ə'weə(r)/",
+      "meaning": "biết, nhận thấy, nhận thức thấy",
+      "exampleSentences": []
+    },
+    {
+      "word": "away",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /əˈweɪ/ rời xa, đi xa, biến đi",
+      "exampleSentences": []
+    },
+    {
+      "word": "awful",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /ˈɔːfl/ đáng sợ, khủng khiếp; cực kỳ",
+      "exampleSentences": []
+    },
+    {
+      "word": "awkward",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'ɔ:kwəd/",
+      "meaning": "vụng về, lúng túng, ngượng ngịu",
+      "exampleSentences": []
+    },
+    {
+      "word": "baby",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbeɪbi/",
+      "meaning": "đứa trẻ",
+      "exampleSentences": []
+    },
+    {
+      "word": "bachelor",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": "/ˈbætʃələr/",
+      "exampleSentences": []
+    },
+    {
+      "word": "backward",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'bækwəd/",
+      "meaning": "về phía sau, giật lùi",
+      "exampleSentences": []
+    },
+    {
+      "word": "bacon",
+      "partOfSpeech": "noun",
+      "phonetic": "/'beikən/",
+      "meaning": "thịt lưng lợn muối xông khói",
+      "exampleSentences": []
+    },
+    {
+      "word": "badge",
+      "partOfSpeech": "noun",
+      "phonetic": "/bæʤ/",
+      "meaning": "huy hiệu, phù hiệu; quân hàm",
+      "exampleSentences": []
+    },
+    {
+      "word": "baggage",
+      "partOfSpeech": "noun",
+      "phonetic": "/'bægiʤ/",
+      "meaning": "hành lý",
+      "exampleSentences": []
+    },
+    {
+      "word": "bait",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /beit/ mồi, bả",
+      "exampleSentences": []
+    },
+    {
+      "word": "bake",
+      "partOfSpeech": "verb",
+      "phonetic": "/beik/",
+      "meaning": "bỏ lò, nướng bằng lò",
+      "exampleSentences": []
+    },
+    {
+      "word": "balance",
+      "partOfSpeech": "noun",
+      "phonetic": "/'bæləns/",
+      "meaning": "cái cân, sự thăng bằng",
+      "exampleSentences": []
+    },
+    {
+      "word": "balcony",
+      "partOfSpeech": "noun",
+      "phonetic": "/'bælkəni/",
+      "meaning": "ban công",
+      "exampleSentences": []
+    },
+    {
+      "word": "bald",
+      "partOfSpeech": "adjective",
+      "phonetic": "/bɔ:ld/",
+      "meaning": "hói đầu, trọc trụi",
+      "exampleSentences": []
+    },
+    {
+      "word": "ballet",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": "/bæˈleɪ/",
+      "exampleSentences": []
+    },
+    {
+      "word": "band",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /bænd/ dải, băng, đai, nẹp, buộc dải, buộc băng",
+      "exampleSentences": []
+    },
+    {
+      "word": "bane",
+      "partOfSpeech": "noun",
+      "phonetic": "/beɪn/",
+      "meaning": "nguyên do, nỗi khổ",
+      "exampleSentences": []
+    },
+    {
+      "word": "bang",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /bæη/ tóc mái, đánh mạnh, đánh đập",
+      "exampleSentences": []
+    },
+    {
+      "word": "banner",
+      "partOfSpeech": "noun",
+      "phonetic": "/'bænə/",
+      "meaning": "ngọn cờ",
+      "exampleSentences": []
+    },
+    {
+      "word": "bar",
+      "partOfSpeech": "noun",
+      "phonetic": "/ba:/",
+      "meaning": "quầy bán rượu",
+      "exampleSentences": []
+    },
+    {
+      "word": "barbecue",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /´ba:bi¸kju:/ lợn (bò, cừu) nướng (quay) cả con",
+      "exampleSentences": []
+    },
+    {
+      "word": "bare",
+      "partOfSpeech": "adjective",
+      "phonetic": "/beə(r)/",
+      "meaning": "trần, trần truồng, trọc, trần trụi",
+      "exampleSentences": []
+    },
+    {
+      "word": "barely",
+      "partOfSpeech": "adverb",
+      "phonetic": "/'beəli/",
+      "meaning": "công khai, rõ ràng",
+      "exampleSentences": []
+    },
+    {
+      "word": "bargain",
+      "partOfSpeech": "noun",
+      "phonetic": "/´ba:gin/",
+      "meaning": "sự mặc cả, sự thoả thuận mua bán",
+      "exampleSentences": []
+    },
+    {
+      "word": "barn",
+      "partOfSpeech": "noun",
+      "phonetic": "/ba:n/",
+      "meaning": "kho thóc",
+      "exampleSentences": []
+    },
+    {
+      "word": "barrel",
+      "partOfSpeech": "noun",
+      "phonetic": "/'bærəl/",
+      "meaning": "thùng tròn, lớn, thường được làm bằng gỗ",
+      "exampleSentences": []
+    },
+    {
+      "word": "baseball",
+      "partOfSpeech": "noun",
+      "phonetic": "/´beis¸bɔ:l/",
+      "meaning": "(thể dục,thể thao) bóng chày",
+      "exampleSentences": []
+    },
+    {
+      "word": "basement",
+      "partOfSpeech": "noun",
+      "phonetic": "/´beismənt/",
+      "meaning": "nền móng, móng (của một bức tường...)",
+      "exampleSentences": []
+    },
+    {
+      "word": "bashful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈbæʃfl/",
+      "meaning": "rụt rè, bẽn lẽn",
+      "exampleSentences": []
+    },
+    {
+      "word": "battery",
+      "partOfSpeech": "noun",
+      "phonetic": "/'bætəri/",
+      "meaning": "bộ pin, ắc quy",
+      "exampleSentences": []
+    },
+    {
+      "word": "bay",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", n /bei/ hồng, vịnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "beam",
+      "partOfSpeech": "noun",
+      "phonetic": "/bi:m/",
+      "meaning": "xà, dầm",
+      "exampleSentences": []
+    },
+    {
+      "word": "bear",
+      "partOfSpeech": "verb",
+      "phonetic": "/beə/",
+      "meaning": "mang, cầm, vác, đội, đeo, ôm, chịu đựng",
+      "exampleSentences": []
+    },
+    {
+      "word": "bearing",
+      "partOfSpeech": "noun",
+      "phonetic": "/´bɛəriη/",
+      "meaning": "sự chịu đựng, sự sinh đẻ",
+      "exampleSentences": []
+    },
+    {
+      "word": "beat",
+      "partOfSpeech": "noun",
+      "phonetic": "/bi:t/",
+      "meaning": "sự đập, tiếng đập",
+      "exampleSentences": []
+    },
+    {
+      "word": "beaten",
+      "partOfSpeech": "adjective",
+      "phonetic": "/bi:tn/",
+      "meaning": "đập, nện (nền đường...)",
+      "exampleSentences": []
+    },
+    {
+      "word": "beautiful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meaning": "xinh đẹp, tuyệt vời",
+      "exampleSentences": []
+    },
+    {
+      "word": "beg",
+      "partOfSpeech": "verb",
+      "phonetic": "/beɡ/",
+      "meaning": "ăn xin, xin xỏ, cầu xin",
+      "exampleSentences": []
+    },
+    {
+      "word": "begin",
+      "partOfSpeech": "verb",
+      "phonetic": "/bɪˈɡɪn/",
+      "meaning": "bắt đầu, khởi đầu",
+      "exampleSentences": []
+    },
+    {
+      "word": "beginning",
+      "partOfSpeech": "noun",
+      "phonetic": "/bɪˈɡɪnɪŋ/",
+      "meaning": "lúc bắt đầu, căn nguyên",
+      "exampleSentences": []
+    },
+    {
+      "word": "behalf",
+      "partOfSpeech": "noun",
+      "phonetic": "/bɪ'hæf/",
+      "meaning": "thay mặt cho ai đó",
+      "exampleSentences": []
+    },
+    {
+      "word": "behave",
+      "partOfSpeech": "verb",
+      "phonetic": "/bi'heiv/",
+      "meaning": "ăn ở, đối xử, cư xử",
+      "exampleSentences": []
+    },
+    {
+      "word": "behoove",
+      "partOfSpeech": "verb",
+      "phonetic": "/bɪˈhuːv/",
+      "meaning": "có nhiệm vụ",
+      "exampleSentences": []
+    },
+    {
+      "word": "believe",
+      "partOfSpeech": "verb",
+      "phonetic": "/bɪˈliːv/",
+      "meaning": "tin tưởng",
+      "exampleSentences": []
+    },
+    {
+      "word": "belly",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈbɛli/ bụng; dạ dày, phồng ra (cánh buồm...)",
+      "exampleSentences": []
+    },
+    {
+      "word": "beloved",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", n /bi'lʌvid/ được yêu mến, được yêu quý, người yêu",
+      "exampleSentences": []
+    },
+    {
+      "word": "below",
+      "partOfSpeech": "adverb",
+      "phonetic": "",
+      "meaning": ", prep /bɪˈləʊ/ ở dưới, cấp dưới, thấp hơn",
+      "exampleSentences": []
+    },
+    {
+      "word": "bend",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /bɛnd/ chỗ uốn, chỗ cong, cúi xuống, uốn cong",
+      "exampleSentences": []
+    },
+    {
+      "word": "beneficial",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌbenɪˈfɪʃl/",
+      "meaning": "có ích, có lợi",
+      "exampleSentences": []
+    },
+    {
+      "word": "benefit",
+      "partOfSpeech": "noun",
+      "phonetic": "/'benɪfɪt/",
+      "meaning": "lợi, lợi ích",
+      "exampleSentences": []
+    },
+    {
+      "word": "benevolent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/bəˈnevələnt/",
+      "meaning": "nhân từ, từ thiện",
+      "exampleSentences": []
+    },
+    {
+      "word": "bent",
+      "partOfSpeech": "noun",
+      "phonetic": "/bent/",
+      "meaning": "khiếu, sở thích; xu hướng, khuynh hướng",
+      "exampleSentences": []
+    },
+    {
+      "word": "berserk",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": "/bərˈsɜːrk/",
+      "exampleSentences": []
+    },
+    {
+      "word": "bet",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /bet/ đánh cược, sự đánh cược",
+      "exampleSentences": []
+    },
+    {
+      "word": "betray",
+      "partOfSpeech": "verb",
+      "phonetic": "/bi'trei/",
+      "meaning": "phản bội; phụ bạc, tiết lộ, để lộ",
+      "exampleSentences": []
+    },
+    {
+      "word": "bias",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈbaɪəs/ thành kiến, sự thiên vị; hướng (ý kiến), gây",
+      "exampleSentences": []
+    },
+    {
+      "word": "bid",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /bɪd/ sự đặt giá, trả giá",
+      "exampleSentences": []
+    },
+    {
+      "word": "big",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /bɪɡ/ to lớn",
+      "exampleSentences": []
+    },
+    {
+      "word": "big-hearted",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌbɪɡ ˈhɑːrtɪd/",
+      "meaning": "rộng lượng, hào hiệp",
+      "exampleSentences": []
+    },
+    {
+      "word": "bigoted",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈbɪɡətɪd/",
+      "meaning": "mù quáng",
+      "exampleSentences": []
+    },
+    {
+      "word": "birth",
+      "partOfSpeech": "noun",
+      "phonetic": "/bɜːrθ/",
+      "meaning": "sự sinh đẻ, ra đời",
+      "exampleSentences": []
+    },
+    {
+      "word": "bite",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /bait/ cắn, sự cắn, miếng cắn",
+      "exampleSentences": []
+    },
+    {
+      "word": "bizarre",
+      "partOfSpeech": "adjective",
+      "phonetic": "/bɪˈzɑːr/",
+      "meaning": "kỳ quái, kỳ dị",
+      "exampleSentences": []
+    },
+    {
+      "word": "blameless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈbleɪmləs/",
+      "meaning": "không thể chê được",
+      "exampleSentences": []
+    },
+    {
+      "word": "blank",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /blæŋk/ chỗ trống; để trống, trống rỗng, bần thần",
+      "exampleSentences": []
+    },
+    {
+      "word": "blend",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /blend/ hỗn hợp; trộn lẫn, pha trộn",
+      "exampleSentences": []
+    },
+    {
+      "word": "blossom",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈblɑːsəm/ hoa; ra hoa, trổ hoa",
+      "exampleSentences": []
+    },
+    {
+      "word": "blot",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /blɑːt/ vết nhơ, vết nhục; bôi nhọ, làm bẩn",
+      "exampleSentences": []
+    },
+    {
+      "word": "blunder",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈblʌndər/",
+      "meaning": "điều sai lầm, điều ngớ ngẩn",
+      "exampleSentences": []
+    },
+    {
+      "word": "boat",
+      "partOfSpeech": "noun",
+      "phonetic": "/bəʊt/",
+      "meaning": "tàu thủy, thuyền",
+      "exampleSentences": []
+    },
+    {
+      "word": "bold",
+      "partOfSpeech": "adjective",
+      "phonetic": "/bəʊld/",
+      "meaning": "táo bạo, gan dạ",
+      "exampleSentences": []
+    },
+    {
+      "word": "bottom",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbɑːtəm/",
+      "meaning": "phần đáy, dưới cùng",
+      "exampleSentences": []
+    },
+    {
+      "word": "brave",
+      "partOfSpeech": "adjective",
+      "phonetic": "/breɪv/",
+      "meaning": "gan dạ, dũng cảm; bất chấp, đương đầu với",
+      "exampleSentences": []
+    },
+    {
+      "word": "bravery",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbreɪvəri/",
+      "meaning": "tính gan dạ, sự dũng cảm",
+      "exampleSentences": []
+    },
+    {
+      "word": "break",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /breɪk/ chỗ vỡ, sự rạn vỡ; làm gãy, làm đổ vỡ;",
+      "exampleSentences": []
+    },
+    {
+      "word": "brief",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /briːf/ ngắn, vắn tắt; bản tóm tắt",
+      "exampleSentences": []
+    },
+    {
+      "word": "broad",
+      "partOfSpeech": "adjective",
+      "phonetic": "/brɔːd/",
+      "meaning": "rộng, bao la, mênh mông",
+      "exampleSentences": []
+    },
+    {
+      "word": "bumpy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈbʌmpi/",
+      "meaning": "gập ghềnh, mấp mô",
+      "exampleSentences": []
+    },
+    {
+      "word": "bungalow",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbʌŋɡələʊ/",
+      "meaning": "nhà một tầng",
+      "exampleSentences": []
+    },
+    {
+      "word": "calamity",
+      "partOfSpeech": "noun",
+      "phonetic": "/kəˈlæməti/",
+      "meaning": "tai họa, thiên tai, tai ương",
+      "exampleSentences": []
+    },
+    {
+      "word": "calendar",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkælɪndər/",
+      "meaning": "lịch",
+      "exampleSentences": []
+    },
+    {
+      "word": "calm",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kɑːm/",
+      "meaning": "bình tĩnh, điềm đạm",
+      "exampleSentences": []
+    },
+    {
+      "word": "candid",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkændɪd/",
+      "meaning": "thật thà, ngay thẳng, không xếp đặt",
+      "exampleSentences": []
+    },
+    {
+      "word": "carriage",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkærɪdʒ/",
+      "meaning": "xe ngựa",
+      "exampleSentences": []
+    },
+    {
+      "word": "casual",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", n /ˈkæʒuəl/ tự nhiên, như thường lệ, bình thường; quần",
+      "exampleSentences": []
+    },
+    {
+      "word": "cease",
+      "partOfSpeech": "verb",
+      "phonetic": "/siːs/",
+      "meaning": "thôi, ngừng",
+      "exampleSentences": []
+    },
+    {
+      "word": "center",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈsentər/ trung tâm; đặt làm trung tâm",
+      "exampleSentences": []
+    },
+    {
+      "word": "certain",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsɜːrtn/",
+      "meaning": "chắc chắn",
+      "exampleSentences": []
+    },
+    {
+      "word": "change",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /tʃeɪndʒ/ sự thay đổi, biến đổi; thay đổi",
+      "exampleSentences": []
+    },
+    {
+      "word": "chaos",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkeɪɑːs/",
+      "meaning": "sự hỗn loạn, lộn xộn",
+      "exampleSentences": []
+    },
+    {
+      "word": "charismatic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌkærɪzˈmætɪk/",
+      "meaning": "có sức hút, lôi cuốn",
+      "exampleSentences": []
+    },
+    {
+      "word": "chatterbox",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʃætərbɑːks/",
+      "meaning": "người ba hoa, nói nhiều",
+      "exampleSentences": []
+    },
+    {
+      "word": "chiefly",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈtʃiːfli/",
+      "meaning": "chủ yếu là, trước nhất",
+      "exampleSentences": []
+    },
+    {
+      "word": "chilly",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtʃɪli/",
+      "meaning": "lạnh lẽo, giá lạnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "chocolate",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʃɔːklət/",
+      "meaning": "sô cô la",
+      "exampleSentences": []
+    },
+    {
+      "word": "choice",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /tʃɔɪs/ lựa chọn, sự chọn lựa; chất lượng tốt",
+      "exampleSentences": []
+    },
+    {
+      "word": "choosy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtʃuːzi/",
+      "meaning": "khó chiều, kén chọn",
+      "exampleSentences": []
+    },
+    {
+      "word": "chubby",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtʃʌbi/",
+      "meaning": "mũm mĩm, mập mạp",
+      "exampleSentences": []
+    },
+    {
+      "word": "circuit",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈsɜːrkɪt/ chu vi, đường vòng quanh",
+      "exampleSentences": []
+    },
+    {
+      "word": "civil",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsɪvl/",
+      "meaning": "(thuộc) công dân",
+      "exampleSentences": []
+    },
+    {
+      "word": "clarify",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈklærəfaɪ/",
+      "meaning": "làm sáng tỏ, giải thích",
+      "exampleSentences": []
+    },
+    {
+      "word": "close",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /kləʊz/ đóng kín, đóng cửa",
+      "exampleSentences": []
+    },
+    {
+      "word": "coarse",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kɔːrs/",
+      "meaning": "thô (da, vải...)",
+      "exampleSentences": []
+    },
+    {
+      "word": "collect",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəˈlekt/",
+      "meaning": "tập hợp, thu lượm, thu thập",
+      "exampleSentences": []
+    },
+    {
+      "word": "collision",
+      "partOfSpeech": "noun",
+      "phonetic": "/kəˈlɪʒn/",
+      "meaning": "sự va đụng, xung đột",
+      "exampleSentences": []
+    },
+    {
+      "word": "colossal",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kəˈlɑːsl/",
+      "meaning": "khổng lồ, to lớn",
+      "exampleSentences": []
+    },
+    {
+      "word": "combative",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kəmˈbætɪv/",
+      "meaning": "hiếu chiến, thích gây gổ",
+      "exampleSentences": []
+    },
+    {
+      "word": "combine",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəmˈbaɪn/",
+      "meaning": "kết hợp, phối hợp",
+      "exampleSentences": []
+    },
+    {
+      "word": "comical",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkɑːmɪkl/",
+      "meaning": "hài hước, khôi hài",
+      "exampleSentences": []
+    },
+    {
+      "word": "commence",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəˈmens/",
+      "meaning": "khởi đầu, bắt đầu",
+      "exampleSentences": []
+    },
+    {
+      "word": "comment",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈkɑːment/ lời bình luận; bình luận, chỉ trích",
+      "exampleSentences": []
+    },
+    {
+      "word": "commerce",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɑːmɜːrs/",
+      "meaning": "sự buôn bán, giao thương, thương nghiệp",
+      "exampleSentences": []
+    },
+    {
+      "word": "commotion",
+      "partOfSpeech": "noun",
+      "phonetic": "/kəˈməʊʃn/",
+      "meaning": "sự rung chuyển, chấn động",
+      "exampleSentences": []
+    },
+    {
+      "word": "compassion",
+      "partOfSpeech": "noun",
+      "phonetic": "/kəmˈpæʃn/",
+      "meaning": "lòng thương cảm, lòng trắc ẩn",
+      "exampleSentences": []
+    },
+    {
+      "word": "complex",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈkɑːmpleks/ khu phức hợp; phức tạp, rắc rối",
+      "exampleSentences": []
+    },
+    {
+      "word": "complicated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkɑːmplɪkeɪtɪd/",
+      "meaning": "phức tạp, tinh vi",
+      "exampleSentences": []
+    },
+    {
+      "word": "compliment",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈkɑːmplɪmənt/ lời khen; khen ngợi, ca tụng",
+      "exampleSentences": []
+    },
+    {
+      "word": "comply",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəmˈplaɪ/",
+      "meaning": "tuân theo, đồng ý làm theo",
+      "exampleSentences": []
+    },
+    {
+      "word": "compress",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəmˈpres/",
+      "meaning": "ép, nén, đè",
+      "exampleSentences": []
+    },
+    {
+      "word": "compulsion",
+      "partOfSpeech": "noun",
+      "phonetic": "/kəmˈpʌlʃn/",
+      "meaning": "sự cưỡng bức, ép buộc",
+      "exampleSentences": []
+    },
+    {
+      "word": "concise",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kən´saiz/",
+      "meaning": "ngắn gọn, súc tích (văn)",
+      "exampleSentences": []
+    },
+    {
+      "word": "confess",
+      "partOfSpeech": "verb",
+      "phonetic": "/kənˈfes/",
+      "meaning": "thú tội, nhận tội",
+      "exampleSentences": []
+    },
+    {
+      "word": "confine",
+      "partOfSpeech": "verb",
+      "phonetic": "/kənˈfaɪn/",
+      "meaning": "giam giữ, nhốt giữ lại",
+      "exampleSentences": []
+    },
+    {
+      "word": "conflict",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈkɑːnflɪkt/ sự xung đột, cuộc va chạm; mâu thuẫn,",
+      "exampleSentences": []
+    },
+    {
+      "word": "conform",
+      "partOfSpeech": "verb",
+      "phonetic": "/kənˈfɔːrm/",
+      "meaning": "thích ứng với, thích nghi",
+      "exampleSentences": []
+    },
+    {
+      "word": "confuse",
+      "partOfSpeech": "verb",
+      "phonetic": "/kənˈfjuːz/",
+      "meaning": "nhầm lẫn, gây khó hiểu",
+      "exampleSentences": []
+    },
+    {
+      "word": "congested",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kənˈdʒestɪd/",
+      "meaning": "đông nghịt, chật ních",
+      "exampleSentences": []
+    },
+    {
+      "word": "connect",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəˈnekt/",
+      "meaning": "nối lại, kết nối",
+      "exampleSentences": []
+    },
+    {
+      "word": "conquer",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈkɑːŋkər/",
+      "meaning": "đoạt, xâm chiếm, chinh phục",
+      "exampleSentences": []
+    },
+    {
+      "word": "consent",
+      "partOfSpeech": "noun",
+      "phonetic": "/kənˈsent/",
+      "meaning": "sự đồng tình, ưng thuận",
+      "exampleSentences": []
+    },
+    {
+      "word": "considerate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kənˈsɪdərət/",
+      "meaning": "ân cần, chu đáo",
+      "exampleSentences": []
+    },
+    {
+      "word": "constraint",
+      "partOfSpeech": "noun",
+      "phonetic": "/kənˈstreɪnt/",
+      "meaning": "sự bắt ép, cưỡng ép, sự đè nén",
+      "exampleSentences": []
+    },
+    {
+      "word": "contaminate",
+      "partOfSpeech": "verb",
+      "phonetic": "/kənˈtæmɪneɪt/",
+      "meaning": "làm bẩn, gây ô nhiễm, làm hư hỏng",
+      "exampleSentences": []
+    },
+    {
+      "word": "contemporary",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /kənˈtempəreri/ đương thời, đương đại; người cùng thời",
+      "exampleSentences": []
+    },
+    {
+      "word": "contrary",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈkɑːntreri/ trái ngược",
+      "exampleSentences": []
+    },
+    {
+      "word": "control",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /kənˈtrəʊl/ quyền hành, sự điều khiển; kiểm soát,",
+      "exampleSentences": []
+    },
+    {
+      "word": "convert",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /kənˈvɜːrt/ người cải đạo; đổi, biến đổi",
+      "exampleSentences": []
+    },
+    {
+      "word": "cordial",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkɔːrdʒəl/",
+      "meaning": "thân mật, chân thành",
+      "exampleSentences": []
+    },
+    {
+      "word": "correct",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": ", adj /kəˈrekt/ sửa, hiệu chỉnh; đúng, chính xác",
+      "exampleSentences": []
+    },
+    {
+      "word": "counsel",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈkaʊnsl/ sự bàn bạc, lời khuyên, lời chỉ bảo; khuyên",
+      "exampleSentences": []
+    },
+    {
+      "word": "courage",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɜːrɪdʒ/",
+      "meaning": "sự can đảm, dũng khí",
+      "exampleSentences": []
+    },
+    {
+      "word": "courteous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkɜːrtiəs/",
+      "meaning": "lịch sự, nhã nhặn",
+      "exampleSentences": []
+    },
+    {
+      "word": "coy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kɔɪ/",
+      "meaning": "bẽn lẽn, xấu hổ, rụt rè",
+      "exampleSentences": []
+    },
+    {
+      "word": "crafty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkræfti/",
+      "meaning": "láu cá, xảo quyệt",
+      "exampleSentences": []
+    },
+    {
+      "word": "cram",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /kræm/ sự nhồi sọ, nhồi nhét; tống vào, luyện thi",
+      "exampleSentences": []
+    },
+    {
+      "word": "cranky",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkræŋki/",
+      "meaning": "kỳ quặc, gàn dở",
+      "exampleSentences": []
+    },
+    {
+      "word": "crazy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkreɪzi/",
+      "meaning": "điên rồ, mất trí",
+      "exampleSentences": []
+    },
+    {
+      "word": "creation",
+      "partOfSpeech": "noun",
+      "phonetic": "/kriˈeɪʃn/",
+      "meaning": "sự tạo thành, hình thành",
+      "exampleSentences": []
+    },
+    {
+      "word": "creative",
+      "partOfSpeech": "adjective",
+      "phonetic": "/kri´eitiv/",
+      "meaning": "sáng tạo",
+      "exampleSentences": []
+    },
+    {
+      "word": "creativity",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌkriːeɪˈtɪvəti/",
+      "meaning": "óc sáng tạo, sự sáng tạo",
+      "exampleSentences": []
+    },
+    {
+      "word": "cruel",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkruːəl/",
+      "meaning": "độc ác, tàn bạo, tàn nhẫn",
+      "exampleSentences": []
+    },
+    {
+      "word": "crumble",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈkrʌmbl/ vỡ vụn, đổ nát; bẻ vụn, đập vụn",
+      "exampleSentences": []
+    },
+    {
+      "word": "cunning",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkʌnɪŋ/",
+      "meaning": "xảo quyệt, láu cá",
+      "exampleSentences": []
+    },
+    {
+      "word": "cupboard",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkʌbərd/",
+      "meaning": "tủ đựng",
+      "exampleSentences": []
+    },
+    {
+      "word": "curb",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /kɜːrb/ sự kiềm chế, sự nén lại; kìm hãm, hạn chế",
+      "exampleSentences": []
+    },
+    {
+      "word": "curse",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /kɜːrs/ sự nguyền rủa, chửi rủa; nguyền rủa, báng",
+      "exampleSentences": []
+    },
+    {
+      "word": "daft",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dæft/",
+      "meaning": "ngớ ngẩn, mất trí, gàn dở",
+      "exampleSentences": []
+    },
+    {
+      "word": "daily",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /ˈdeɪli/ hằng ngày",
+      "exampleSentences": []
+    },
+    {
+      "word": "dainty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdeɪnti/",
+      "meaning": "nhã nhặn, xinh xắn, dễ thương",
+      "exampleSentences": []
+    },
+    {
+      "word": "daring",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈderɪŋ/",
+      "meaning": "táo bạo, mạnh bạo",
+      "exampleSentences": []
+    },
+    {
+      "word": "dash",
+      "partOfSpeech": "noun",
+      "phonetic": "/dæʃ/",
+      "meaning": "sự va đụng, va chạm",
+      "exampleSentences": []
+    },
+    {
+      "word": "dated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdeɪtɪd/",
+      "meaning": "lỗi thời, cũ kỹ",
+      "exampleSentences": []
+    },
+    {
+      "word": "dawn",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /dɔːn/ bình minh, rạng đông",
+      "exampleSentences": []
+    },
+    {
+      "word": "daybreak",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdeɪbreɪk/",
+      "meaning": "lúc tảng sáng, rạng đông",
+      "exampleSentences": []
+    },
+    {
+      "word": "deadly",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdedli/",
+      "meaning": "làm chết người, trí mạng, chí tử",
+      "exampleSentences": []
+    },
+    {
+      "word": "dearth",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɜːrθ/",
+      "meaning": "sự khan hiếm, đói kém",
+      "exampleSentences": []
+    },
+    {
+      "word": "debate",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /dɪˈbeɪt/ cuộc tranh luận, tranh luận",
+      "exampleSentences": []
+    },
+    {
+      "word": "deceased",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dɪˈsiːst/",
+      "meaning": "đã chết, qua đời",
+      "exampleSentences": []
+    },
+    {
+      "word": "decoration",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌdekəˈreɪʃn/",
+      "meaning": "sự trang hoàng, trang trí",
+      "exampleSentences": []
+    },
+    {
+      "word": "dedicated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdedɪkeɪtɪd/",
+      "meaning": "tận tâm, tận tụy",
+      "exampleSentences": []
+    },
+    {
+      "word": "deduct",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈdʌkt/",
+      "meaning": "trừ đi, khấu trừ",
+      "exampleSentences": []
+    },
+    {
+      "word": "defend",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈfend/",
+      "meaning": "bảo vệ, biện hộ",
+      "exampleSentences": []
+    },
+    {
+      "word": "defy",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈfaɪ/",
+      "meaning": "thách thức, thách đố, bất chấp",
+      "exampleSentences": []
+    },
+    {
+      "word": "deliberate",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /dɪˈlɪbərət/ chủ tâm, cố ý; cân nhắc, tính toán kỹ lưỡng",
+      "exampleSentences": []
+    },
+    {
+      "word": "delicate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdelɪkət/",
+      "meaning": "thanh nhã, thanh tú, tinh tế, khéo léo",
+      "exampleSentences": []
+    },
+    {
+      "word": "delight",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈlaɪt/",
+      "meaning": "sự vui sướng, rạng rỡ",
+      "exampleSentences": []
+    },
+    {
+      "word": "delighted",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dɪˈlaɪtɪd/",
+      "meaning": "vui mừng, vui sướng",
+      "exampleSentences": []
+    },
+    {
+      "word": "demeanor",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈmiːnər/",
+      "meaning": "phong thái, cử chỉ",
+      "exampleSentences": []
+    },
+    {
+      "word": "demerit",
+      "partOfSpeech": "noun",
+      "phonetic": "/diːˈmerɪt/",
+      "meaning": "điều lầm lỗi, đáng trách",
+      "exampleSentences": []
+    },
+    {
+      "word": "democracy",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈmɑːkrəsi/",
+      "meaning": "nền dân chủ, chế độ dân chủ",
+      "exampleSentences": []
+    },
+    {
+      "word": "democrat",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdeməkræt/",
+      "meaning": "người theo chế độ dân chủ",
+      "exampleSentences": []
+    },
+    {
+      "word": "demolish",
+      "partOfSpeech": "verb",
+      "phonetic": "/di'mɔliʃ/",
+      "meaning": "phá hủy, đánh đổ",
+      "exampleSentences": []
+    },
+    {
+      "word": "demonstration",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": "/ˌdemənˈstreɪʃn/",
+      "exampleSentences": []
+    },
+    {
+      "word": "dense",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dens/",
+      "meaning": "dày đặc, đông đúc, rậm rạp",
+      "exampleSentences": []
+    },
+    {
+      "word": "deny",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈnaɪ/",
+      "meaning": "từ chối, phủ nhận",
+      "exampleSentences": []
+    },
+    {
+      "word": "descendant",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈsendənt/",
+      "meaning": "hậu duệ, con cháu",
+      "exampleSentences": []
+    },
+    {
+      "word": "desperate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdespərət/",
+      "meaning": "tuyệt vọng, hết hy vọng",
+      "exampleSentences": []
+    },
+    {
+      "word": "despise",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈspaɪz/",
+      "meaning": "xem thường, khinh thường",
+      "exampleSentences": []
+    },
+    {
+      "word": "destiny",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdestəni/",
+      "meaning": "vận số, số mệnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "destitute",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdestɪtuːt/",
+      "meaning": "thiếu thốn, nghèo túng",
+      "exampleSentences": []
+    },
+    {
+      "word": "destroy",
+      "partOfSpeech": "verb",
+      "phonetic": "/dis'trɔi/",
+      "meaning": "phá hoại, phá huỷ, tàn phá",
+      "exampleSentences": []
+    },
+    {
+      "word": "detain",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈteɪn/",
+      "meaning": "ngăn cản, cản trở",
+      "exampleSentences": []
+    },
+    {
+      "word": "deter",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈtɜːr/",
+      "meaning": "ngăn cản, cản trở",
+      "exampleSentences": []
+    },
+    {
+      "word": "deteriorate",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈtɪriəreɪt/",
+      "meaning": "hư hỏng, giảm giá trị",
+      "exampleSentences": []
+    },
+    {
+      "word": "determined",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dɪˈtɜːrmɪnd/",
+      "meaning": "đã xác định rõ",
+      "exampleSentences": []
+    },
+    {
+      "word": "detest",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈtest/",
+      "meaning": "ghét cay đắng, ghê tởm",
+      "exampleSentences": []
+    },
+    {
+      "word": "devastate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈdevəsteɪt/",
+      "meaning": "tàn phá, phá huỷ",
+      "exampleSentences": []
+    },
+    {
+      "word": "dialogue",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdaɪəlɔːɡ/",
+      "meaning": "cuộc đối thoại, đoạn đối thoại",
+      "exampleSentences": []
+    },
+    {
+      "word": "differ",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈdɪfər/",
+      "meaning": "không tán thành, không giống",
+      "exampleSentences": []
+    },
+    {
+      "word": "difficulty",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdɪfɪkəlti/",
+      "meaning": "trở ngại, điều khó khăn",
+      "exampleSentences": []
+    },
+    {
+      "word": "dilemma",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": "/daɪˈlemə/",
+      "exampleSentences": []
+    },
+    {
+      "word": "direction",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": "/dəˈrekʃn/",
+      "exampleSentences": []
+    },
+    {
+      "word": "dirty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdɜːrti/",
+      "meaning": "dơ bẩn, đê tiện",
+      "exampleSentences": []
+    },
+    {
+      "word": "disagree",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˌdɪsəˈɡriː/",
+      "meaning": "không khớp, không hợp",
+      "exampleSentences": []
+    },
+    {
+      "word": "disaster",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈzæstər/",
+      "meaning": "thảm họa, tai ương",
+      "exampleSentences": []
+    },
+    {
+      "word": "disclose",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪsˈkləʊz/",
+      "meaning": "vạch trần, phơi bày",
+      "exampleSentences": []
+    },
+    {
+      "word": "discount",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈdɪskaʊnt/ giảm giá",
+      "exampleSentences": []
+    },
+    {
+      "word": "disgrace",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /dɪsˈɡreɪs/ sự ô nhục, hổ thẹn; làm nhục nhã",
+      "exampleSentences": []
+    },
+    {
+      "word": "dishonor",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪsˈɑːnər/",
+      "meaning": "vô danh dự, thiếu uy tín",
+      "exampleSentences": []
+    },
+    {
+      "word": "disobedient",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌdɪsəˈbiːdiənt/",
+      "meaning": "không tuân thủ, làm trái",
+      "exampleSentences": []
+    },
+    {
+      "word": "dispute",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈdɪspjuːt/",
+      "exampleSentences": []
+    },
+    {
+      "word": "distant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdɪstənt/",
+      "meaning": "xa cách, lạnh nhạt",
+      "exampleSentences": []
+    },
+    {
+      "word": "distress",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /dɪˈstres/ nỗi đau khổ, buồn bực; làm đau khổ, đau",
+      "exampleSentences": []
+    },
+    {
+      "word": "disturb",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈstɜːrb/",
+      "meaning": "quấy rầy, khuấy động",
+      "exampleSentences": []
+    },
+    {
+      "word": "disturbance",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈstɜːrbəns/",
+      "meaning": "sự nhiễu loạn, náo động",
+      "exampleSentences": []
+    },
+    {
+      "word": "diverse",
+      "partOfSpeech": "adjective",
+      "phonetic": "/daɪˈvɜːrs/",
+      "meaning": "đa dạng, linh tinh",
+      "exampleSentences": []
+    },
+    {
+      "word": "divide",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪˈvaɪd/",
+      "meaning": "chia cắt ra, phân cắt",
+      "exampleSentences": []
+    },
+    {
+      "word": "divulge",
+      "partOfSpeech": "verb",
+      "phonetic": "/daɪˈvʌldʒ/",
+      "meaning": "để lộ ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "docile",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdɑːsl/",
+      "meaning": "dễ bảo, dễ sai khiến",
+      "exampleSentences": []
+    },
+    {
+      "word": "doubtful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdaʊtfl/",
+      "meaning": "ngờ vực, hồ nghi",
+      "exampleSentences": []
+    },
+    {
+      "word": "drab",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dræb/",
+      "meaning": "đều đều, buồn tẻ, xám xịt",
+      "exampleSentences": []
+    },
+    {
+      "word": "dreadful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdredfl/",
+      "meaning": "kinh khiếp, tồi tệ",
+      "exampleSentences": []
+    },
+    {
+      "word": "dream",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /driːm/ giấc mơ; nằm mơ thấy, mơ ước, tưởng",
+      "exampleSentences": []
+    },
+    {
+      "word": "dreary",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdrɪri/",
+      "meaning": "tồi tàn, ảm đạm, thê lương",
+      "exampleSentences": []
+    },
+    {
+      "word": "drowsy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdraʊzi/",
+      "meaning": "mơ màng, ngủ gà ngủ gật, uể oải",
+      "exampleSentences": []
+    },
+    {
+      "word": "dubious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈduːbiəs/",
+      "meaning": "lờ mờ, mơ hồ, không minh bạch, rõ ràng",
+      "exampleSentences": []
+    },
+    {
+      "word": "dull",
+      "partOfSpeech": "adjective",
+      "phonetic": "/dʌl/",
+      "meaning": "chậm hiểu, tối dạ; làm cho đần độn",
+      "exampleSentences": []
+    },
+    {
+      "word": "dumb",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /dʌm/ câm, không có tiếng nói; làm điếng người",
+      "exampleSentences": []
+    },
+    {
+      "word": "duplicate",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj, v /´dju:plikit/ bản sao",
+      "exampleSentences": []
+    },
+    {
+      "word": "dusk",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʌsk/",
+      "meaning": "chạng vạng, lúc tối nha nhem",
+      "exampleSentences": []
+    },
+    {
+      "word": "eager",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈiːɡər/",
+      "meaning": "hăm hở, háo hức",
+      "exampleSentences": []
+    },
+    {
+      "word": "easy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈiːzi/",
+      "meaning": "dễ dàng",
+      "exampleSentences": []
+    },
+    {
+      "word": "elated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈleɪtɪd/",
+      "meaning": "phấn khích, phấn khởi",
+      "exampleSentences": []
+    },
+    {
+      "word": "elective",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈlektɪv/",
+      "meaning": "chọn lọc bằng bầu cử",
+      "exampleSentences": []
+    },
+    {
+      "word": "elegant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈelɪɡənt/",
+      "meaning": "thanh lịch, tao nhã, đoan trang",
+      "exampleSentences": []
+    },
+    {
+      "word": "elevate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈelɪveɪt/",
+      "meaning": "nâng lên, đưa lên, nâng cao",
+      "exampleSentences": []
+    },
+    {
+      "word": "elite",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ɪˈliːt/",
+      "exampleSentences": []
+    },
+    {
+      "word": "elusive",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈluːsɪv/",
+      "meaning": "hay lảng tránh, thoái thác, khó nắm bắt",
+      "exampleSentences": []
+    },
+    {
+      "word": "embarrass",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪmˈbærəs/",
+      "meaning": "làm xấu hổ, lúng túng",
+      "exampleSentences": []
+    },
+    {
+      "word": "emphatically",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ɪmˈfætɪkli/",
+      "meaning": "mạnh mẽ, dứt khoát",
+      "exampleSentences": []
+    },
+    {
+      "word": "empty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'empti/",
+      "meaning": "trống, rỗng, trống không",
+      "exampleSentences": []
+    },
+    {
+      "word": "encourage",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈkɜːrɪdʒ/",
+      "meaning": "khuyên khích, cổ vũ",
+      "exampleSentences": []
+    },
+    {
+      "word": "endorse",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈdɔːrs/",
+      "meaning": "chứng thực, xác nhận, tán thành",
+      "exampleSentences": []
+    },
+    {
+      "word": "engrossing",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈɡrəʊsɪŋ/",
+      "meaning": "choán hết thời gian, quá cuốn hút",
+      "exampleSentences": []
+    },
+    {
+      "word": "enjoy",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meaning": "thích thú, khoái",
+      "exampleSentences": []
+    },
+    {
+      "word": "enlarge",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈlɑːrdʒ/",
+      "meaning": "mở rộng, phóng to",
+      "exampleSentences": []
+    },
+    {
+      "word": "enormous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈnɔːrməs/",
+      "meaning": "to lớn, khổng lồ",
+      "exampleSentences": []
+    },
+    {
+      "word": "enquire",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈkwaɪər/",
+      "meaning": "điều tra, thẩm tra",
+      "exampleSentences": []
+    },
+    {
+      "word": "enraged",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈreɪdʒ/",
+      "meaning": "nổi giận, nổi khùng",
+      "exampleSentences": []
+    },
+    {
+      "word": "entertaining",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌentərˈteɪnɪŋ/",
+      "meaning": "có tính giải trí, thú vị",
+      "exampleSentences": []
+    },
+    {
+      "word": "entrance",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈentrəns/",
+      "meaning": "sự đi vào, cổng vào, lối vào",
+      "exampleSentences": []
+    },
+    {
+      "word": "entrepreneur",
+      "partOfSpeech": "noun",
+      "phonetic": "/,ɔntrəprə'nə:/",
+      "meaning": "người phụ trách hãng buôn",
+      "exampleSentences": []
+    },
+    {
+      "word": "envious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈenviəs/",
+      "meaning": "thèm muốn, đố kỵ, ghen tị",
+      "exampleSentences": []
+    },
+    {
+      "word": "envisage",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈvɪzɪdʒ/",
+      "meaning": "dự tính, nhìn trước",
+      "exampleSentences": []
+    },
+    {
+      "word": "envy",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈenvi/ sự thèm muốn, nỗi ghen tỵ; them muốn, đố",
+      "exampleSentences": []
+    },
+    {
+      "word": "epitome",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪˈpɪtəmi/",
+      "meaning": "bản tóm tắt",
+      "exampleSentences": []
+    },
+    {
+      "word": "equivalent",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ɪˈkwɪvələnt/ vật tương đương; tương đương",
+      "exampleSentences": []
+    },
+    {
+      "word": "escalate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈeskəleɪt/",
+      "meaning": "leo thang (nghĩa bóng)",
+      "exampleSentences": []
+    },
+    {
+      "word": "essential",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈsenʃl/",
+      "meaning": "(thuộc) bản chất, thiết yếu, cốt yếu",
+      "exampleSentences": []
+    },
+    {
+      "word": "eternal",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈtɜːrnl/",
+      "meaning": "đời đời, vĩnh viễn, bất diệt",
+      "exampleSentences": []
+    },
+    {
+      "word": "ethical",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈeθɪkl/",
+      "meaning": "(thuộc) đạo đức, luân thường đạo lý",
+      "exampleSentences": []
+    },
+    {
+      "word": "evaluate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪˈvæljueɪt/",
+      "meaning": "ước lượng, định giá",
+      "exampleSentences": []
+    },
+    {
+      "word": "evil",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈiːvl/",
+      "meaning": "xấu xa, ác độc",
+      "exampleSentences": []
+    },
+    {
+      "word": "exactly",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ɪɡˈzæktli/",
+      "meaning": "chính xác, đúng như vậy",
+      "exampleSentences": []
+    },
+    {
+      "word": "exaggerate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪɡˈzædʒəreɪt/",
+      "meaning": "thổi phồng, phóng đại, làm quá lên",
+      "exampleSentences": []
+    },
+    {
+      "word": "examine",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "meaning": "khám xét, khảo sát",
+      "exampleSentences": []
+    },
+    {
+      "word": "except",
+      "partOfSpeech": "preposition",
+      "phonetic": "/ɪkˈsept/",
+      "meaning": "trừ ra, không kể đến",
+      "exampleSentences": []
+    },
+    {
+      "word": "exceptional",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪkˈsepʃənl/",
+      "meaning": "khác thường, ngoại lệ",
+      "exampleSentences": []
+    },
+    {
+      "word": "execute",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈeksɪkjuːt/",
+      "meaning": "thực hiện, thi hành",
+      "exampleSentences": []
+    },
+    {
+      "word": "exemplary",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪɡˈzempləri/",
+      "meaning": "gương mẫu, mẫu mực",
+      "exampleSentences": []
+    },
+    {
+      "word": "exempt",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪɡˈzempt/",
+      "meaning": "được miễn (thuế...), không phải thực hiện",
+      "exampleSentences": []
+    },
+    {
+      "word": "exhaust",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪɡˈzɔːst/",
+      "meaning": "làm kiệt quệ, dốc cạn sức lực",
+      "exampleSentences": []
+    },
+    {
+      "word": "exit",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈeɡzɪt/",
+      "exampleSentences": []
+    },
+    {
+      "word": "expert",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'ekspɜ:rt/",
+      "meaning": "chuyên môn, thành thạo, thông thạo",
+      "exampleSentences": []
+    },
+    {
+      "word": "explain",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪkˈspleɪn/",
+      "meaning": "giải thích, lý giải",
+      "exampleSentences": []
+    },
+    {
+      "word": "extinct",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪkˈstɪŋkt/",
+      "meaning": "tuyệt chủng, tuyệt giống",
+      "exampleSentences": []
+    },
+    {
+      "word": "extra",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj, adv /ˈekstrə/ thêm, phụ vào; thêm vào; phần phụ thêm",
+      "exampleSentences": []
+    },
+    {
+      "word": "extravagant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪkˈstrævəɡənt/",
+      "meaning": "quá mức, quá độ",
+      "exampleSentences": []
+    },
+    {
+      "word": "extremist",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": "ɪkˈstriːmɪst/ người cực đoan, quá khích",
+      "exampleSentences": []
+    },
+    {
+      "word": "eye-opener",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈaɪ əʊəpənər/",
+      "meaning": "điều làm cho tỉnh ngộ, khai sáng",
+      "exampleSentences": []
+    },
+    {
+      "word": "fair",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /fer/ hội chợ; đúng, hợp lý, công bằng",
+      "exampleSentences": []
+    },
+    {
+      "word": "fairly",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈferli/",
+      "meaning": "công bằng, không thiên vị",
+      "exampleSentences": []
+    },
+    {
+      "word": "faithful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfeɪθfl/",
+      "meaning": "trung thành, chung thủy",
+      "exampleSentences": []
+    },
+    {
+      "word": "famous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfeɪməs/",
+      "meaning": "nổi tiếng, trứ danh",
+      "exampleSentences": []
+    },
+    {
+      "word": "fanatic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/fəˈnætɪk/",
+      "meaning": "người cuồng tín",
+      "exampleSentences": []
+    },
+    {
+      "word": "fantastic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/fænˈtæstɪk/",
+      "meaning": "tuyệt vời, vô cùng tốt",
+      "exampleSentences": []
+    },
+    {
+      "word": "fast",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /fæst/ nhanh chóng, mau",
+      "exampleSentences": []
+    },
+    {
+      "word": "fat",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /fæt/ chất béo; béo phì, thừa cân",
+      "exampleSentences": []
+    },
+    {
+      "word": "fatal",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfeɪtl/",
+      "meaning": "tiền định, không tránh được",
+      "exampleSentences": []
+    },
+    {
+      "word": "fate",
+      "partOfSpeech": "noun",
+      "phonetic": "/feɪt/",
+      "meaning": "định mệnh, số phận",
+      "exampleSentences": []
+    },
+    {
+      "word": "fatigue",
+      "partOfSpeech": "noun",
+      "phonetic": "/fəˈtiːɡ/",
+      "meaning": "sự mệt mỏi, mệt nhọc",
+      "exampleSentences": []
+    },
+    {
+      "word": "feasible",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfiːzəbl/",
+      "meaning": "khả thi, có thể thực hiện được",
+      "exampleSentences": []
+    },
+    {
+      "word": "feeble",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfiːbl/",
+      "meaning": "yếu đuối, nhu nhược",
+      "exampleSentences": []
+    },
+    {
+      "word": "ferry",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈferi/ phà; chở bằng phà",
+      "exampleSentences": []
+    },
+    {
+      "word": "fetch",
+      "partOfSpeech": "verb",
+      "phonetic": "/fetʃ/",
+      "meaning": "tìm về, đem về",
+      "exampleSentences": []
+    },
+    {
+      "word": "fiction",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfɪkʃn/",
+      "meaning": "điều hư cấu, tưởng tượng",
+      "exampleSentences": []
+    },
+    {
+      "word": "fill",
+      "partOfSpeech": "verb",
+      "phonetic": "/fɪl/",
+      "meaning": "làm đầy, nhồi đầy",
+      "exampleSentences": []
+    },
+    {
+      "word": "film",
+      "partOfSpeech": "noun",
+      "phonetic": "/fɪlm/",
+      "meaning": "phim ảnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "fine",
+      "partOfSpeech": "adjective",
+      "phonetic": "/faɪn/",
+      "meaning": "tốt, khỏe",
+      "exampleSentences": []
+    },
+    {
+      "word": "finish",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈfɪnɪʃ/ sự kết liễu, phần kết thúc; hoàn thành, kết",
+      "exampleSentences": []
+    },
+    {
+      "word": "fire",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈfaɪər/ lửa, ánh lửa; đốt cháy; sa thải",
+      "exampleSentences": []
+    },
+    {
+      "word": "firm",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /fɜːrm/ hãng, công ty; chắc chắn, vững chắc",
+      "exampleSentences": []
+    },
+    {
+      "word": "fitting",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfɪtɪŋ/",
+      "meaning": "phù hợp, thích hợp",
+      "exampleSentences": []
+    },
+    {
+      "word": "flaw",
+      "partOfSpeech": "noun",
+      "phonetic": "/flɔː/",
+      "meaning": "thiếu sót, sai lầm",
+      "exampleSentences": []
+    },
+    {
+      "word": "flawless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈflɔːləs/",
+      "meaning": "hoàn hảo, không tì vết",
+      "exampleSentences": []
+    },
+    {
+      "word": "flinch",
+      "partOfSpeech": "verb",
+      "phonetic": "/flɪntʃ/",
+      "meaning": "chùn bước, nao núng",
+      "exampleSentences": []
+    },
+    {
+      "word": "flippant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈflɪpənt/",
+      "meaning": "suồng sã, nhả nhớt",
+      "exampleSentences": []
+    },
+    {
+      "word": "flourish",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /'flʌri∫/ nét trang trí hoa mỹ, thịnh vượng, phát đạt",
+      "exampleSentences": []
+    },
+    {
+      "word": "fluke",
+      "partOfSpeech": "noun",
+      "phonetic": "/fluːk/",
+      "meaning": "sự may mắn",
+      "exampleSentences": []
+    },
+    {
+      "word": "fond",
+      "partOfSpeech": "adjective",
+      "phonetic": "/fɑːnd/",
+      "meaning": "yêu mến, yêu dấu",
+      "exampleSentences": []
+    },
+    {
+      "word": "forbid",
+      "partOfSpeech": "verb",
+      "phonetic": "/fərˈbɪd/",
+      "meaning": "cấm, ngăn cấm",
+      "exampleSentences": []
+    },
+    {
+      "word": "forcefully",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈfɔːrsfəli/",
+      "meaning": "mạnh mẽ, sinh động",
+      "exampleSentences": []
+    },
+    {
+      "word": "formerly",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈfɔːrmərli/",
+      "meaning": "trước đây, thuở xưa",
+      "exampleSentences": []
+    },
+    {
+      "word": "fortunate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfɔːrtʃənət/",
+      "meaning": "may mắn, thuận lợi",
+      "exampleSentences": []
+    },
+    {
+      "word": "fraction",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfrækʃn/",
+      "meaning": "phần nhỏ, miếng nhỏ",
+      "exampleSentences": []
+    },
+    {
+      "word": "fracture",
+      "partOfSpeech": "noun",
+      "phonetic": "/'fræktʃə/",
+      "meaning": "(y học) sự gãy; chỗ gãy (xương)",
+      "exampleSentences": []
+    },
+    {
+      "word": "fragile",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfrædʒl/",
+      "meaning": "dễ vỡ, yếu ớt",
+      "exampleSentences": []
+    },
+    {
+      "word": "fraud",
+      "partOfSpeech": "noun",
+      "phonetic": "/frɔːd/",
+      "meaning": "sự gian lận, lừa dối",
+      "exampleSentences": []
+    },
+    {
+      "word": "freak",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /friːk/ quái vật, thứ dị thường; quái dị",
+      "exampleSentences": []
+    },
+    {
+      "word": "freezing",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfriːzɪŋ/",
+      "meaning": "giá lạnh, rét mướt",
+      "exampleSentences": []
+    },
+    {
+      "word": "frequently",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈfriːkwəntli/",
+      "meaning": "thường xuyên",
+      "exampleSentences": []
+    },
+    {
+      "word": "frigid",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfrɪdʒɪd/",
+      "meaning": "giá lạnh, nhạt nhẽo",
+      "exampleSentences": []
+    },
+    {
+      "word": "frivolous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfrɪvələs/",
+      "meaning": "phù phiếm, nhẹ dạ",
+      "exampleSentences": []
+    },
+    {
+      "word": "frosty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfrɔːsti/",
+      "meaning": "băng giá, giá rét",
+      "exampleSentences": []
+    },
+    {
+      "word": "fuddy-duddy",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈfʌdi dʌdi/ người cổ hủ; cổ hủ, lỗi thời",
+      "exampleSentences": []
+    },
+    {
+      "word": "fulfillment",
+      "partOfSpeech": "noun",
+      "phonetic": "/fʊlˈfɪlmənt/",
+      "meaning": "hoàn chỉnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "fun",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /fʌn/ sự vui đùa, niềm vui thích; vui vẻ",
+      "exampleSentences": []
+    },
+    {
+      "word": "function",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈfʌŋkʃn/ chức năng; hoạt động, thực hiện chức năng",
+      "exampleSentences": []
+    },
+    {
+      "word": "funny",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfʌni/",
+      "meaning": "buồn cười, hài hước",
+      "exampleSentences": []
+    },
+    {
+      "word": "furious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈfjʊriəs/",
+      "meaning": "giận dữ, điên tiết",
+      "exampleSentences": []
+    },
+    {
+      "word": "future",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈfjuːtʃər/ tương lai",
+      "exampleSentences": []
+    },
+    {
+      "word": "gain",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ɡeɪn/ lợi lộc, lợi ích; đạt được",
+      "exampleSentences": []
+    },
+    {
+      "word": "garbage",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɡɑːrbɪdʒ/",
+      "meaning": "rác rưởi",
+      "exampleSentences": []
+    },
+    {
+      "word": "garish",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡerɪʃ/",
+      "meaning": "lòe loẹt, sặc sỡ",
+      "exampleSentences": []
+    },
+    {
+      "word": "gather",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈɡæðər/",
+      "meaning": "tập hợp, tụ họp",
+      "exampleSentences": []
+    },
+    {
+      "word": "gaudy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡɔːdi/",
+      "meaning": "lòe loẹt, cầu kỳ",
+      "exampleSentences": []
+    },
+    {
+      "word": "gaunt",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɡɔːnt/",
+      "meaning": "hoang vắng, thê lương, buồn thảm",
+      "exampleSentences": []
+    },
+    {
+      "word": "gender",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʒendər/",
+      "meaning": "giống, giới tính",
+      "exampleSentences": []
+    },
+    {
+      "word": "generous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒenərəs/",
+      "meaning": "rộng lượng, khoan thai",
+      "exampleSentences": []
+    },
+    {
+      "word": "genuine",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒenjuɪn/",
+      "meaning": "thành thật, chân thật",
+      "exampleSentences": []
+    },
+    {
+      "word": "gesture",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʒestʃər/",
+      "meaning": "điệu bộ, cử chỉ, động tác",
+      "exampleSentences": []
+    },
+    {
+      "word": "get",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɡet/",
+      "meaning": "có được, kiếm được, nhận được",
+      "exampleSentences": []
+    },
+    {
+      "word": "glad",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɡlæd/",
+      "meaning": "vui lòng, sung sướng",
+      "exampleSentences": []
+    },
+    {
+      "word": "glare",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": ", n /ɡler/",
+      "exampleSentences": []
+    },
+    {
+      "word": "glimpse",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ɡlɪmps/ cái nhìn lướt qua; nhìn thoáng qua",
+      "exampleSentences": []
+    },
+    {
+      "word": "glitter",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈɡlɪtər/",
+      "meaning": "lấp lánh",
+      "exampleSentences": []
+    },
+    {
+      "word": "gloomy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡluːmi/",
+      "meaning": "tối tăm, u ám, ảm đạm",
+      "exampleSentences": []
+    },
+    {
+      "word": "glossy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡlɑːsi/",
+      "meaning": "bóng loáng, hào nhoáng",
+      "exampleSentences": []
+    },
+    {
+      "word": "government",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɡʌvərnmənt/",
+      "meaning": "sự cai trị, thống trị",
+      "exampleSentences": []
+    },
+    {
+      "word": "grab",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ɡræb/ sự chộp, túm lấy; vồ, giật",
+      "exampleSentences": []
+    },
+    {
+      "word": "gracious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡreɪʃəs/",
+      "meaning": "hòa nhã, lịch thiệp",
+      "exampleSentences": []
+    },
+    {
+      "word": "great",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɡreɪt/",
+      "meaning": "to lớn, vĩ đại",
+      "exampleSentences": []
+    },
+    {
+      "word": "gregarious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɡrɪˈɡeriəs/",
+      "meaning": "thích đàn đúm, giao du",
+      "exampleSentences": []
+    },
+    {
+      "word": "grief",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɡriːf/",
+      "meaning": "nỗi sầu khổ",
+      "exampleSentences": []
+    },
+    {
+      "word": "grim",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɡrɪm/",
+      "meaning": "dữ tợn, nhẫn tâm",
+      "exampleSentences": []
+    },
+    {
+      "word": "grouse",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ɡraʊs/ sự càu nhàu; cằn nhằn, càu nhàu",
+      "exampleSentences": []
+    },
+    {
+      "word": "gruesome",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡruːsəm/",
+      "meaning": "khủng khiếp, kinh khủng",
+      "exampleSentences": []
+    },
+    {
+      "word": "grumble",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈɡrʌmbl/ sự càu nhàu, cằn nhằn; càu nhàu",
+      "exampleSentences": []
+    },
+    {
+      "word": "guarantee",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˌɡærənˈtiː/ sự bảo đảm, cam đoan, bảo lãnh; hứa chắc",
+      "exampleSentences": []
+    },
+    {
+      "word": "guard",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ɡɑːrd/ sự đề phòng; bảo vệ, canh giữ",
+      "exampleSentences": []
+    },
+    {
+      "word": "guilt",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɡɪlt/",
+      "meaning": "tội lỗi",
+      "exampleSentences": []
+    },
+    {
+      "word": "guiltless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɡɪltləs/",
+      "meaning": "không phạm tội, không biết tí gì, không có",
+      "exampleSentences": []
+    },
+    {
+      "word": "hallucination",
+      "partOfSpeech": "noun",
+      "phonetic": "/həˌluːsɪˈneɪʃn/",
+      "meaning": "ảo giác",
+      "exampleSentences": []
+    },
+    {
+      "word": "halt",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /hɔːlt/ sự dừng lại, tạm nghỉ; cho dừng lại, lưỡng",
+      "exampleSentences": []
+    },
+    {
+      "word": "handover",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhændəʊvər/",
+      "meaning": "sự bàn giao",
+      "exampleSentences": []
+    },
+    {
+      "word": "handsome",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhænsəm/",
+      "meaning": "đẹp trai, ưa nhìn",
+      "exampleSentences": []
+    },
+    {
+      "word": "handy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhændi/",
+      "meaning": "thuận tiện, sẵn tiện",
+      "exampleSentences": []
+    },
+    {
+      "word": "hard",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /hɑːrd/ cứng, rắn, hà khắc; khắc nghiệt; hết sức",
+      "exampleSentences": []
+    },
+    {
+      "word": "harmless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhɑːrmləs/",
+      "meaning": "vô hại, không làm hại ai được",
+      "exampleSentences": []
+    },
+    {
+      "word": "havoc",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhævək/",
+      "meaning": "sự tàn phá",
+      "exampleSentences": []
+    },
+    {
+      "word": "hazard",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhæzərd/",
+      "meaning": "sự may rủi, mối nguy; phó thác cho may",
+      "exampleSentences": []
+    },
+    {
+      "word": "hazy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈheɪzi/",
+      "meaning": "lờ mờ, mơ hồ, ngà ngà say",
+      "exampleSentences": []
+    },
+    {
+      "word": "heartless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhɑːrtləs/",
+      "meaning": "vô tâm, nhẫn tâm",
+      "exampleSentences": []
+    },
+    {
+      "word": "heed",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /hi:d/ chú ý, sự lưu ý, sự để ý",
+      "exampleSentences": []
+    },
+    {
+      "word": "helpful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhelpfl/",
+      "meaning": "có ích, giúp ích",
+      "exampleSentences": []
+    },
+    {
+      "word": "heroic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/həˈrəʊɪk/",
+      "meaning": "tính chất anh hùng, quả cảm, can đảm",
+      "exampleSentences": []
+    },
+    {
+      "word": "hesitant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhezɪtənt/",
+      "meaning": "do dự, ngập ngừng, lưỡng lự",
+      "exampleSentences": []
+    },
+    {
+      "word": "hint",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /hɪnt/ lời gợi ý, bóng gió; gợi ý, ám chỉ",
+      "exampleSentences": []
+    },
+    {
+      "word": "hire",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈhaɪər/ sự cho thuê; cho thuê, mướn",
+      "exampleSentences": []
+    },
+    {
+      "word": "honest",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɑːnɪst/",
+      "meaning": "trung thực, chân thật",
+      "exampleSentences": []
+    },
+    {
+      "word": "honorable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɑːnərəbl/",
+      "meaning": "đáng tôn kính, đáng kính trọng",
+      "exampleSentences": []
+    },
+    {
+      "word": "hop",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /hɑːp/ bước nhảy; nhảy cẫng",
+      "exampleSentences": []
+    },
+    {
+      "word": "horrible",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhɔːrəbl/",
+      "meaning": "xấu xa, khủng khiếp",
+      "exampleSentences": []
+    },
+    {
+      "word": "huge",
+      "partOfSpeech": "adjective",
+      "phonetic": "/hjuːdʒ/",
+      "meaning": "to lớn, đồ sộ",
+      "exampleSentences": []
+    },
+    {
+      "word": "humble",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈhʌmbl/",
+      "meaning": "khiêm tốn, nhún nhường",
+      "exampleSentences": []
+    },
+    {
+      "word": "humiliate",
+      "partOfSpeech": "verb",
+      "phonetic": "/hjuːˈmɪlieɪt/",
+      "meaning": "làm nhục, làm bẽ mặt",
+      "exampleSentences": []
+    },
+    {
+      "word": "hurry",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈhɜːri/ sự vội vàng, hấp tấp; thúc giục, bắt làm",
+      "exampleSentences": []
+    },
+    {
+      "word": "hypnotize",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈhɪpnətaɪz/",
+      "meaning": "thôi miên",
+      "exampleSentences": []
+    },
+    {
+      "word": "identical",
+      "partOfSpeech": "adjective",
+      "phonetic": "/aɪˈdentɪkl/",
+      "meaning": "y hệt, giống nhau",
+      "exampleSentences": []
+    },
+    {
+      "word": "idiot",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɪdiət/",
+      "meaning": "đồ ngốc",
+      "exampleSentences": []
+    },
+    {
+      "word": "ignore",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪɡˈnɔːr/",
+      "meaning": "phớt lờ, bỏ qua",
+      "exampleSentences": []
+    },
+    {
+      "word": "illusion",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪˈluːʒn/",
+      "meaning": "ảo tưởng, ảo giác",
+      "exampleSentences": []
+    },
+    {
+      "word": "imitate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈɪmɪteɪt/",
+      "meaning": "theo gương, noi theo, mô phỏng",
+      "exampleSentences": []
+    },
+    {
+      "word": "immaculate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈmækjələt/",
+      "meaning": "trong trắng, không vết, không khuyết điểm",
+      "exampleSentences": []
+    },
+    {
+      "word": "immediate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈmiːdiət/",
+      "meaning": "trực tiếp",
+      "exampleSentences": []
+    },
+    {
+      "word": "imminent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɪmɪnənt/",
+      "meaning": "sắp xảy ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "impact",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈɪmpækt/ sự va chạm",
+      "exampleSentences": []
+    },
+    {
+      "word": "impaired",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪmˈperd/",
+      "meaning": "suy yếu, khiếm khuyết",
+      "exampleSentences": []
+    },
+    {
+      "word": "impartial",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪmˈpɑːrʃl/",
+      "meaning": "công bằng, không thiên vị",
+      "exampleSentences": []
+    },
+    {
+      "word": "impish",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´impiʃ/",
+      "meaning": "nghèo túng, thiếu thốn",
+      "exampleSentences": []
+    },
+    {
+      "word": "implore",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪmˈplɔːr/",
+      "meaning": "cầu khẩn, khẩn nài",
+      "exampleSentences": []
+    },
+    {
+      "word": "impoverished",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪmˈpɑː.vɚ.ɪʃt/",
+      "meaning": "làm mất công dụng",
+      "exampleSentences": []
+    },
+    {
+      "word": "inadequate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈædɪkwət/",
+      "meaning": "không tương xứng, không thích đáng",
+      "exampleSentences": []
+    },
+    {
+      "word": "incarnation",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌɪnkɑːrˈneɪʃn/",
+      "meaning": "hiện thân, sự tạo hình",
+      "exampleSentences": []
+    },
+    {
+      "word": "increase",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈɪŋkriːs/",
+      "exampleSentences": []
+    },
+    {
+      "word": "indifferent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈdɪfrənt/",
+      "meaning": "lãnh đạm, thờ ơ",
+      "exampleSentences": []
+    },
+    {
+      "word": "indigenous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈdɪdʒənəs/",
+      "meaning": "bản xứ",
+      "exampleSentences": []
+    },
+    {
+      "word": "indistinct",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌɪndɪˈstɪŋkt/",
+      "meaning": "không rõ ràng, lờ mờ",
+      "exampleSentences": []
+    },
+    {
+      "word": "individual",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˌɪndɪˈvɪdʒuəl/ cá nhân, người, cá thể; riêng lẻ, cá nhân,",
+      "exampleSentences": []
+    },
+    {
+      "word": "industrious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈdʌstriəs/",
+      "meaning": "cần cù, siêng năng",
+      "exampleSentences": []
+    },
+    {
+      "word": "inevitable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈevɪtəbl/",
+      "meaning": "không thể tránh được, chắc chắn xảy ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "infamous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɪnfəməs/",
+      "meaning": "tai tiếng, ô nhục",
+      "exampleSentences": []
+    },
+    {
+      "word": "infant",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɪnfənt/",
+      "meaning": "đứa bé còn ẵm ngửa",
+      "exampleSentences": []
+    },
+    {
+      "word": "infect",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈfekt/",
+      "meaning": "nhiễm, lan truyền",
+      "exampleSentences": []
+    },
+    {
+      "word": "inferior",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈfɪriər/",
+      "meaning": "thấp, cấp dưới",
+      "exampleSentences": []
+    },
+    {
+      "word": "inform",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈfɔːrm/",
+      "meaning": "báo tin, cho biết",
+      "exampleSentences": []
+    },
+    {
+      "word": "infuriate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈfjʊrieɪt/",
+      "meaning": "làm cho ai điên tiết, nổi cáu",
+      "exampleSentences": []
+    },
+    {
+      "word": "ingenious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/in´dʒi:niəs/",
+      "meaning": "khéo léo, tài tình, mưu trí",
+      "exampleSentences": []
+    },
+    {
+      "word": "inhabitant",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪnˈhæbɪtənt/",
+      "meaning": "người ở, dân cư, người cư trú",
+      "exampleSentences": []
+    },
+    {
+      "word": "initiate",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ɪˈnɪʃieɪt/ người đã được vỡ lòng, khai tâm; bắt đầu,",
+      "exampleSentences": []
+    },
+    {
+      "word": "innocent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɪnəsnt/",
+      "meaning": "vô tội, ngây thơ",
+      "exampleSentences": []
+    },
+    {
+      "word": "inroad",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɪnrəʊd/",
+      "meaning": "sự xâm nhập, đột nhập",
+      "exampleSentences": []
+    },
+    {
+      "word": "insight",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɪnsaɪt/",
+      "meaning": "sự hiểu thấu, sự thật ngầm hiểu",
+      "exampleSentences": []
+    },
+    {
+      "word": "insomnia",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪnˈsɑːmniə/",
+      "meaning": "chứng mất ngủ",
+      "exampleSentences": []
+    },
+    {
+      "word": "inspect",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈspekt/",
+      "meaning": "xét kỹ, thanh tra",
+      "exampleSentences": []
+    },
+    {
+      "word": "instantly",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈɪnstəntli/",
+      "meaning": "ngay khi, ngay lập tức",
+      "exampleSentences": []
+    },
+    {
+      "word": "instruction",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɪnˈstrʌkʃn/",
+      "meaning": "hướng dẫn",
+      "exampleSentences": []
+    },
+    {
+      "word": "insufficient",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌɪnsəˈfɪʃnt/",
+      "meaning": "không đủ, thiếu thốn",
+      "exampleSentences": []
+    },
+    {
+      "word": "interesting",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": "/ˈɪntrəstɪŋ/",
+      "exampleSentences": []
+    },
+    {
+      "word": "intolerant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈtɑːlərənt/",
+      "meaning": "không dung thứ, không chịu được",
+      "exampleSentences": []
+    },
+    {
+      "word": "intrude",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈtruːd/",
+      "meaning": "xâm nhập, xâm phạm",
+      "exampleSentences": []
+    },
+    {
+      "word": "invade",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈveɪd/",
+      "meaning": "xâm lược, xâm chiếm",
+      "exampleSentences": []
+    },
+    {
+      "word": "inventory",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɪnvəntɔːri/",
+      "meaning": "sự kiểm kê, bản kiểm kê",
+      "exampleSentences": []
+    },
+    {
+      "word": "investigate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ɪnˈvestɪɡeɪt/",
+      "meaning": "điều tra nghiên cứu",
+      "exampleSentences": []
+    },
+    {
+      "word": "invincible",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪnˈvɪnsəbl/",
+      "meaning": "vô địch, bất khả chiến bại",
+      "exampleSentences": []
+    },
+    {
+      "word": "irrelevant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ɪˈreləvənt/",
+      "meaning": "không thích đáng, không liên quan",
+      "exampleSentences": []
+    },
+    {
+      "word": "irritable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'iritəb(ə)l/",
+      "meaning": "dễ cáu, cáu kỉnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "isolated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈaɪsəleɪtɪd/",
+      "meaning": "cô lập, bị cách ly",
+      "exampleSentences": []
+    },
+    {
+      "word": "jealous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒeləs/",
+      "meaning": "ghen tị, đố kỵ",
+      "exampleSentences": []
+    },
+    {
+      "word": "jolly",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv, v /ˈdʒɑːli/ vui tươi, vui vẻ; hết sức, lắm, quá; tán tỉnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "jovial",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒəʊviəl/",
+      "meaning": "vui vẻ, vui tính",
+      "exampleSentences": []
+    },
+    {
+      "word": "joy",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʒɔɪ/",
+      "meaning": "sự vui mừng, hân hoan",
+      "exampleSentences": []
+    },
+    {
+      "word": "joyful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒɔɪfl/",
+      "meaning": "vui mừng, hân hoan",
+      "exampleSentences": []
+    },
+    {
+      "word": "jubilant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈdʒuːbɪlənt/",
+      "meaning": "vui sướng, mừng rỡ",
+      "exampleSentences": []
+    },
+    {
+      "word": "junior",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈdʒuːniər/ người ít tuổi, ít thâm niên hơn; trẻ tuổi, ở",
+      "exampleSentences": []
+    },
+    {
+      "word": "killing",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɪlɪŋ/",
+      "meaning": "sự giết chóc, tàn sát",
+      "exampleSentences": []
+    },
+    {
+      "word": "kind-hearted",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌkaɪnd ˈhɑːrtɪd/",
+      "meaning": "tốt bụng, có lòng tốt",
+      "exampleSentences": []
+    },
+    {
+      "word": "laborious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ləˈbɔːriəs/",
+      "meaning": "cần cù, khó nhọc, gian khổ",
+      "exampleSentences": []
+    },
+    {
+      "word": "lackadaisical",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌlækəˈdeɪzɪkl/",
+      "meaning": "đa sầu, đa cảm, yếu đuối, ủy mị",
+      "exampleSentences": []
+    },
+    {
+      "word": "learn",
+      "partOfSpeech": "verb",
+      "phonetic": "/lɜːrn/",
+      "meaning": "học tập",
+      "exampleSentences": []
+    },
+    {
+      "word": "leave",
+      "partOfSpeech": "verb",
+      "phonetic": "/liːv/",
+      "meaning": "sự cho phép; để lại, bỏ lại, bỏ quên, bỏ đi,",
+      "exampleSentences": []
+    },
+    {
+      "word": "lengthy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈleŋkθi/",
+      "meaning": "dài, dài dòng",
+      "exampleSentences": []
+    },
+    {
+      "word": "lenient",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈliːniənt/",
+      "meaning": "nhân hậu, hiền hậu, khoan dung",
+      "exampleSentences": []
+    },
+    {
+      "word": "lethal",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'li:θəl/",
+      "meaning": "làm chết người, gây chết người",
+      "exampleSentences": []
+    },
+    {
+      "word": "lethargic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ləˈθɑːrdʒɪk/",
+      "meaning": "thờ ơ, lờ phờ",
+      "exampleSentences": []
+    },
+    {
+      "word": "liable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlaɪəbl/",
+      "meaning": "khả thi, có khả năng xảy ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "liberal",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlɪbərəl/",
+      "meaning": "rộng rãi, hào phóng",
+      "exampleSentences": []
+    },
+    {
+      "word": "libertarian",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌlɪbərˈteriən/",
+      "meaning": "người theo chủ nghĩa tự do",
+      "exampleSentences": []
+    },
+    {
+      "word": "license",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈlaɪsns/",
+      "meaning": "sự cho phép, giấy phép, bằng, chứng chỉ;",
+      "exampleSentences": []
+    },
+    {
+      "word": "limitation",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌlɪmɪˈteɪʃn/",
+      "meaning": "sự hạn chế, hạn định",
+      "exampleSentences": []
+    },
+    {
+      "word": "listless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlɪstləs/",
+      "meaning": "bơ phờ, lờ phờ",
+      "exampleSentences": []
+    },
+    {
+      "word": "literary",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlɪtəreri/",
+      "meaning": "(thuộc) văn chương, có tính văn chương,",
+      "exampleSentences": []
+    },
+    {
+      "word": "little",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlɪtl/",
+      "meaning": "nhỏ bé, ít ỏi",
+      "exampleSentences": []
+    },
+    {
+      "word": "livelihood",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlaɪvlihʊd/",
+      "meaning": "cách sinh nhai, sinh kế",
+      "exampleSentences": []
+    },
+    {
+      "word": "load",
+      "partOfSpeech": "noun",
+      "phonetic": "/ləʊd/",
+      "meaning": "gánh nặng, trọng tải; chất, chở, chồng chất",
+      "exampleSentences": []
+    },
+    {
+      "word": "loathe",
+      "partOfSpeech": "verb",
+      "phonetic": "/ləʊð/",
+      "meaning": "ghê tởm, kinh hãi",
+      "exampleSentences": []
+    },
+    {
+      "word": "local",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈləʊkl/",
+      "meaning": "tính địa phương; người dân địa phương",
+      "exampleSentences": []
+    },
+    {
+      "word": "lofty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlɔːfti/",
+      "meaning": "cao ngất, sừng sững",
+      "exampleSentences": []
+    },
+    {
+      "word": "logical",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlɑːdʒɪkl/",
+      "meaning": "hợp lý, hợp với logic",
+      "exampleSentences": []
+    },
+    {
+      "word": "loiter",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈlɔɪtər/",
+      "meaning": "đi tha thẩn, la cà",
+      "exampleSentences": []
+    },
+    {
+      "word": "loyal",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈlɔɪəl/",
+      "meaning": "trung thành, trung kiên",
+      "exampleSentences": []
+    },
+    {
+      "word": "lucid",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈluːsɪd/",
+      "meaning": "tỉnh táo",
+      "exampleSentences": []
+    },
+    {
+      "word": "lunar",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈluːnər/",
+      "meaning": "(thuộc) mặt trăng",
+      "exampleSentences": []
+    },
+    {
+      "word": "luxurious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/lʌɡˈʒʊriəs/",
+      "meaning": "sang trọng, lộng lẫy",
+      "exampleSentences": []
+    },
+    {
+      "word": "magnanimous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/mæɡˈnænɪməs/",
+      "meaning": "hào hiệp, cao thượng",
+      "exampleSentences": []
+    },
+    {
+      "word": "magnify",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈmæɡnɪfaɪ/",
+      "meaning": "làm to ra, phóng to, mở rộng, khuếch đại",
+      "exampleSentences": []
+    },
+    {
+      "word": "maiden",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈmeɪdn/ trinh nữ, cô gái đồng trinh; (thuộc) trinh",
+      "exampleSentences": []
+    },
+    {
+      "word": "mainly",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈmeɪnli/",
+      "meaning": "chính, chủ yếu, phần lớn",
+      "exampleSentences": []
+    },
+    {
+      "word": "maintain",
+      "partOfSpeech": "verb",
+      "phonetic": "/meɪnˈteɪn/",
+      "meaning": "giữ gìn, duy trì, bảo vệ, bảo dưỡng, kiên",
+      "exampleSentences": []
+    },
+    {
+      "word": "malfunction",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌmælˈfʌŋkʃn/",
+      "meaning": "sự trục trặc, làm việc sai chức năng",
+      "exampleSentences": []
+    },
+    {
+      "word": "malicious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/məˈlɪʃəs/",
+      "meaning": "hiểm độc, có ác tâm",
+      "exampleSentences": []
+    },
+    {
+      "word": "man-made",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌmæn ˈmeɪd/",
+      "meaning": "nhân tạo, do con người tạo ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "mansion",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmænʃn/",
+      "meaning": "lâu đài, biệt thự",
+      "exampleSentences": []
+    },
+    {
+      "word": "mate",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /meɪt/ bạn bè, người phụ việc, giúp việc; giao",
+      "exampleSentences": []
+    },
+    {
+      "word": "mature",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": "/məˈtʃʊr/",
+      "exampleSentences": []
+    },
+    {
+      "word": "meager",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmiːɡər/",
+      "meaning": "gầy gò, khẳng khiu, hom hem",
+      "exampleSentences": []
+    },
+    {
+      "word": "mean",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /miːn/ xấu tính, hèn hạ, bần tiện, bủn xỉn; muốn",
+      "exampleSentences": []
+    },
+    {
+      "word": "meaningful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmiːnɪŋfl/",
+      "meaning": "có ý nghĩa, đầy ý nghĩa",
+      "exampleSentences": []
+    },
+    {
+      "word": "memento",
+      "partOfSpeech": "noun",
+      "phonetic": "/məˈmentəʊ/",
+      "meaning": "vật kỷ niệm, vật lưu niệm",
+      "exampleSentences": []
+    },
+    {
+      "word": "memorize",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈmeməraɪz/",
+      "meaning": "học thuộc, ghi nhớ",
+      "exampleSentences": []
+    },
+    {
+      "word": "mental",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmentl/",
+      "meaning": "(thuộc) tâm thần, tinh thần, trí tuệ, trí óc",
+      "exampleSentences": []
+    },
+    {
+      "word": "mentor",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmentɔːr/",
+      "meaning": "người cố vấn, người hướng dẫn",
+      "exampleSentences": []
+    },
+    {
+      "word": "merry",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmeri/",
+      "meaning": "vui vẻ, thú vị, dễ chịu",
+      "exampleSentences": []
+    },
+    {
+      "word": "mesmerize",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈmezməraɪz/",
+      "meaning": "thôi miên, mê hoặc, quyến rũ",
+      "exampleSentences": []
+    },
+    {
+      "word": "messy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmesi/",
+      "meaning": "hỗn độn, lộn xộn, bừa bãi",
+      "exampleSentences": []
+    },
+    {
+      "word": "midday",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌmɪdˈdeɪ/",
+      "meaning": "buổi trưa, giữa ngày",
+      "exampleSentences": []
+    },
+    {
+      "word": "middle",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈmɪdl/ giữa, ở giữa",
+      "exampleSentences": []
+    },
+    {
+      "word": "mighty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmaɪti/",
+      "meaning": "mạnh, hùng cường, hùng mạnh, to lớn, vĩ",
+      "exampleSentences": []
+    },
+    {
+      "word": "mild",
+      "partOfSpeech": "adjective",
+      "phonetic": "/maɪld/",
+      "meaning": "nhẹ nhàng, êm dịu, dịu dàng, hòa nhã",
+      "exampleSentences": []
+    },
+    {
+      "word": "militant",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈmɪlɪtənt/ người chiến đấu; chiến đấu",
+      "exampleSentences": []
+    },
+    {
+      "word": "mimic",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈmɪmɪk/",
+      "meaning": "giả, bắt chước",
+      "exampleSentences": []
+    },
+    {
+      "word": "mind",
+      "partOfSpeech": "noun",
+      "phonetic": "/maind/",
+      "meaning": "tinh thần, trí tuệ, đầu óc",
+      "exampleSentences": []
+    },
+    {
+      "word": "miniature",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈmɪnətʃər/",
+      "exampleSentences": []
+    },
+    {
+      "word": "minnow",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmɪnəʊ/",
+      "meaning": "cá tuế (họ cá chép)",
+      "exampleSentences": []
+    },
+    {
+      "word": "mirage",
+      "partOfSpeech": "noun",
+      "phonetic": "/məˈrɑːʒ/",
+      "meaning": "ảo tưởng, ảo vọng",
+      "exampleSentences": []
+    },
+    {
+      "word": "mischievous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´mistʃivəs/",
+      "meaning": "tinh nghịch, tinh quái, ranh mãnh, láu lỉnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "misery",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmɪzəri/",
+      "meaning": "cảnh nghèo khổ, đáng thương, sự đau đớn,",
+      "exampleSentences": []
+    },
+    {
+      "word": "miss",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /mɪs/",
+      "exampleSentences": []
+    },
+    {
+      "word": "mistake",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /mɪˈsteɪk/ lỗi, sai lầm, lỗi lầm; phạm sai lầm, hiểu",
+      "exampleSentences": []
+    },
+    {
+      "word": "mistaken",
+      "partOfSpeech": "adjective",
+      "phonetic": "/mɪˈsteɪkən/",
+      "meaning": "sai lầm, bị hiểu sai",
+      "exampleSentences": []
+    },
+    {
+      "word": "moderate",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /ˈmɑːdərət/",
+      "exampleSentences": []
+    },
+    {
+      "word": "modern",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmɑːdərn/",
+      "meaning": "hiện đại, tân tiến",
+      "exampleSentences": []
+    },
+    {
+      "word": "modest",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": "/ˈmɑːdɪst/",
+      "exampleSentences": []
+    },
+    {
+      "word": "moist",
+      "partOfSpeech": "adjective",
+      "phonetic": "/mɔɪst/",
+      "meaning": "ẩm; ẩm ướt, ướt lấp nhấp",
+      "exampleSentences": []
+    },
+    {
+      "word": "mood",
+      "partOfSpeech": "noun",
+      "phonetic": "/mu:d/",
+      "meaning": "tâm trạng; tính khí, tâm tính, tính tình",
+      "exampleSentences": []
+    },
+    {
+      "word": "moral",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈmɔːrəl/ lời răn dạy, bài học; (thuộc) đạo đức, phẩm",
+      "exampleSentences": []
+    },
+    {
+      "word": "mortal",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈmɔːrtl/",
+      "meaning": "chết, không bất tử",
+      "exampleSentences": []
+    },
+    {
+      "word": "mum",
+      "partOfSpeech": "adjective",
+      "phonetic": "/mʌm/",
+      "meaning": "lặng yên, giữ kín",
+      "exampleSentences": []
+    },
+    {
+      "word": "mural",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmjʊrəl/",
+      "meaning": "tranh tường",
+      "exampleSentences": []
+    },
+    {
+      "word": "myriad",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈmɪriəd/ vô số, lớn, nhiều vô cùng",
+      "exampleSentences": []
+    },
+    {
+      "word": "mysterious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/mɪˈstɪriəs/",
+      "meaning": "huyền bí, khó hiểu, bí ẩn",
+      "exampleSentences": []
+    },
+    {
+      "word": "myth",
+      "partOfSpeech": "noun",
+      "phonetic": "/mɪθ/",
+      "meaning": "thần thoại, chuyện hoang đường, lời đồn",
+      "exampleSentences": []
+    },
+    {
+      "word": "narrative",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnærətɪv/",
+      "meaning": "chuyện kể, bài tường thuật",
+      "exampleSentences": []
+    },
+    {
+      "word": "nasty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'na:sti/",
+      "meaning": "bẩn thỉu, dơ dáy",
+      "exampleSentences": []
+    },
+    {
+      "word": "native",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈneɪtɪv/ người gốc, thổ dân; (thuộc) địa phương",
+      "exampleSentences": []
+    },
+    {
+      "word": "nausea",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnɔːziə/",
+      "meaning": "sự buồn nôn, sự kinh tởm",
+      "exampleSentences": []
+    },
+    {
+      "word": "necessary",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈnesəseri/",
+      "meaning": "cần thiết, thiết yếu",
+      "exampleSentences": []
+    },
+    {
+      "word": "needy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´ni:di/",
+      "meaning": "nghèo túng, thiếu thốn",
+      "exampleSentences": []
+    },
+    {
+      "word": "negligible",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈneɡlɪdʒəbl/",
+      "meaning": "không đáng kể",
+      "exampleSentences": []
+    },
+    {
+      "word": "nervous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈnɜːrvəs/",
+      "meaning": "lo lắng, bồn chồn",
+      "exampleSentences": []
+    },
+    {
+      "word": "neutral",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈnuːtrəl/",
+      "meaning": "trung lập, không có tính chất rõ ràng",
+      "exampleSentences": []
+    },
+    {
+      "word": "niche",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /nɪtʃ/ chỗ thích hợp; phù hợp với một nhóm nhỏ",
+      "exampleSentences": []
+    },
+    {
+      "word": "nippy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈnɪpi/",
+      "meaning": "nhanh nhẹn, lanh lẹ, hoạt bát",
+      "exampleSentences": []
+    },
+    {
+      "word": "noise",
+      "partOfSpeech": "noun",
+      "phonetic": "/nɔɪz/",
+      "meaning": "tiếng ồn, huyên náo, om sòm",
+      "exampleSentences": []
+    },
+    {
+      "word": "nonchalant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌnɑːnʃəˈlɑːnt/",
+      "meaning": "thờ ơ, hờ hững, lãnh đạm, vô tình",
+      "exampleSentences": []
+    },
+    {
+      "word": "noon",
+      "partOfSpeech": "noun",
+      "phonetic": "/nuːn/",
+      "meaning": "trưa, buổi trưa",
+      "exampleSentences": []
+    },
+    {
+      "word": "normal",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈnɔːrml/ tình trạng bình thường, mức bình thường;",
+      "exampleSentences": []
+    },
+    {
+      "word": "notable",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈnəʊtəbl/",
+      "exampleSentences": []
+    },
+    {
+      "word": "notify",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈnəʊtɪfaɪ/",
+      "meaning": "báo, khai báo; thông báo, cho hay, cho biết",
+      "exampleSentences": []
+    },
+    {
+      "word": "notorious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/nəʊˈtɔːriəs/",
+      "meaning": "lừng danh, khét tiếng, tai tiếng",
+      "exampleSentences": []
+    },
+    {
+      "word": "nuisance",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnuːsns/",
+      "meaning": "sự phiền hà, mối phiền toái, gây khó chịu",
+      "exampleSentences": []
+    },
+    {
+      "word": "nurture",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈnɜːrtʃər/ sự nuôi dưỡng, giáo dục; nuôi nấng, dưỡng",
+      "exampleSentences": []
+    },
+    {
+      "word": "obey",
+      "partOfSpeech": "verb",
+      "phonetic": "/o'bei/",
+      "meaning": "vâng lời, tuân theo, tuân lệnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "obscure",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": "/əbˈskjʊr/",
+      "exampleSentences": []
+    },
+    {
+      "word": "observe",
+      "partOfSpeech": "verb",
+      "phonetic": "/əbˈzɜːrv/",
+      "meaning": "quan sát, theo dõi",
+      "exampleSentences": []
+    },
+    {
+      "word": "obsession",
+      "partOfSpeech": "noun",
+      "phonetic": "/əbˈseʃn/",
+      "meaning": "sự ám ảnh, nỗi ám ảnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "obsolete",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌɑːbsəˈliːt/",
+      "meaning": "cổ xưa, quá hạn, lỗi thời",
+      "exampleSentences": []
+    },
+    {
+      "word": "obtain",
+      "partOfSpeech": "verb",
+      "phonetic": "/əbˈteɪn/",
+      "meaning": "đạt được, giành được, thu được",
+      "exampleSentences": []
+    },
+    {
+      "word": "occult",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /əˈkʌlt/ sâu kín, huyền bí; che khuất, che lấp",
+      "exampleSentences": []
+    },
+    {
+      "word": "offensive",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /əˈfensɪv/ cuộc tấn công, thế tấn công; xúc phạm,",
+      "exampleSentences": []
+    },
+    {
+      "word": "operate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈɑːpəreɪt/",
+      "meaning": "hoạt động, đang làm việc, thi hành",
+      "exampleSentences": []
+    },
+    {
+      "word": "opportunity",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌɑːpərˈtuːnəti/",
+      "meaning": "cơ hội, thời cơ, dịp",
+      "exampleSentences": []
+    },
+    {
+      "word": "opposite",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj, adv,",
+      "exampleSentences": []
+    },
+    {
+      "word": "optional",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɑːpʃənl/",
+      "meaning": "tùy ý, không bắt buộc",
+      "exampleSentences": []
+    },
+    {
+      "word": "ordinary",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɔːrdneri/",
+      "meaning": "bình thường, thông thường; điều bình",
+      "exampleSentences": []
+    },
+    {
+      "word": "original",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", n /ə'ridʒənl/ nguyên bản, gốc",
+      "exampleSentences": []
+    },
+    {
+      "word": "original",
+      "partOfSpeech": "adjective",
+      "phonetic": "/əˈrɪdʒənl/",
+      "meaning": "(thuộc) gốc, căn nguyên, đầu tiên, độc đáo;",
+      "exampleSentences": []
+    },
+    {
+      "word": "ornament",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈɔːrnəmənt/ đồ trang hoàng, trang trí, trang sức; trang",
+      "exampleSentences": []
+    },
+    {
+      "word": "outgoing",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌaʊtˈɡəʊɪŋ/",
+      "meaning": "dễ gần, thoải mái, hòa đồng",
+      "exampleSentences": []
+    },
+    {
+      "word": "outrage",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": "/ˈaʊtreɪdʒ/",
+      "exampleSentences": []
+    },
+    {
+      "word": "outrageous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/aʊtˈreɪdʒəs/",
+      "meaning": "tàn bạo, vô nhân đạo, quá chừng, thái quá",
+      "exampleSentences": []
+    },
+    {
+      "word": "outskirts",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈaʊtskɜːrts/",
+      "meaning": "phạm vi ngoài (một vấn đề...), vùng ngoại",
+      "exampleSentences": []
+    },
+    {
+      "word": "outstanding",
+      "partOfSpeech": "adjective",
+      "phonetic": "/aʊtˈstændɪŋ/",
+      "meaning": "nổi bật, đáng chú ý, nổi tiếng, vượt trội",
+      "exampleSentences": []
+    },
+    {
+      "word": "overjoyed",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌəʊvərˈdʒɔɪd/",
+      "meaning": "vui mừng khôn xiết",
+      "exampleSentences": []
+    },
+    {
+      "word": "overlook",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˌəʊvərˈlʊk/",
+      "meaning": "trông nom, quan sát, xem xét",
+      "exampleSentences": []
+    },
+    {
+      "word": "overseas",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /ˌəʊvərˈsiːz/ nước ngoài, ngang qua biển",
+      "exampleSentences": []
+    },
+    {
+      "word": "oversee",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˌəʊvərˈsiː/",
+      "meaning": "trông nom, giám thị, quan sát",
+      "exampleSentences": []
+    },
+    {
+      "word": "overturned",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˌəʊvərˈtɜːrn/ sự lật đổ, đảo lộn; lật úp, đánh đổ, lật",
+      "exampleSentences": []
+    },
+    {
+      "word": "overwhelm",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˌəʊvərˈwelm/",
+      "meaning": "áp đảo, lất át, làm choáng ngợp",
+      "exampleSentences": []
+    },
+    {
+      "word": "pack",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /pæk/ túi đeo, ba lô, đàn bầy; gói ghém, đóng",
+      "exampleSentences": []
+    },
+    {
+      "word": "pail",
+      "partOfSpeech": "noun",
+      "phonetic": "/peɪl/",
+      "meaning": "cái thùng, xô, lượng đựng trong xô",
+      "exampleSentences": []
+    },
+    {
+      "word": "part",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /pɑːrt/ phần, bộ phận, phần việc, nhiệm vụ, vai",
+      "exampleSentences": []
+    },
+    {
+      "word": "particular",
+      "partOfSpeech": "adjective",
+      "phonetic": "/pərˈtɪkjələr/",
+      "meaning": "riêng biệt, cá biệt, đặc thù, ngoại lệ",
+      "exampleSentences": []
+    },
+    {
+      "word": "passion",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpæʃn/",
+      "meaning": "cảm xúc mãnh liệt, sự đam mê, say mê",
+      "exampleSentences": []
+    },
+    {
+      "word": "passport",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpæspɔːrt/",
+      "meaning": "hộ chiếu",
+      "exampleSentences": []
+    },
+    {
+      "word": "patient",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈpeɪʃnt/ bệnh nhân",
+      "exampleSentences": []
+    },
+    {
+      "word": "patriotic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌpeɪtriˈɑːtɪk/",
+      "meaning": "yêu nước, ái quốc",
+      "exampleSentences": []
+    },
+    {
+      "word": "peaceful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpiːsfl/",
+      "meaning": "hòa bình, thái bình, yên tĩnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "peal",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /piːl/ tràng hồi (sấm, cười...); rung, đánh từng",
+      "exampleSentences": []
+    },
+    {
+      "word": "pedestrian",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /pəˈdestriən/",
+      "exampleSentences": []
+    },
+    {
+      "word": "penniless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpeniləs/",
+      "meaning": "không có tiền, không xu dính túi, nghèo",
+      "exampleSentences": []
+    },
+    {
+      "word": "pensive",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpensɪv/",
+      "meaning": "trầm ngâm, sâu sắc",
+      "exampleSentences": []
+    },
+    {
+      "word": "perception",
+      "partOfSpeech": "noun",
+      "phonetic": "/pərˈsepʃn/",
+      "meaning": "sự nhận thức, am hiểu, sự sáng suốt",
+      "exampleSentences": []
+    },
+    {
+      "word": "perhaps",
+      "partOfSpeech": "adverb",
+      "phonetic": "/pərˈhæps/",
+      "meaning": "có lẽ, có thể",
+      "exampleSentences": []
+    },
+    {
+      "word": "permit",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈpɜːrmɪt/",
+      "exampleSentences": []
+    },
+    {
+      "word": "personal",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpɜːrsənl/",
+      "meaning": "cá nhân, riêng tư",
+      "exampleSentences": []
+    },
+    {
+      "word": "photo",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfəʊtəʊ/",
+      "meaning": "bức ảnh, tấm ảnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "pinnacle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpɪnəkl/",
+      "meaning": "cực điểm, đỉnh cao nhọn (núi, tảng đá...),",
+      "exampleSentences": []
+    },
+    {
+      "word": "pleasant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpleznt/",
+      "meaning": "làm thích ý, vừa ý",
+      "exampleSentences": []
+    },
+    {
+      "word": "pluck",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /plʌk/ nhổ, bứt, hái",
+      "exampleSentences": []
+    },
+    {
+      "word": "plump",
+      "partOfSpeech": "adjective",
+      "phonetic": "/plʌmp/",
+      "meaning": "thẳng thừng, không quanh co, úp mở",
+      "exampleSentences": []
+    },
+    {
+      "word": "plunge",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /plʌndʒ/",
+      "exampleSentences": []
+    },
+    {
+      "word": "podium",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpəʊdiəm/",
+      "meaning": "bục đứng (cho giáo viên, người diễn",
+      "exampleSentences": []
+    },
+    {
+      "word": "polite",
+      "partOfSpeech": "adjective",
+      "phonetic": "/pəˈlaɪt/",
+      "meaning": "lễ phép, lịch thiệp, lịch sự",
+      "exampleSentences": []
+    },
+    {
+      "word": "portion",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈpɔːrʃn/ phần chia, khẩu phần; chia phần, phân phát",
+      "exampleSentences": []
+    },
+    {
+      "word": "possess",
+      "partOfSpeech": "verb",
+      "phonetic": "/pəˈzes/",
+      "meaning": "có, chiếm hữu, sở hữu",
+      "exampleSentences": []
+    },
+    {
+      "word": "possibility",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌpɑːsəˈbɪləti/",
+      "meaning": "khả năng, sự có thể, triển vọng, tiềm năng",
+      "exampleSentences": []
+    },
+    {
+      "word": "posture",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpɑːstʃər/",
+      "meaning": "tư thế, dáng điệu",
+      "exampleSentences": []
+    },
+    {
+      "word": "potent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpəʊtnt/",
+      "meaning": "có hiệu lực, có hiệu nghiệm, có uy lực, có",
+      "exampleSentences": []
+    },
+    {
+      "word": "powerful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpaʊərfl/",
+      "meaning": "hùng mạnh, hùng cường, có sức mạnh lớn,",
+      "exampleSentences": []
+    },
+    {
+      "word": "practice",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈpræktɪs/",
+      "exampleSentences": []
+    },
+    {
+      "word": "precisely",
+      "partOfSpeech": "adverb",
+      "phonetic": "/prɪˈsaɪsli/",
+      "meaning": "đúng, chính xác, một cách chính xác",
+      "exampleSentences": []
+    },
+    {
+      "word": "prejudiced",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpredʒədɪst/",
+      "meaning": "có thành kiến, biểu lộ thành kiến",
+      "exampleSentences": []
+    },
+    {
+      "word": "preposterous",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": "/prɪˈpɑːstərəs/",
+      "exampleSentences": []
+    },
+    {
+      "word": "preserve",
+      "partOfSpeech": "verb",
+      "phonetic": "/prɪˈzɜːrv/",
+      "meaning": "bảo quản, giữ gìn, lưu giữ, bảo tồn",
+      "exampleSentences": []
+    },
+    {
+      "word": "prestigious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/preˈstiːdʒəs/",
+      "meaning": "có uy tín, có thanh thế, đem lại uy tín, đem",
+      "exampleSentences": []
+    },
+    {
+      "word": "prevail",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": "/prɪˈveɪl/",
+      "exampleSentences": []
+    },
+    {
+      "word": "prevent",
+      "partOfSpeech": "verb",
+      "phonetic": "/prɪˈvent/",
+      "meaning": "ngăn cản, ngăn chặn, ngăn ngừa",
+      "exampleSentences": []
+    },
+    {
+      "word": "previously",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈpriːviəsli/",
+      "meaning": "trước, trước đây",
+      "exampleSentences": []
+    },
+    {
+      "word": "prior",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /ˈpraɪər/ trước; trước khi, quan trọng hơn",
+      "exampleSentences": []
+    },
+    {
+      "word": "private",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpraɪvət/",
+      "meaning": "riêng tư, cá nhân, tư nhân",
+      "exampleSentences": []
+    },
+    {
+      "word": "prize",
+      "partOfSpeech": "noun",
+      "phonetic": "/praɪz/",
+      "meaning": "giải thưởng, phần thưởng",
+      "exampleSentences": []
+    },
+    {
+      "word": "procedure",
+      "partOfSpeech": "noun",
+      "phonetic": "/prəˈsiːdʒər/",
+      "meaning": "thủ tục, chuỗi hành động",
+      "exampleSentences": []
+    },
+    {
+      "word": "process",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈprɑːses/ quá trình, quy trình, sự tiến triển; chế biến,",
+      "exampleSentences": []
+    },
+    {
+      "word": "produce",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": ", n /prəˈduːs/ sản lương, sản vật, sản phẩm, kết quả; trình",
+      "exampleSentences": []
+    },
+    {
+      "word": "promote",
+      "partOfSpeech": "verb",
+      "phonetic": "/prəˈməʊt/",
+      "meaning": "thăng chức",
+      "exampleSentences": []
+    },
+    {
+      "word": "prompt",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": ", adj /prɑːmpt/ mau, lẹ, nhanh chóng, ngay lập tức; xúi",
+      "exampleSentences": []
+    },
+    {
+      "word": "propel",
+      "partOfSpeech": "verb",
+      "phonetic": "/prəˈpel/",
+      "meaning": "đẩy tới, thúc đẩy",
+      "exampleSentences": []
+    },
+    {
+      "word": "propose",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": "/prəˈpəʊz/",
+      "exampleSentences": []
+    },
+    {
+      "word": "prosper",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /['prɔspə] / thịnh vượng, làm cho thịnh vượng",
+      "exampleSentences": []
+    },
+    {
+      "word": "prototype",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈprəʊtətaɪp/",
+      "meaning": "nguyên mẫu, mẫu đầu tiên",
+      "exampleSentences": []
+    },
+    {
+      "word": "provocative",
+      "partOfSpeech": "adjective",
+      "phonetic": "/prəˈvɑːkətɪv/",
+      "meaning": "khiêu khích, trêu chọc, kích thích, khêu gợi",
+      "exampleSentences": []
+    },
+    {
+      "word": "provoke",
+      "partOfSpeech": "verb",
+      "phonetic": "/prəˈvəʊk/",
+      "meaning": "khích, xúi giục, khêu gợi",
+      "exampleSentences": []
+    },
+    {
+      "word": "prudent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpruːdnt/",
+      "meaning": "thận trọng, cẩn thận, khôn ngoan",
+      "exampleSentences": []
+    },
+    {
+      "word": "pudgy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpʌdʒi/",
+      "meaning": "(thông tục) ngắn và béo; béo lùn, mập lùn",
+      "exampleSentences": []
+    },
+    {
+      "word": "punctual",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈpʌŋktʃuəl/",
+      "meaning": "đúng giờ, đúng thời điểm",
+      "exampleSentences": []
+    },
+    {
+      "word": "punishment",
+      "partOfSpeech": "noun",
+      "phonetic": "/'pʌniʃmənt/",
+      "meaning": "sự trừng trị; sự bị trừng phạt",
+      "exampleSentences": []
+    },
+    {
+      "word": "purchase",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈpɜːrtʃəs/ sự mua sắm, vật mua được; mua, sắm, tậu,",
+      "exampleSentences": []
+    },
+    {
+      "word": "pure",
+      "partOfSpeech": "adjective",
+      "phonetic": "/pjʊr/",
+      "meaning": "nguyên chất, tinh khiết, trong lành, thanh",
+      "exampleSentences": []
+    },
+    {
+      "word": "quake",
+      "partOfSpeech": "verb",
+      "phonetic": "/kweɪk/",
+      "meaning": "sự run rẩy, động đất; rung động, run, rẩy",
+      "exampleSentences": []
+    },
+    {
+      "word": "quantity",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkwɑːntəti/",
+      "meaning": "lượng, số lượng, khối lượng",
+      "exampleSentences": []
+    },
+    {
+      "word": "questionable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈkwestʃənəbl/",
+      "meaning": "đáng ngờ, có vấn đề",
+      "exampleSentences": []
+    },
+    {
+      "word": "quick",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /kwɪk/",
+      "exampleSentences": []
+    },
+    {
+      "word": "quickness",
+      "partOfSpeech": "noun",
+      "phonetic": "/´kwiknis/",
+      "meaning": "sự nhanh, sự mau chóng",
+      "exampleSentences": []
+    },
+    {
+      "word": "racket",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈrækɪt/",
+      "meaning": "tiếng ồn, cảnh nhộn nhịp, huyên náo",
+      "exampleSentences": []
+    },
+    {
+      "word": "ratify",
+      "partOfSpeech": "noun",
+      "phonetic": "/´ræti¸fai/",
+      "meaning": "thông qua, phê chuẩn",
+      "exampleSentences": []
+    },
+    {
+      "word": "rational",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´ræʃənəl/",
+      "meaning": "có lý trí, dựa trên lý trí",
+      "exampleSentences": []
+    },
+    {
+      "word": "ravage",
+      "partOfSpeech": "noun",
+      "phonetic": "/´rævidʒ/",
+      "meaning": "sự tàn phá",
+      "exampleSentences": []
+    },
+    {
+      "word": "raze",
+      "partOfSpeech": "verb",
+      "phonetic": "/reiz/",
+      "meaning": "phá bằng, san bằng, phá trụi",
+      "exampleSentences": []
+    },
+    {
+      "word": "recent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´ri:sənt/",
+      "meaning": "gần đây, xảy ra gần đây, mới đây, mới xảy",
+      "exampleSentences": []
+    },
+    {
+      "word": "recipient",
+      "partOfSpeech": "noun",
+      "phonetic": "/rɪˈsɪpiənt/",
+      "meaning": "người nhận, nước nhận",
+      "exampleSentences": []
+    },
+    {
+      "word": "reciprocate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ri´siprə¸keit/",
+      "meaning": "trả, đền đáp lại; đáp lại",
+      "exampleSentences": []
+    },
+    {
+      "word": "reduction",
+      "partOfSpeech": "noun",
+      "phonetic": "/ri´dʌkʃən/",
+      "meaning": "sự thu nhỏ, sự giảm bớt",
+      "exampleSentences": []
+    },
+    {
+      "word": "refined",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ri´faind/",
+      "meaning": "nguyên chất, đã lọc, đã tinh chế",
+      "exampleSentences": []
+    },
+    {
+      "word": "refresh",
+      "partOfSpeech": "verb",
+      "phonetic": "/ri´freʃ/",
+      "meaning": "làm khoẻ người, làm tỉnh táo",
+      "exampleSentences": []
+    },
+    {
+      "word": "regret",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ri'gret/ lòng thương tiếc, hối tiếc, tiếc",
+      "exampleSentences": []
+    },
+    {
+      "word": "rejuvenate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ri´dʒu:və¸neit/",
+      "meaning": "làm (ai) trẻ lại, làm (ai) khoẻ lại..",
+      "exampleSentences": []
+    },
+    {
+      "word": "relax",
+      "partOfSpeech": "verb",
+      "phonetic": "/ri´læks/",
+      "meaning": "nới lỏng, buông lỏng, lơi ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "remark",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ri'mɑ:k/ sự để ý, sự chú ý; nhận xét, bình luận",
+      "exampleSentences": []
+    },
+    {
+      "word": "remorse",
+      "partOfSpeech": "noun",
+      "phonetic": "/ri'mɔ:s/",
+      "meaning": "sự ăn năn, sự hối hận",
+      "exampleSentences": []
+    },
+    {
+      "word": "remote",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ri'mout/",
+      "meaning": "xa, xa xôi; hẻo lánh",
+      "exampleSentences": []
+    },
+    {
+      "word": "renew",
+      "partOfSpeech": "verb",
+      "phonetic": "/ri´nju:/",
+      "meaning": "thay mới, làm mới lại",
+      "exampleSentences": []
+    },
+    {
+      "word": "renowned",
+      "partOfSpeech": "adjective",
+      "phonetic": "/rɪˈnaʊnd/",
+      "meaning": "nổi tiếng, lừng danh",
+      "exampleSentences": []
+    },
+    {
+      "word": "represent",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˌreprɪˈzent/",
+      "meaning": "đại diện, biểu trưng",
+      "exampleSentences": []
+    },
+    {
+      "word": "republican",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", n /rɪˈpʌblɪkən/ cộng hòa, mang đặc trưng của nền cộng",
+      "exampleSentences": []
+    },
+    {
+      "word": "repulsive",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ri'pʌlsiv/",
+      "meaning": "ghê tởm, đáng ghét, kinh tởm",
+      "exampleSentences": []
+    },
+    {
+      "word": "reputable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈrepjətəbl/",
+      "meaning": "có danh tiếng tốt; đáng kính trọng, đáng tin",
+      "exampleSentences": []
+    },
+    {
+      "word": "resilient",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ri´ziliənt/",
+      "meaning": "bật nảy; co giãn, đàn hồi",
+      "exampleSentences": []
+    },
+    {
+      "word": "resist",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": ", n /ri'zist/ kháng cự, chống lại; chất cản màu",
+      "exampleSentences": []
+    },
+    {
+      "word": "respond",
+      "partOfSpeech": "verb",
+      "phonetic": "/ri'spond/",
+      "meaning": "hưởng ứng",
+      "exampleSentences": []
+    },
+    {
+      "word": "response",
+      "partOfSpeech": "noun",
+      "phonetic": "/rɪˈspɒns/",
+      "meaning": "sự trả lời; câu trả lời",
+      "exampleSentences": []
+    },
+    {
+      "word": "rest",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /rest /",
+      "exampleSentences": []
+    },
+    {
+      "word": "restrict",
+      "partOfSpeech": "verb",
+      "phonetic": "/ris´trikt/",
+      "meaning": "hạn chế, giới hạn",
+      "exampleSentences": []
+    },
+    {
+      "word": "retaliate",
+      "partOfSpeech": "verb",
+      "phonetic": "/ri´tæli¸eit/",
+      "meaning": "trả đũa, trả miếng, trả thù",
+      "exampleSentences": []
+    },
+    {
+      "word": "retrograde",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", n, v /´retrou¸greid/ lùi lại, thụt lùi",
+      "exampleSentences": []
+    },
+    {
+      "word": "reveal",
+      "partOfSpeech": "verb",
+      "phonetic": "/rɪˈviːl/",
+      "meaning": "bộc lộ, tiết lộ, làm lộ ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "revenge",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ri'vendʤ/ (sự) trả thù, báo thù",
+      "exampleSentences": []
+    },
+    {
+      "word": "rich",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ritʃ/",
+      "meaning": "giàu, giàu có, dồi dào, phong phú",
+      "exampleSentences": []
+    },
+    {
+      "word": "righteous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´raitʃəs/",
+      "meaning": "ngay thẳng, đạo đức, công bằng (người)",
+      "exampleSentences": []
+    },
+    {
+      "word": "robust",
+      "partOfSpeech": "adjective",
+      "phonetic": "/roʊˈbʌst, ˈroʊbʌst/",
+      "meaning": "tráng kiện, cường tráng; có sức khoẻ",
+      "exampleSentences": []
+    },
+    {
+      "word": "rookie",
+      "partOfSpeech": "noun",
+      "phonetic": "/'rƱki/",
+      "meaning": "lính mới, tân binh",
+      "exampleSentences": []
+    },
+    {
+      "word": "roster",
+      "partOfSpeech": "noun",
+      "phonetic": "/´roustə/",
+      "meaning": "bảng phân công",
+      "exampleSentences": []
+    },
+    {
+      "word": "rough",
+      "partOfSpeech": "adjective",
+      "phonetic": "/rᴧf/",
+      "meaning": "ráp, nhám, xù xì; miền đất gồ ghề",
+      "exampleSentences": []
+    },
+    {
+      "word": "routine",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ruːˈtiːn/ công việc, thói quen thường ngày",
+      "exampleSentences": []
+    },
+    {
+      "word": "rude",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ru:d/",
+      "meaning": "khiếm nhã, bất lịch sự",
+      "exampleSentences": []
+    },
+    {
+      "word": "ruin",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ru:in/ sự đổ nát, sự hư hại nghiêm trọng; làm",
+      "exampleSentences": []
+    },
+    {
+      "word": "rush",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /rʌ∫/ cây bấc, cây cói; xông lên, lao vào",
+      "exampleSentences": []
+    },
+    {
+      "word": "sack",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /sæk/ bao tải, bao bố",
+      "exampleSentences": []
+    },
+    {
+      "word": "safety",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈseɪfti/",
+      "meaning": "sự an toàn, chắc chắn",
+      "exampleSentences": []
+    },
+    {
+      "word": "sane",
+      "partOfSpeech": "adjective",
+      "phonetic": "/sein/",
+      "meaning": "lành mạnh; đúng mực",
+      "exampleSentences": []
+    },
+    {
+      "word": "satellite",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsætəlaɪt/",
+      "meaning": "vệ tinh, vệ tinh nhân tạo",
+      "exampleSentences": []
+    },
+    {
+      "word": "scanty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´skænti/",
+      "meaning": "ít ỏi, thiếu, không đủ",
+      "exampleSentences": []
+    },
+    {
+      "word": "scarcity",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈskersəti/",
+      "meaning": "sự hiếm có",
+      "exampleSentences": []
+    },
+    {
+      "word": "scrawny",
+      "partOfSpeech": "noun",
+      "phonetic": "/´skrɔ:ni/",
+      "meaning": "gầy nhẳng; gầy giơ xương;",
+      "exampleSentences": []
+    },
+    {
+      "word": "scribble",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": ", n /skribl/ viết nguệch ngoạc, chữ viết cẩu thả",
+      "exampleSentences": []
+    },
+    {
+      "word": "scrutinize",
+      "partOfSpeech": "verb",
+      "phonetic": "/´skru:ti¸naiz/",
+      "meaning": "nhìn chăm chú, nhìn kỹ",
+      "exampleSentences": []
+    },
+    {
+      "word": "secluded",
+      "partOfSpeech": "adjective",
+      "phonetic": "/si´klu:did/",
+      "meaning": "hẻo lánh; không có nhiều người trông thấy",
+      "exampleSentences": []
+    },
+    {
+      "word": "secret",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", n /'si:krit/ thầm kín, bí mật; điều bí mật",
+      "exampleSentences": []
+    },
+    {
+      "word": "section",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /'sekʃn/ bộ phận; nhóm tách biệt nằm trong khối",
+      "exampleSentences": []
+    },
+    {
+      "word": "sector",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsektər/",
+      "meaning": "khu vực, lĩnh vực",
+      "exampleSentences": []
+    },
+    {
+      "word": "secure",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /sɪ'kjʊə(r)/ /sə'kjʊr/ chắc chắn, bảo đảm; làm kiên cố",
+      "exampleSentences": []
+    },
+    {
+      "word": "segment",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /'segmənt/ đoạn, khúc, đốt, miếng; phân đoạn, phân",
+      "exampleSentences": []
+    },
+    {
+      "word": "seize",
+      "partOfSpeech": "verb",
+      "phonetic": "/si:z/",
+      "meaning": "nắm; bắt; chộp",
+      "exampleSentences": []
+    },
+    {
+      "word": "select",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": ", adj /si´lekt/ tuyển, được lựa chọn",
+      "exampleSentences": []
+    },
+    {
+      "word": "selective",
+      "partOfSpeech": "adjective",
+      "phonetic": "/si'lektiv/",
+      "meaning": "có tuyển chọn; dựa trên sự tuyển chọn",
+      "exampleSentences": []
+    },
+    {
+      "word": "selfless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´selflis/",
+      "meaning": "không ích kỷ; vị tha, luôn nghĩ đến người",
+      "exampleSentences": []
+    },
+    {
+      "word": "senior",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", adj /ˈsiːniər/",
+      "exampleSentences": []
+    },
+    {
+      "word": "sensible",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'sensəbl/",
+      "meaning": "có óc xét đoán, biểu lộ óc xét đoán",
+      "exampleSentences": []
+    },
+    {
+      "word": "separate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'seprət/",
+      "meaning": "khác nhau, riêng biệt, độc lập",
+      "exampleSentences": []
+    },
+    {
+      "word": "serene",
+      "partOfSpeech": "adjective",
+      "phonetic": "/si'ri:n/",
+      "meaning": "trong, sáng sủa, quang tạnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "settled",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´setld/",
+      "meaning": "không thay đổi, không có khả năng thay",
+      "exampleSentences": []
+    },
+    {
+      "word": "severe",
+      "partOfSpeech": "adjective",
+      "phonetic": "/səˈvɪər/",
+      "meaning": "khắt khe, gay gắt",
+      "exampleSentences": []
+    },
+    {
+      "word": "sewer",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsuːər/",
+      "meaning": "người khâu, người may vá",
+      "exampleSentences": []
+    },
+    {
+      "word": "sheer",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /ʃiə/ không giới hạn, không kiểm soát; thẳng",
+      "exampleSentences": []
+    },
+    {
+      "word": "shield",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʃi:ld/",
+      "meaning": "cái mộc, cái khiên; che chở, bảo vệ",
+      "exampleSentences": []
+    },
+    {
+      "word": "shiny",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'∫aini/",
+      "meaning": "sáng chói, bóng",
+      "exampleSentences": []
+    },
+    {
+      "word": "shiver",
+      "partOfSpeech": "noun",
+      "phonetic": "/´ʃivə/",
+      "meaning": "(sự) run, sự rùng mình",
+      "exampleSentences": []
+    },
+    {
+      "word": "shocking",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´ʃɔkiη/",
+      "meaning": "gây ra căm phẫn, làm ghê tởm",
+      "exampleSentences": []
+    },
+    {
+      "word": "shout",
+      "partOfSpeech": "verb",
+      "phonetic": "/ʃaʊt/",
+      "meaning": "sự la hét, sự hò hét; tiếng gọi, tiếng kêu",
+      "exampleSentences": []
+    },
+    {
+      "word": "shove",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ʃʌv/ xô đẩy thô bạo",
+      "exampleSentences": []
+    },
+    {
+      "word": "showy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´ʃoui/",
+      "meaning": "loè loẹt, phô trương",
+      "exampleSentences": []
+    },
+    {
+      "word": "shrewd",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʃruːd/",
+      "meaning": "khôn ngoan, sắc sảo",
+      "exampleSentences": []
+    },
+    {
+      "word": "shrine",
+      "partOfSpeech": "noun",
+      "phonetic": "/∫rain/",
+      "meaning": "mồ, hòm đựng thánh cốt",
+      "exampleSentences": []
+    },
+    {
+      "word": "sightseeing",
+      "partOfSpeech": "noun",
+      "phonetic": "/'saɪtsi:ɪŋ/",
+      "meaning": "sự tham quan",
+      "exampleSentences": []
+    },
+    {
+      "word": "significant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/sɪgˈnɪfɪkənt/",
+      "meaning": "đầy ý nghĩa, có tính chất gợi ý",
+      "exampleSentences": []
+    },
+    {
+      "word": "silly",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsɪli/",
+      "meaning": "ngờ nghệch, ngớ ngẩn",
+      "exampleSentences": []
+    },
+    {
+      "word": "simplify",
+      "partOfSpeech": "verb",
+      "phonetic": "/'simplifai/",
+      "meaning": "làm đơn giản, đơn giản hoá",
+      "exampleSentences": []
+    },
+    {
+      "word": "simultaneously",
+      "partOfSpeech": "adverb",
+      "phonetic": "/¸siməl´teiniəsli/",
+      "meaning": "đồng thời, xảy ra cùng một lúc",
+      "exampleSentences": []
+    },
+    {
+      "word": "sincere",
+      "partOfSpeech": "adjective",
+      "phonetic": "/sin´siə/",
+      "meaning": "thành thật, ngay thật, chân thật; thật; không",
+      "exampleSentences": []
+    },
+    {
+      "word": "skeptical",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´skeptikl/",
+      "meaning": "hoài nghi, đa nghi, hay ngờ vực",
+      "exampleSentences": []
+    },
+    {
+      "word": "skillful",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´skilful/",
+      "meaning": "khéo tay; tài giỏi",
+      "exampleSentences": []
+    },
+    {
+      "word": "skinny",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'skini/",
+      "meaning": "gầy nhom, gầy trơ xương, rất gầy",
+      "exampleSentences": []
+    },
+    {
+      "word": "sleeplessness",
+      "partOfSpeech": "noun",
+      "phonetic": "/´sli:plisnis/",
+      "meaning": "sự khó ngủ, sự không ngủ được",
+      "exampleSentences": []
+    },
+    {
+      "word": "slender",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´slendə/",
+      "meaning": "mảnh khảnh, mảnh dẻ, mảnh mai",
+      "exampleSentences": []
+    },
+    {
+      "word": "slick",
+      "partOfSpeech": "adjective",
+      "phonetic": "/slik/",
+      "meaning": "bóng, mượt; trơn, tài tình, khéo léo; nhanh",
+      "exampleSentences": []
+    },
+    {
+      "word": "sluggish",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´slʌgiʃ/",
+      "meaning": "chậm chạp, không nhanh nhẹn, không hoạt",
+      "exampleSentences": []
+    },
+    {
+      "word": "snub",
+      "partOfSpeech": "adjective",
+      "phonetic": "/snʌb/",
+      "meaning": "hếch; ngắn và hơi vểnh lên ở chót",
+      "exampleSentences": []
+    },
+    {
+      "word": "sociable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsəʊʃəbl/",
+      "meaning": "dễ gần gũi, dễ chan hoà, hoà đồng",
+      "exampleSentences": []
+    },
+    {
+      "word": "soil",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /sɔɪl/ đất trồng, vết bẩn, vết nhơ; làm bẩn, làm",
+      "exampleSentences": []
+    },
+    {
+      "word": "solemn",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈsɒləm/",
+      "meaning": "trọng thể; chính thức",
+      "exampleSentences": []
+    },
+    {
+      "word": "sorrow",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈsɒroʊ , ˈsɔroʊ/ sự đau khổ, sự buồn phiền; cảm thấy buồn",
+      "exampleSentences": []
+    },
+    {
+      "word": "souvenir",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": "/ˌsuvəˈnɪər/",
+      "exampleSentences": []
+    },
+    {
+      "word": "sparkle",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ˈspɑrkəl/ (sự) toé lửa, nhấp nháy, lấp lánh",
+      "exampleSentences": []
+    },
+    {
+      "word": "sparse",
+      "partOfSpeech": "adjective",
+      "phonetic": "/spa:s/",
+      "meaning": "thưa thớt, rải rác, lơ thơ; rải mỏng ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "specific",
+      "partOfSpeech": "adjective",
+      "phonetic": "/spĭ-sĭf'ĭk/",
+      "meaning": "rành mạch, rõ ràng; cụ thể, đặc trưng, riêng",
+      "exampleSentences": []
+    },
+    {
+      "word": "spill",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /spil/ (sự) tràn ra, chảy ra, đổ ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "split",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": ", adj /split/ nứt, nẻ, chia ra, tách ra",
+      "exampleSentences": []
+    },
+    {
+      "word": "spotless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´spɔtlis/",
+      "meaning": "không có đốm, không một vết nhơ; sạch",
+      "exampleSentences": []
+    },
+    {
+      "word": "sprint",
+      "partOfSpeech": "noun",
+      "phonetic": "/sprint/",
+      "meaning": "sự chạy nhanh, sự chạy nước rút; cách",
+      "exampleSentences": []
+    },
+    {
+      "word": "stable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/steibl/",
+      "meaning": "vững chắc; ổn định; kiên định, kiên quyết",
+      "exampleSentences": []
+    },
+    {
+      "word": "state",
+      "partOfSpeech": "noun",
+      "phonetic": "/steɪt/",
+      "meaning": "trạng thái, tình trạng",
+      "exampleSentences": []
+    },
+    {
+      "word": "steady",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /'stedi/ vững, vững chắc, vững vàng; làm cho",
+      "exampleSentences": []
+    },
+    {
+      "word": "stern",
+      "partOfSpeech": "adjective",
+      "phonetic": "/stɜ:n/",
+      "meaning": "nghiêm nghị, nghiêm khắc; lạnh lùng",
+      "exampleSentences": []
+    },
+    {
+      "word": "stiff",
+      "partOfSpeech": "adjective",
+      "phonetic": "/stɪf/",
+      "meaning": "cứng",
+      "exampleSentences": []
+    },
+    {
+      "word": "stigma",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈstɪɡmə/",
+      "meaning": "vết nhơ, điều sỉ nhục",
+      "exampleSentences": []
+    },
+    {
+      "word": "stock",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v, adj /stɔk/ kho dự trữ, hàng cất trong kho; cung cấp;",
+      "exampleSentences": []
+    },
+    {
+      "word": "stoic",
+      "partOfSpeech": "noun",
+      "phonetic": "/´stouik/",
+      "meaning": "người khắc kỷ, người chịu đựng trong",
+      "exampleSentences": []
+    },
+    {
+      "word": "stout",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", n /staut/ chắc, khoẻ, bền; người chắc mập, người",
+      "exampleSentences": []
+    },
+    {
+      "word": "strait",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", n /streit/ hẹp, chặt chẽ; tình cảnh khó khăn",
+      "exampleSentences": []
+    },
+    {
+      "word": "strangle",
+      "partOfSpeech": "verb",
+      "phonetic": "/'stræɳgl/",
+      "meaning": "siết cổ chết; bóp nghẹt",
+      "exampleSentences": []
+    },
+    {
+      "word": "strenuous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´strenjuəs/",
+      "meaning": "hăm hở, tích cực; hăng hái; rất cố gắng",
+      "exampleSentences": []
+    },
+    {
+      "word": "strike",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /straɪk/ cuộc đình công, bãi công; đánh, đập, tấn",
+      "exampleSentences": []
+    },
+    {
+      "word": "stringent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'strin-juh/",
+      "meaning": "nghiêm ngặt, nghiêm khắc, chặt chẽ (về",
+      "exampleSentences": []
+    },
+    {
+      "word": "struggle",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /'strʌg(ə)l/ sự đấu tranh, cuộc đấu tranh, cuộc chiến",
+      "exampleSentences": []
+    },
+    {
+      "word": "study",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /'stʌdi/",
+      "exampleSentences": []
+    },
+    {
+      "word": "stunned",
+      "partOfSpeech": "verb",
+      "phonetic": "/stʌn/",
+      "meaning": "làm choáng váng, đánh bất tỉnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "subtle",
+      "partOfSpeech": "adjective",
+      "phonetic": "/sʌtl/",
+      "meaning": "phảng phất, huyền ảo, tinh vi, tinh tế",
+      "exampleSentences": []
+    },
+    {
+      "word": "subtract",
+      "partOfSpeech": "verb",
+      "phonetic": "/səb´trækt/",
+      "meaning": "trừ",
+      "exampleSentences": []
+    },
+    {
+      "word": "success",
+      "partOfSpeech": "noun",
+      "phonetic": "/sək'ses/",
+      "meaning": "sự thành công, sự thắng lợi, sự thành đạt",
+      "exampleSentences": []
+    },
+    {
+      "word": "suggest",
+      "partOfSpeech": "verb",
+      "phonetic": "/sə'dʤest/",
+      "meaning": "đề nghị; đề xuất; gợi ý",
+      "exampleSentences": []
+    },
+    {
+      "word": "supervise",
+      "partOfSpeech": "verb",
+      "phonetic": "/'su:pəvaiz/",
+      "meaning": "giám sát; quản lý; kiểm soát",
+      "exampleSentences": []
+    },
+    {
+      "word": "support",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /səˈpɔːrt/ sự ủng hộ, người ủng hộ; hỗ trợ",
+      "exampleSentences": []
+    },
+    {
+      "word": "surge",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /sə:dʒ/ sự tràn; tràn (như) sóng",
+      "exampleSentences": []
+    },
+    {
+      "word": "surplus",
+      "partOfSpeech": "noun",
+      "phonetic": "/'sə:pləs/",
+      "meaning": "số dư, số thừa; số thặng dư",
+      "exampleSentences": []
+    },
+    {
+      "word": "surprising",
+      "partOfSpeech": "adjective",
+      "phonetic": "/sə(r)´praiziη/",
+      "meaning": "làm ngạc nhiên, làm kinh ngạc; đáng sửng",
+      "exampleSentences": []
+    },
+    {
+      "word": "sustain",
+      "partOfSpeech": "verb",
+      "phonetic": "/səˈsteɪn/",
+      "meaning": "đỡ; chống đỡ; giữ vững được (trong thời",
+      "exampleSentences": []
+    },
+    {
+      "word": "swift",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /swift/ mau, nhanh, lẹ",
+      "exampleSentences": []
+    },
+    {
+      "word": "symbolize",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈsɪmbəlaɪz/",
+      "meaning": "tượng trưng, biểu tượng hóa",
+      "exampleSentences": []
+    },
+    {
+      "word": "talkative",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtɔkətɪv/",
+      "meaning": "thích nói, hay nói; lắm mồm; ba hoa; bép",
+      "exampleSentences": []
+    },
+    {
+      "word": "tall",
+      "partOfSpeech": "adjective",
+      "phonetic": "/tɔ:l/",
+      "meaning": "cao; cao hơn trung bình; cao hơn xung",
+      "exampleSentences": []
+    },
+    {
+      "word": "tame",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /teim/ thuần, đã thuần hoá (thú rừng..); dạy cho",
+      "exampleSentences": []
+    },
+    {
+      "word": "tandem",
+      "partOfSpeech": "noun",
+      "phonetic": "/'tændəm/",
+      "meaning": "xe hai ngựa thắng con trước con sau",
+      "exampleSentences": []
+    },
+    {
+      "word": "tangible",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'tændʒəbl/",
+      "meaning": "hữu hình, có thể sờ mó được",
+      "exampleSentences": []
+    },
+    {
+      "word": "taut",
+      "partOfSpeech": "adjective",
+      "phonetic": "/tɔːt/",
+      "meaning": "căng, không bị chùng",
+      "exampleSentences": []
+    },
+    {
+      "word": "tavern",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtævərn/",
+      "meaning": "quán rượu, quán trọ",
+      "exampleSentences": []
+    },
+    {
+      "word": "temper",
+      "partOfSpeech": "noun",
+      "phonetic": "/'tempə(r)/",
+      "meaning": "tính tình, tình khí, tâm tính",
+      "exampleSentences": []
+    },
+    {
+      "word": "temporary",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtɛmpəˌrɛri/",
+      "meaning": "tạm thời, nhất thời, lâm thời",
+      "exampleSentences": []
+    },
+    {
+      "word": "tender",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'tendə(r)/",
+      "meaning": "mềm, dễ nhai, không dai (thịt)",
+      "exampleSentences": []
+    },
+    {
+      "word": "tenet",
+      "partOfSpeech": "noun",
+      "phonetic": "/'tenit/",
+      "meaning": "nguyên lý; giáo lý; chủ nghĩa",
+      "exampleSentences": []
+    },
+    {
+      "word": "tense",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /tens/ căng, căng thẳng, bồn chồn; làm cho căng",
+      "exampleSentences": []
+    },
+    {
+      "word": "terrible",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈterəbl/",
+      "meaning": "khủng khiếp, gây khiếp sợ",
+      "exampleSentences": []
+    },
+    {
+      "word": "thoughtless",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´θɔ:tlis/",
+      "meaning": "không suy nghĩ, vô tư lự",
+      "exampleSentences": []
+    },
+    {
+      "word": "thrifty",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´θrifti/",
+      "meaning": "tiết kiệm, tằn tiện",
+      "exampleSentences": []
+    },
+    {
+      "word": "thrive",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "meaning": "thrive thịnh vượng, làm cho thịnh vượng",
+      "exampleSentences": []
+    },
+    {
+      "word": "thumping",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", adv /ˈθʌmpɪŋ/ to lớn, khổng lồ; hết mức, cực kỳ",
+      "exampleSentences": []
+    },
+    {
+      "word": "tight",
+      "partOfSpeech": "adjective",
+      "phonetic": "/taɪt/",
+      "meaning": "chặt, bó khít",
+      "exampleSentences": []
+    },
+    {
+      "word": "timely",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´taimli/",
+      "meaning": "xảy ra đúng lúc, hợp thời",
+      "exampleSentences": []
+    },
+    {
+      "word": "timid",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'timid/",
+      "meaning": "rụt rè, nhút nhát, bẽn lẽn, dễ sợ hãi",
+      "exampleSentences": []
+    },
+    {
+      "word": "tip",
+      "partOfSpeech": "noun",
+      "phonetic": "/tip/",
+      "meaning": "đầu, mút, đỉnh, chóp",
+      "exampleSentences": []
+    },
+    {
+      "word": "toilet",
+      "partOfSpeech": "noun",
+      "phonetic": "/´tɔilit/",
+      "meaning": "nhà vệ sinh; bệ xí; phòng có nhà vệ sinh",
+      "exampleSentences": []
+    },
+    {
+      "word": "traffic",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtræfɪk/",
+      "meaning": "sự đi lại, giao thông, vận tải",
+      "exampleSentences": []
+    },
+    {
+      "word": "tragic",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtrædʒɪk/",
+      "meaning": "bi kịch, như bi kịch, theo kiểu bi kịch",
+      "exampleSentences": []
+    },
+    {
+      "word": "tranquil",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´træηkwil/",
+      "meaning": "yên tĩnh, yên bình, lặng lẽ, không bị quấy",
+      "exampleSentences": []
+    },
+    {
+      "word": "tranquility",
+      "partOfSpeech": "verb",
+      "phonetic": "/træns'fɔ:m/",
+      "meaning": "thay đổi, biến đổi (hình dáng, trạng thái,",
+      "exampleSentences": []
+    },
+    {
+      "word": "transform",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´trænzitəri/",
+      "meaning": "ngắn ngủi; phù du; bóng chớp",
+      "exampleSentences": []
+    },
+    {
+      "word": "transitory",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´trænzitəri/",
+      "meaning": "ngắn ngủi, phù du, bóng chớp",
+      "exampleSentences": []
+    },
+    {
+      "word": "tremble",
+      "partOfSpeech": "noun",
+      "phonetic": "/'trembl/",
+      "meaning": "sự run; cảm giác run, động tác run",
+      "exampleSentences": []
+    },
+    {
+      "word": "triumph",
+      "partOfSpeech": "adjective",
+      "phonetic": "",
+      "meaning": ", v /ˈtraɪəmf , ˈtraɪʌmf/ sự chiến thắng, thành công lớn; chiến",
+      "exampleSentences": []
+    },
+    {
+      "word": "trivial",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtrɪviəl/",
+      "meaning": "tầm thường, không đáng kể, ít quan trọng",
+      "exampleSentences": []
+    },
+    {
+      "word": "trustworthy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈtrʌstwɜːrði/",
+      "meaning": "đáng tin cậy",
+      "exampleSentences": []
+    },
+    {
+      "word": "ultrasound",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʌltrəsaʊnd/",
+      "meaning": "siêu âm, sóng siêu âm",
+      "exampleSentences": []
+    },
+    {
+      "word": "umbrella",
+      "partOfSpeech": "noun",
+      "phonetic": "/ʌmˈbrelə/",
+      "meaning": "ô, dù",
+      "exampleSentences": []
+    },
+    {
+      "word": "unchanging",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌnˈtʃeɪndʒɪŋ/",
+      "meaning": "không thay đổi, không đổi",
+      "exampleSentences": []
+    },
+    {
+      "word": "unconquerable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌη´kɔηkərəbl/",
+      "meaning": "không thể chinh phục được, không thể chế",
+      "exampleSentences": []
+    },
+    {
+      "word": "uncooked",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌη´kukt/",
+      "meaning": "chưa nấu chín, còn sống",
+      "exampleSentences": []
+    },
+    {
+      "word": "unfortunate",
+      "partOfSpeech": "adjective",
+      "phonetic": "/Λnfo:'t∫əneit/",
+      "meaning": "không may, rủi ro, bất hạnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "unimportant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˌʌnɪmˈpɔːrtnt/",
+      "meaning": "không quan trọng, không đáng kể",
+      "exampleSentences": []
+    },
+    {
+      "word": "unintelligent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/¸ʌnin´telidʒənt/",
+      "meaning": "không thông minh, tối dạ",
+      "exampleSentences": []
+    },
+    {
+      "word": "unkind",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌn´kaind/",
+      "meaning": "không tốt; độc ác, tàn nhẫn",
+      "exampleSentences": []
+    },
+    {
+      "word": "unlucky",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌn´lʌki/",
+      "meaning": "không gặp may, không may mắn, đem lại",
+      "exampleSentences": []
+    },
+    {
+      "word": "unoccupied",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌn´ɔkju¸paid/",
+      "meaning": "nhàn rỗi, rảnh rỗi, không bận (thời gian)",
+      "exampleSentences": []
+    },
+    {
+      "word": "unpretentious",
+      "partOfSpeech": "adjective",
+      "phonetic": "/¸ʌnpri´tenʃəs/",
+      "meaning": "không khoe khoang, không phô trương,",
+      "exampleSentences": []
+    },
+    {
+      "word": "unrelated",
+      "partOfSpeech": "adjective",
+      "phonetic": "/¸ʌnri´leitid/",
+      "meaning": "không kể lại, không thuật lại, không có",
+      "exampleSentences": []
+    },
+    {
+      "word": "unstoppable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌn´stɔpəbl/",
+      "meaning": "quyết tâm",
+      "exampleSentences": []
+    },
+    {
+      "word": "unusual",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌn´ju:ʒuəl/",
+      "meaning": "hiếm, không thông thường, lạ, khác thường",
+      "exampleSentences": []
+    },
+    {
+      "word": "unwilling",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌn´wiliη/",
+      "meaning": "không muốn, không có ý định, không sẵn",
+      "exampleSentences": []
+    },
+    {
+      "word": "update",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˌʌpˈdeɪt/",
+      "meaning": "cập nhật, hiện đại hóa; sự cập nhật",
+      "exampleSentences": []
+    },
+    {
+      "word": "upstanding",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ʌp´stændiη/",
+      "meaning": "dựng ngược, dựng đứng lên",
+      "exampleSentences": []
+    },
+    {
+      "word": "urge",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /ɜːrdʒ/ sự thúc đẩy, thôi thúc; thúc giục",
+      "exampleSentences": []
+    },
+    {
+      "word": "urgent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈɜrdʒənt/",
+      "meaning": "gấp, khẩn cấp, cấp bách",
+      "exampleSentences": []
+    },
+    {
+      "word": "utilize",
+      "partOfSpeech": "verb",
+      "phonetic": "/'ju:təlaɪz/",
+      "meaning": "dùng, sử dụng; tận dụng",
+      "exampleSentences": []
+    },
+    {
+      "word": "vacant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'veikənt/",
+      "meaning": "trống, rỗng",
+      "exampleSentences": []
+    },
+    {
+      "word": "vague",
+      "partOfSpeech": "adjective",
+      "phonetic": "/veig/",
+      "meaning": "mơ hồ, lờ mờ, mập mờ, không rõ ràng",
+      "exampleSentences": []
+    },
+    {
+      "word": "valiant",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'væljənt/",
+      "meaning": "anh dũng, anh hùng",
+      "exampleSentences": []
+    },
+    {
+      "word": "valour",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈvælər/",
+      "meaning": "sự dũng cảm (nhất là trong chiến tranh)",
+      "exampleSentences": []
+    },
+    {
+      "word": "vanquish",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈvæŋkwɪʃ/",
+      "meaning": "thắng, đánh bại",
+      "exampleSentences": []
+    },
+    {
+      "word": "variety",
+      "partOfSpeech": "noun",
+      "phonetic": "/vəˈraɪəti/",
+      "meaning": "sự đa dạng, nhiều thứ, đủ loại, những thứ",
+      "exampleSentences": []
+    },
+    {
+      "word": "vary",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈværi/",
+      "meaning": "biến đổi, thay đổi, khác nhau",
+      "exampleSentences": []
+    },
+    {
+      "word": "vast",
+      "partOfSpeech": "adjective",
+      "phonetic": "/væst/",
+      "meaning": "rộng lớn, mênh mông, bao la",
+      "exampleSentences": []
+    },
+    {
+      "word": "vendor",
+      "partOfSpeech": "noun",
+      "phonetic": "/'vendə(r)/",
+      "meaning": "người bán dạo (bán thực phẩm hoặc các",
+      "exampleSentences": []
+    },
+    {
+      "word": "verdict",
+      "partOfSpeech": "noun",
+      "phonetic": "/´və:dikt/",
+      "meaning": "lời tuyên án, lời phán quyết",
+      "exampleSentences": []
+    },
+    {
+      "word": "versatile",
+      "partOfSpeech": "adjective",
+      "phonetic": "/vɜ:sətaɪl/",
+      "meaning": "nhiều mặt, nhiều phương diện, toàn diện",
+      "exampleSentences": []
+    },
+    {
+      "word": "viable",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈvaɪəbl/",
+      "meaning": "có thể làm được, khả thi",
+      "exampleSentences": []
+    },
+    {
+      "word": "victory",
+      "partOfSpeech": "noun",
+      "phonetic": "/'viktəri/",
+      "meaning": "sự chiến thắng, sự thắng lợi",
+      "exampleSentences": []
+    },
+    {
+      "word": "vigorous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'vigərəs/",
+      "meaning": "sôi nổi, mãnh liệt, mạnh mẽ, hoạt bát, đầy",
+      "exampleSentences": []
+    },
+    {
+      "word": "vile",
+      "partOfSpeech": "adjective",
+      "phonetic": "/vaɪl/",
+      "meaning": "ghê tởm",
+      "exampleSentences": []
+    },
+    {
+      "word": "violent",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈvaɪələnt/",
+      "meaning": "mãnh liệt, hung tợn",
+      "exampleSentences": []
+    },
+    {
+      "word": "virtuous",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈvɜrtʃuəs/",
+      "meaning": "có đạo đức tốt, cho thấy có đạo đức tốt",
+      "exampleSentences": []
+    },
+    {
+      "word": "voluntary",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈvɒlənˌtɛri/",
+      "meaning": "tự ý, tự nguyện, tự giác, tình nguyện",
+      "exampleSentences": []
+    },
+    {
+      "word": "vulgar",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´vʌlgə/",
+      "meaning": "thiếu thẩm mỹ, khiếm nhã, tục tĩu",
+      "exampleSentences": []
+    },
+    {
+      "word": "waiver",
+      "partOfSpeech": "noun",
+      "phonetic": "/'weivə/",
+      "meaning": "sự bỏ, sự từ bỏ, sự khước từ; giấy từ bỏ,",
+      "exampleSentences": []
+    },
+    {
+      "word": "wardrobe",
+      "partOfSpeech": "noun",
+      "phonetic": "/'wɔ:droub/",
+      "meaning": "tủ quần áo",
+      "exampleSentences": []
+    },
+    {
+      "word": "warlike",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈwɔːrlaɪk/",
+      "meaning": "(thuộc) chiến tranh, thích gây sự, hiếu",
+      "exampleSentences": []
+    },
+    {
+      "word": "wealthy",
+      "partOfSpeech": "adjective",
+      "phonetic": "/ˈwɛlθi/",
+      "meaning": "giàu, giàu có",
+      "exampleSentences": []
+    },
+    {
+      "word": "weird",
+      "partOfSpeech": "adjective",
+      "phonetic": "/'wiəd/",
+      "meaning": "không bình thường, khác thường, kỳ lạ,",
+      "exampleSentences": []
+    },
+    {
+      "word": "wide",
+      "partOfSpeech": "adjective",
+      "phonetic": "/waid/",
+      "meaning": "rộng, rộng lớn",
+      "exampleSentences": []
+    },
+    {
+      "word": "willingly",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈwɪlɪŋli/",
+      "meaning": "sẵn lòng, vui lòng",
+      "exampleSentences": []
+    },
+    {
+      "word": "win",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /win/ sự thắng cuộc; thắng cuộc, thắng trận",
+      "exampleSentences": []
+    },
+    {
+      "word": "wisecrack",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /´waiz¸kræk/ lời nói lém lỉnh; nói lém lỉnh",
+      "exampleSentences": []
+    },
+    {
+      "word": "withdraw",
+      "partOfSpeech": "verb",
+      "phonetic": "/wɪðˈdrɔ , wɪθˈdrɔ/",
+      "meaning": "rút, rút lui",
+      "exampleSentences": []
+    },
+    {
+      "word": "withstand",
+      "partOfSpeech": "verb",
+      "phonetic": "/wið´stænd/",
+      "meaning": "giữ vững, trụ lại, cưỡng lại, chịu đựng,",
+      "exampleSentences": []
+    },
+    {
+      "word": "woe",
+      "partOfSpeech": "noun",
+      "phonetic": "/wəʊ/",
+      "meaning": "sự đau buồn, nỗi phiền muộn",
+      "exampleSentences": []
+    },
+    {
+      "word": "worn",
+      "partOfSpeech": "adjective",
+      "phonetic": "/´wɔ:n/",
+      "meaning": "mòn, hỏng (vì sử dụng quá nhiều)",
+      "exampleSentences": []
+    },
+    {
+      "word": "yell",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "meaning": ", v /jel/ sự kêu la, tiếng la hét; kêu la, la hét",
+      "exampleSentences": []
+    },
+    {
+      "word": "yield",
+      "partOfSpeech": "noun",
+      "phonetic": "/ji:ld/",
+      "meaning": "sản lượng, hoa lợi (thửa ruộng); hiệu suất",
+      "exampleSentences": []
+    }
+  ]
+}

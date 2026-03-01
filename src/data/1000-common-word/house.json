@@ -1,0 +1,615 @@
+{
+  "topic": "Nhà cửa",
+  "vocabs": [
+    {
+      "word": "living room",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlɪvɪŋ ruːm/",
+      "meaning": "phòng khách",
+      "exampleSentences": [
+        "We watch TV in the living room.",
+        "The living room is very spacious."
+      ]
+    },
+    {
+      "word": "dining room",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdaɪnɪŋ ruːm/",
+      "meaning": "phòng ăn",
+      "exampleSentences": [
+        "Dinner is ready in the dining room.",
+        "The dining room has a big table."
+      ]
+    },
+    {
+      "word": "kitchen",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɪtʃ.ən/",
+      "meaning": "nhà bếp",
+      "exampleSentences": [
+        "My mother is cooking in the kitchen.",
+        "The kitchen smells good."
+      ]
+    },
+    {
+      "word": "bedroom",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbed.ruːm/",
+      "meaning": "phòng ngủ",
+      "exampleSentences": [
+        "She is sleeping in her bedroom.",
+        "My bedroom is small but cozy."
+      ]
+    },
+    {
+      "word": "bathroom",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbæθ.ruːm/",
+      "meaning": "phòng tắm",
+      "exampleSentences": [
+        "He is in the bathroom.",
+        "The bathroom is clean."
+      ]
+    },
+    {
+      "word": "garage",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɡəˈrɑːʒ/",
+      "meaning": "ga ra, nhà để xe",
+      "exampleSentences": [
+        "The car is in the garage.",
+        "Our garage is behind the house."
+      ]
+    },
+    {
+      "word": "attic",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈæt̬.ɪk/",
+      "meaning": "tum, gác xép",
+      "exampleSentences": [
+        "Old boxes are stored in the attic.",
+        "The attic is dusty."
+      ]
+    },
+    {
+      "word": "basement",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbeɪs.mənt/",
+      "meaning": "tầng hầm",
+      "exampleSentences": [
+        "They keep tools in the basement.",
+        "The basement is dark."
+      ]
+    },
+    {
+      "word": "roof",
+      "partOfSpeech": "noun",
+      "phonetic": "/ruːf/",
+      "meaning": "mái nhà",
+      "exampleSentences": [
+        "The roof needs repair.",
+        "Snow covered the roof."
+      ]
+    },
+    {
+      "word": "entrance",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈen.trəns/",
+      "meaning": "lối vào, cổng vào",
+      "exampleSentences": [
+        "The entrance is on the left.",
+        "Meet me at the main entrance."
+      ]
+    },
+    {
+      "word": "patio",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpæt̬.i.oʊ/",
+      "meaning": "hiên, sân hè",
+      "exampleSentences": [
+        "We had lunch on the patio.",
+        "The patio has many plants."
+      ]
+    },
+    {
+      "word": "balcony",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbæl.kə.ni/",
+      "meaning": "ban công",
+      "exampleSentences": [
+        "She stood on the balcony.",
+        "The balcony overlooks the park."
+      ]
+    },
+    {
+      "word": "floor",
+      "partOfSpeech": "noun",
+      "phonetic": "/flɔːr/",
+      "meaning": "sàn nhà",
+      "exampleSentences": [
+        "The floor is clean.",
+        "He dropped the book on the floor."
+      ]
+    },
+    {
+      "word": "wall",
+      "partOfSpeech": "noun",
+      "phonetic": "/wɔːl/",
+      "meaning": "tường",
+      "exampleSentences": [
+        "There is a picture on the wall.",
+        "The wall is painted white."
+      ]
+    },
+    {
+      "word": "ceiling",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsiːlɪŋ/",
+      "meaning": "trần nhà",
+      "exampleSentences": [
+        "The ceiling is high.",
+        "A lamp hangs from the ceiling."
+      ]
+    },
+    {
+      "word": "door",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɔːr/",
+      "meaning": "cửa ra vào",
+      "exampleSentences": [
+        "Close the door, please.",
+        "Someone knocked on the door."
+      ]
+    },
+    {
+      "word": "window",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɪn.doʊ/",
+      "meaning": "cửa sổ",
+      "exampleSentences": [
+        "Open the window.",
+        "The window is broken."
+      ]
+    },
+    {
+      "word": "curtain",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɜːrtn/",
+      "meaning": "rèm cửa",
+      "exampleSentences": [
+        "Draw the curtain.",
+        "The curtain is blue."
+      ]
+    },
+    {
+      "word": "armchair",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɑːrm.tʃer/",
+      "meaning": "ghế bành",
+      "exampleSentences": [
+        "Grandpa sits in the armchair.",
+        "The armchair is very comfortable."
+      ]
+    },
+    {
+      "word": "couch",
+      "partOfSpeech": "noun",
+      "phonetic": "/kaʊtʃ/",
+      "meaning": "ghế dài, đi văng",
+      "exampleSentences": [
+        "She is lying on the couch.",
+        "The couch is soft."
+      ]
+    },
+    {
+      "word": "table",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈteɪbl/",
+      "meaning": "cái bàn",
+      "exampleSentences": [
+        "Dinner is on the table.",
+        "The table is made of wood."
+      ]
+    },
+    {
+      "word": "lamp",
+      "partOfSpeech": "noun",
+      "phonetic": "/læmp/",
+      "meaning": "cái đèn",
+      "exampleSentences": [
+        "Turn on the lamp.",
+        "The lamp is beside the bed."
+      ]
+    },
+    {
+      "word": "fan",
+      "partOfSpeech": "noun",
+      "phonetic": "/fæn/",
+      "meaning": "cái quạt",
+      "exampleSentences": [
+        "The fan keeps the room cool.",
+        "Turn off the fan."
+      ]
+    },
+    {
+      "word": "air conditioner",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈer kəndɪʃənər/",
+      "meaning": "điều hòa nhiệt độ",
+      "exampleSentences": [
+        "The air conditioner is running.",
+        "Turn on the air conditioner."
+      ]
+    },
+    {
+      "word": "television",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtelɪvɪʒn/",
+      "meaning": "ti vi",
+      "exampleSentences": [
+        "They are watching television.",
+        "The television is new."
+      ]
+    },
+    {
+      "word": "bookshelf",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbʊkʃelf/",
+      "meaning": "kệ sách",
+      "exampleSentences": [
+        "The books are on the bookshelf.",
+        "She bought a new bookshelf."
+      ]
+    },
+    {
+      "word": "rug",
+      "partOfSpeech": "noun",
+      "phonetic": "/rʌɡ/",
+      "meaning": "thảm trải sàn",
+      "exampleSentences": [
+        "There is a rug on the floor.",
+        "The rug is colorful."
+      ]
+    },
+    {
+      "word": "cupboard",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkʌbərd/",
+      "meaning": "tủ bát",
+      "exampleSentences": [
+        "The plates are in the cupboard.",
+        "Open the cupboard."
+      ]
+    },
+    {
+      "word": "refrigerator",
+      "partOfSpeech": "noun",
+      "phonetic": "/rɪˈfrɪdʒəreɪtər/",
+      "meaning": "tủ lạnh",
+      "exampleSentences": [
+        "Milk is in the refrigerator.",
+        "The refrigerator is full."
+      ]
+    },
+    {
+      "word": "stove",
+      "partOfSpeech": "noun",
+      "phonetic": "/stoʊv/",
+      "meaning": "bếp lò",
+      "exampleSentences": [
+        "She cooks on the stove.",
+        "Turn off the stove."
+      ]
+    },
+    {
+      "word": "oven",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʌv.ən/",
+      "meaning": "lò nướng",
+      "exampleSentences": [
+        "The cake is in the oven.",
+        "Preheat the oven first."
+      ]
+    },
+    {
+      "word": "microwave",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmaɪkrəweɪv/",
+      "meaning": "lò vi sóng",
+      "exampleSentences": [
+        "Heat the food in the microwave.",
+        "The microwave is on the counter."
+      ]
+    },
+    {
+      "word": "cooker",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkʊkər/",
+      "meaning": "nồi cơm điện",
+      "exampleSentences": [
+        "Rice is in the cooker.",
+        "Turn on the cooker."
+      ]
+    },
+    {
+      "word": "blender",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈblendər/",
+      "meaning": "máy xay",
+      "exampleSentences": [
+        "She makes juice with a blender.",
+        "The blender is very powerful."
+      ]
+    },
+    {
+      "word": "kettle",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈket̬.əl/",
+      "meaning": "ấm đun nước",
+      "exampleSentences": [
+        "Boil water in the kettle.",
+        "The kettle is on the stove."
+      ]
+    },
+    {
+      "word": "tablecloth",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈteɪblklɔːθ/",
+      "meaning": "khăn trải bàn",
+      "exampleSentences": [
+        "She put a tablecloth on the table.",
+        "The tablecloth is white."
+      ]
+    },
+    {
+      "word": "bed",
+      "partOfSpeech": "noun",
+      "phonetic": "/bed/",
+      "meaning": "giường",
+      "exampleSentences": [
+        "He is lying on the bed.",
+        "The bed is comfortable."
+      ]
+    },
+    {
+      "word": "mattress",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmætrəs/",
+      "meaning": "đệm",
+      "exampleSentences": [
+        "The mattress is soft.",
+        "We need a new mattress."
+      ]
+    },
+    {
+      "word": "blanket",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈblæŋkɪt/",
+      "meaning": "chăn",
+      "exampleSentences": [
+        "She covered herself with a blanket.",
+        "The blanket is warm."
+      ]
+    },
+    {
+      "word": "pillow",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈpɪl.oʊ/",
+      "meaning": "gối",
+      "exampleSentences": [
+        "Put your head on the pillow.",
+        "The pillow is very soft."
+      ]
+    },
+    {
+      "word": "wardrobe",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɔːr.droʊb/",
+      "meaning": "tủ quần áo",
+      "exampleSentences": [
+        "Her clothes are in the wardrobe.",
+        "The wardrobe is made of wood."
+      ]
+    },
+    {
+      "word": "nightstand",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈnaɪtstænd/",
+      "meaning": "tủ đầu giường",
+      "exampleSentences": [
+        "The lamp is on the nightstand.",
+        "He put his phone on the nightstand."
+      ]
+    },
+    {
+      "word": "hairdryer",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈherdraɪər/",
+      "meaning": "máy sấy tóc",
+      "exampleSentences": [
+        "She uses a hairdryer after washing her hair.",
+        "The hairdryer is in the bathroom."
+      ]
+    },
+    {
+      "word": "photo frame",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfəʊtəʊ freɪm/",
+      "meaning": "khung ảnh",
+      "exampleSentences": [
+        "There is a family photo in the photo frame.",
+        "The photo frame is on the desk."
+      ]
+    },
+    {
+      "word": "plant pot",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈplænt pɑːt/",
+      "meaning": "chậu cây",
+      "exampleSentences": [
+        "The plant pot is on the balcony.",
+        "She bought a new plant pot."
+      ]
+    },
+    {
+      "word": "vase",
+      "partOfSpeech": "noun",
+      "phonetic": "/veɪs/",
+      "meaning": "lọ hoa",
+      "exampleSentences": [
+        "The flowers are in the vase.",
+        "The vase is made of glass."
+      ]
+    },
+    {
+      "word": "dressing table",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdresɪŋ teɪbl/",
+      "meaning": "bàn trang điểm",
+      "exampleSentences": [
+        "She sits at the dressing table.",
+        "The dressing table has a mirror."
+      ]
+    },
+    {
+      "word": "sink",
+      "partOfSpeech": "noun",
+      "phonetic": "/sɪŋk/",
+      "meaning": "bồn rửa",
+      "exampleSentences": [
+        "Wash your hands in the sink.",
+        "The sink is clean."
+      ]
+    },
+    {
+      "word": "mirror",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmɪrər/",
+      "meaning": "gương",
+      "exampleSentences": [
+        "She looked in the mirror.",
+        "The mirror is on the wall."
+      ]
+    },
+    {
+      "word": "shower",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈʃaʊ.ɚ/",
+      "meaning": "vòi hoa sen",
+      "exampleSentences": [
+        "He takes a shower every morning.",
+        "The shower is hot."
+      ]
+    },
+    {
+      "word": "toilet",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtɔɪ.lət/",
+      "meaning": "bồn cầu",
+      "exampleSentences": [
+        "The toilet is in the bathroom.",
+        "Flush the toilet, please."
+      ]
+    },
+    {
+      "word": "bathtub",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbæθ.tʌb/",
+      "meaning": "bồn tắm",
+      "exampleSentences": [
+        "She is relaxing in the bathtub.",
+        "The bathtub is full of water."
+      ]
+    },
+    {
+      "word": "towel",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtaʊəl/",
+      "meaning": "khăn",
+      "exampleSentences": [
+        "Dry your hands with a towel.",
+        "The towel is hanging on the wall."
+      ]
+    },
+    {
+      "word": "broom",
+      "partOfSpeech": "noun",
+      "phonetic": "/bruːm/",
+      "meaning": "chổi quét",
+      "exampleSentences": [
+        "Sweep the floor with a broom.",
+        "The broom is in the corner."
+      ]
+    },
+    {
+      "word": "mop",
+      "partOfSpeech": "noun",
+      "phonetic": "/mɑːp/",
+      "meaning": "chổi lau nhà",
+      "exampleSentences": [
+        "She cleans the floor with a mop.",
+        "The mop is wet."
+      ]
+    },
+    {
+      "word": "dustpan",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʌst.pæn/",
+      "meaning": "xẻng hót rác",
+      "exampleSentences": [
+        "Use the dustpan to collect dirt.",
+        "The dustpan is next to the broom."
+      ]
+    },
+    {
+      "word": "bucket",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbʌk.ɪt/",
+      "meaning": "xô",
+      "exampleSentences": [
+        "Fill the bucket with water.",
+        "The bucket is heavy."
+      ]
+    },
+    {
+      "word": "trash can",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtræʃ ˌkæn/",
+      "meaning": "thùng rác",
+      "exampleSentences": [
+        "Throw it in the trash can.",
+        "The trash can is full."
+      ]
+    },
+    {
+      "word": "washing machine",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɑː.ʃɪŋ məˌʃiːn/",
+      "meaning": "máy giặt",
+      "exampleSentences": [
+        "The washing machine is running.",
+        "Put the clothes in the washing machine."
+      ]
+    },
+    {
+      "word": "laundry basket",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlɑːn.dri ˌbæs.kɪt/",
+      "meaning": "giỏ đựng quần áo",
+      "exampleSentences": [
+        "The laundry basket is full of clothes.",
+        "Carry the laundry basket upstairs."
+      ]
+    },
+    {
+      "word": "hanger",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhæŋər/",
+      "meaning": "móc treo quần áo",
+      "exampleSentences": [
+        "Hang your coat on a hanger.",
+        "The hanger is in the wardrobe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "topic": "Động tác",
+  "vocabs": [
+    {
+      "word": "walk",
+      "partOfSpeech": "verb",
+      "phonetic": "/wɑːk/",
+      "meaning": "đi bộ",
+      "exampleSentences": [
+        "I walk to school every day.",
+        "She likes to walk in the park."
+      ]
+    },
+    {
+      "word": "jog",
+      "partOfSpeech": "verb",
+      "phonetic": "/dʒɑːɡ/",
+      "meaning": "đi bộ nhanh (tập thể dục)",
+      "exampleSentences": [
+        "He jogs every morning.",
+        "Jogging is good for your health."
+      ]
+    },
+    {
+      "word": "run",
+      "partOfSpeech": "verb",
+      "phonetic": "/rʌn/",
+      "meaning": "chạy",
+      "exampleSentences": [
+        "I run three times a week.",
+        "She can run very fast."
+      ]
+    },
+    {
+      "word": "tiptoe",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈtɪp.toʊ/",
+      "meaning": "đi nhón chân",
+      "exampleSentences": [
+        "He tiptoed into the room.",
+        "She tiptoed so as not to wake the baby."
+      ]
+    },
+    {
+      "word": "jump",
+      "partOfSpeech": "verb",
+      "phonetic": "/dʒʌmp/",
+      "meaning": "nhảy",
+      "exampleSentences": [
+        "The children jump on the trampoline.",
+        "He can jump very high."
+      ]
+    },
+    {
+      "word": "leap",
+      "partOfSpeech": "verb",
+      "phonetic": "/liːp/",
+      "meaning": "nhảy vọt, nhảy xa",
+      "exampleSentences": [
+        "She leaped over the puddle.",
+        "He made a leap across the stream."
+      ]
+    },
+    {
+      "word": "stand",
+      "partOfSpeech": "verb",
+      "phonetic": "/stænd/",
+      "meaning": "đứng",
+      "exampleSentences": [
+        "Please stand for the national anthem.",
+        "He stood at the window and looked out."
+      ]
+    },
+    {
+      "word": "sit",
+      "partOfSpeech": "verb",
+      "phonetic": "/sɪt/",
+      "meaning": "ngồi",
+      "exampleSentences": [
+        "She sits on the chair.",
+        "Please sit down."
+      ]
+    },
+    {
+      "word": "lean",
+      "partOfSpeech": "verb",
+      "phonetic": "/liːn/",
+      "meaning": "dựa, tựa",
+      "exampleSentences": [
+        "He leaned against the wall.",
+        "She leaned on the railing."
+      ]
+    },
+    {
+      "word": "wave",
+      "partOfSpeech": "verb",
+      "phonetic": "/weɪv/",
+      "meaning": "vẫy tay",
+      "exampleSentences": [
+        "She waved goodbye.",
+        "He waved at his friend."
+      ]
+    },
+    {
+      "word": "clap",
+      "partOfSpeech": "verb",
+      "phonetic": "/klæp/",
+      "meaning": "vỗ tay",
+      "exampleSentences": [
+        "Everyone clapped for the performance.",
+        "Clap your hands if you agree."
+      ]
+    },
+    {
+      "word": "point",
+      "partOfSpeech": "verb",
+      "phonetic": "/pɔɪnt/",
+      "meaning": "chỉ, trỏ",
+      "exampleSentences": [
+        "She pointed to the map.",
+        "Please point out the mistake."
+      ]
+    },
+    {
+      "word": "catch",
+      "partOfSpeech": "verb",
+      "phonetic": "/kætʃ/",
+      "meaning": "bắt, đỡ",
+      "exampleSentences": [
+        "He caught the ball.",
+        "Can you catch the falling book?"
+      ]
+    },
+    {
+      "word": "stretch",
+      "partOfSpeech": "verb",
+      "phonetic": "/stretʃ/",
+      "meaning": "vươn (vai..), ưỡn lưng",
+      "exampleSentences": [
+        "I stretch every morning.",
+        "He stretched his arms."
+      ]
+    },
+    {
+      "word": "push",
+      "partOfSpeech": "verb",
+      "phonetic": "/pʊʃ/",
+      "meaning": "đẩy",
+      "exampleSentences": [
+        "Push the door to open it.",
+        "He pushed the chair aside."
+      ]
+    },
+    {
+      "word": "pull",
+      "partOfSpeech": "verb",
+      "phonetic": "/pʊl/",
+      "meaning": "kéo",
+      "exampleSentences": [
+        "Pull the rope gently.",
+        "He pulled the door open."
+      ]
+    },
+    {
+      "word": "crawl",
+      "partOfSpeech": "verb",
+      "phonetic": "/krɑːl/",
+      "meaning": "bò, trườn",
+      "exampleSentences": [
+        "The baby crawls on the floor.",
+        "He crawled under the table."
+      ]
+    },
+    {
+      "word": "bend",
+      "partOfSpeech": "verb",
+      "phonetic": "/bend/",
+      "meaning": "cúi, uốn cong",
+      "exampleSentences": [
+        "Bend your knees when lifting.",
+        "He bent down to pick up the coin."
+      ]
+    },
+    {
+      "word": "talk",
+      "partOfSpeech": "verb",
+      "phonetic": "/tɑːk/",
+      "meaning": "nói chuyện, trò chuyện",
+      "exampleSentences": [
+        "They talked for hours.",
+        "Please talk quietly."
+      ]
+    },
+    {
+      "word": "kiss",
+      "partOfSpeech": "verb",
+      "phonetic": "/kɪs/",
+      "meaning": "hôn",
+      "exampleSentences": [
+        "They kissed each other.",
+        "She kissed her baby goodnight."
+      ]
+    },
+    {
+      "word": "laugh",
+      "partOfSpeech": "verb",
+      "phonetic": "/læf/",
+      "meaning": "cười lớn",
+      "exampleSentences": [
+        "He laughed at the joke.",
+        "They laughed together."
+      ]
+    },
+    {
+      "word": "smile",
+      "partOfSpeech": "verb",
+      "phonetic": "/smaɪl/",
+      "meaning": "cười",
+      "exampleSentences": [
+        "She smiled at me.",
+        "I smiled because I was happy."
+      ]
+    },
+    {
+      "word": "frown",
+      "partOfSpeech": "verb",
+      "phonetic": "/fraʊn/",
+      "meaning": "nhíu mày",
+      "exampleSentences": [
+        "He frowned at the mistake.",
+        "Don't frown, it's not serious."
+      ]
+    },
+    {
+      "word": "cry",
+      "partOfSpeech": "verb",
+      "phonetic": "/kraɪ/",
+      "meaning": "khóc lóc",
+      "exampleSentences": [
+        "The baby is crying.",
+        "She cried after watching the movie."
+      ]
+    },
+    {
+      "word": "hit",
+      "partOfSpeech": "verb",
+      "phonetic": "/hɪt/",
+      "meaning": "đánh, va phải",
+      "exampleSentences": [
+        "He hit the ball.",
+        "She hit her hand on the door."
+      ]
+    },
+    {
+      "word": "punch",
+      "partOfSpeech": "verb",
+      "phonetic": "/pʌntʃ/",
+      "meaning": "đấm, thọi",
+      "exampleSentences": [
+        "He punched the bag.",
+        "Don't punch anyone!"
+      ]
+    },
+    {
+      "word": "kick",
+      "partOfSpeech": "verb",
+      "phonetic": "/kɪk/",
+      "meaning": "đá",
+      "exampleSentences": [
+        "He kicked the ball.",
+        "Don't kick the chair."
+      ]
+    },
+    {
+      "word": "put down",
+      "partOfSpeech": "verb",
+      "phonetic": "/pʊt daʊn/",
+      "meaning": "đặt xuống",
+      "exampleSentences": [
+        "Put down the bag.",
+        "He put down the book on the table."
+      ]
+    },
+    {
+      "word": "march",
+      "partOfSpeech": "verb",
+      "phonetic": "/mɑːrtʃ/",
+      "meaning": "diễu hành, hành quân",
+      "exampleSentences": [
+        "The soldiers marched in the parade.",
+        "They march every morning."
+      ]
+    },
+    {
+      "word": "drop",
+      "partOfSpeech": "verb",
+      "phonetic": "/drɑːp/",
+      "meaning": "làm rơi",
+      "exampleSentences": [
+        "I dropped my phone.",
+        "Don't drop the glass."
+      ]
+    },
+    {
+      "word": "break",
+      "partOfSpeech": "verb",
+      "phonetic": "/breɪk/",
+      "meaning": "làm vỡ, bẻ gãy",
+      "exampleSentences": [
+        "He broke the vase.",
+        "Be careful not to break it."
+      ]
+    },
+    {
+      "word": "drag",
+      "partOfSpeech": "verb",
+      "phonetic": "/dræɡ/",
+      "meaning": "lôi, kéo",
+      "exampleSentences": [
+        "He dragged the suitcase.",
+        "Don't drag your feet."
+      ]
+    },
+    {
+      "word": "carry",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈker.i/",
+      "meaning": "mang, vác",
+      "exampleSentences": [
+        "She carried the box upstairs.",
+        "Can you carry this bag?"
+      ]
+    },
+    {
+      "word": "open",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈoʊ.pən/",
+      "meaning": "mở ra",
+      "exampleSentences": [
+        "Open the door.",
+        "She opened the window."
+      ]
+    },
+    {
+      "word": "lie down",
+      "partOfSpeech": "verb",
+      "phonetic": "/laɪ daʊn/",
+      "meaning": "nằm xuống, ngả lưng",
+      "exampleSentences": [
+        "He lied down to rest.",
+        "Lie down on the bed."
+      ]
+    },
+    {
+      "word": "hold",
+      "partOfSpeech": "verb",
+      "phonetic": "/hoʊld/",
+      "meaning": "nắm, giữ",
+      "exampleSentences": [
+        "Hold my hand.",
+        "He held the bag tightly."
+      ]
+    },
+    {
+      "word": "lift",
+      "partOfSpeech": "verb",
+      "phonetic": "/lɪft/",
+      "meaning": "nâng lên",
+      "exampleSentences": [
+        "Lift the box carefully.",
+        "She lifted the child."
+      ]
+    },
+    {
+      "word": "throw",
+      "partOfSpeech": "verb",
+      "phonetic": "/θroʊ/",
+      "meaning": "ném, quăng, vứt",
+      "exampleSentences": [
+        "He threw the ball.",
+        "Don't throw trash on the street."
+      ]
+    },
+    {
+      "word": "trip",
+      "partOfSpeech": "verb",
+      "phonetic": "/trɪp/",
+      "meaning": "ngáng chân, vấp ngã",
+      "exampleSentences": [
+        "Be careful not to trip.",
+        "She tripped over the step."
+      ]
+    },
+    {
+      "word": "squat",
+      "partOfSpeech": "verb",
+      "phonetic": "/skwɑːt/",
+      "meaning": "ngồi xổm",
+      "exampleSentences": [
+        "He squatted to pick up the coin.",
+        "Squat exercises are good for legs."
+      ]
+    },
+    {
+      "word": "cartwheel",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈkɑːrt.wiːl/",
+      "meaning": "nhào lộn",
+      "exampleSentences": [
+        "She did a cartwheel.",
+        "The child can do cartwheels easily."
+      ]
+    },
+    {
+      "word": "dive",
+      "partOfSpeech": "verb",
+      "phonetic": "/daɪv/",
+      "meaning": "nhảy lao xuống nước, lặn",
+      "exampleSentences": [
+        "He dived into the pool.",
+        "She can dive very deep."
+      ]
+    },
+    {
+      "word": "dance",
+      "partOfSpeech": "verb",
+      "phonetic": "/dæns/",
+      "meaning": "nhảy múa, khiêu vũ",
+      "exampleSentences": [
+        "They danced all night.",
+        "She dances beautifully."
+      ]
+    },
+    {
+      "word": "look",
+      "partOfSpeech": "verb",
+      "phonetic": "/lʊk/",
+      "meaning": "nhìn, ngắm",
+      "exampleSentences": [
+        "Look at that view.",
+        "He looked carefully at the painting."
+      ]
+    },
+    {
+      "word": "kneel",
+      "partOfSpeech": "verb",
+      "phonetic": "/niːl/",
+      "meaning": "quỳ gối",
+      "exampleSentences": [
+        "He knelt down to pray.",
+        "She knelt before the king."
+      ]
+    },
+    {
+      "word": "slip",
+      "partOfSpeech": "verb",
+      "phonetic": "/slɪp/",
+      "meaning": "trượt, tuột",
+      "exampleSentences": [
+        "Be careful not to slip on the ice.",
+        "He slipped while running."
+      ]
+    }
+  ]
+}

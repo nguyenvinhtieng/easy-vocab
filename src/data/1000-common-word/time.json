@@ -1,0 +1,269 @@
+{
+  "topic": "Thời gian",
+  "vocabs": [
+    {
+      "word": "second",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsek.ənd/",
+      "meaning": "Giây"
+    },
+    {
+      "word": "minute",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmɪnɪt/",
+      "meaning": "Phút"
+    },
+    {
+      "word": "hour",
+      "partOfSpeech": "noun",
+      "phonetic": "/aʊr/",
+      "meaning": "Giờ"
+    },
+    {
+      "word": "week",
+      "partOfSpeech": "noun",
+      "phonetic": "/wiːk/",
+      "meaning": "Tuần"
+    },
+    {
+      "word": "decade",
+      "partOfSpeech": "noun",
+      "phonetic": "/dekˈeɪd/",
+      "meaning": "Thập kỷ"
+    },
+    {
+      "word": "century",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsentʃəri/",
+      "meaning": "Thế kỷ"
+    },
+    {
+      "word": "weekend",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwiːkend/",
+      "meaning": "Cuối tuần"
+    },
+    {
+      "word": "month",
+      "partOfSpeech": "noun",
+      "phonetic": "/mʌnθ/",
+      "meaning": "Tháng"
+    },
+    {
+      "word": "year",
+      "partOfSpeech": "noun",
+      "phonetic": "/jɪr/",
+      "meaning": "Năm"
+    },
+    {
+      "word": "millennium",
+      "partOfSpeech": "noun",
+      "phonetic": "/mɪˈleniəm/",
+      "meaning": "Thiên niên kỷ"
+    },
+    {
+      "word": "morning",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmɔːrnɪŋ/",
+      "meaning": "Buổi sáng"
+    },
+    {
+      "word": "noon",
+      "partOfSpeech": "noun",
+      "phonetic": "/nuːn/",
+      "meaning": "Buổi trưa"
+    },
+    {
+      "word": "afternoon",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌæftɚˈnuːn/",
+      "meaning": "Buổi chiều"
+    },
+    {
+      "word": "evening",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "meaning": "Buổi tối"
+    },
+    {
+      "word": "midnight",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmɪdnaɪt/",
+      "meaning": "Nửa đêm"
+    },
+    {
+      "word": "dusk",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʌsk/",
+      "meaning": "Hoàng hôn"
+    },
+    {
+      "word": "sunset",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsʌnset/",
+      "meaning": "Hoàng hôn"
+    },
+    {
+      "word": "dawn",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɑːn/",
+      "meaning": "Bình minh"
+    },
+    {
+      "word": "sunrise",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsʌnraɪz/",
+      "meaning": "Bình minh"
+    },
+    {
+      "word": "always",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈɑːlweɪz/",
+      "meaning": "Luôn luôn"
+    },
+    {
+      "word": "often",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈɒftən/",
+      "meaning": "Thường xuyên"
+    },
+    {
+      "word": "normally",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈnɔːrməli/",
+      "meaning": "Thường xuyên"
+    },
+    {
+      "word": "usually",
+      "partOfSpeech": "adverb",
+      "phonetic": "/’ju:ʒəli/",
+      "meaning": "Thường xuyên"
+    },
+    {
+      "word": "sometimes",
+      "partOfSpeech": "adverb",
+      "phonetic": "/’sʌmtaimz/",
+      "meaning": "Thỉnh thoảng, đôi khi"
+    },
+    {
+      "word": "occasionally",
+      "partOfSpeech": "adverb",
+      "phonetic": "/əˈkeɪʒnəli/",
+      "meaning": "Thỉnh thoảng"
+    },
+    {
+      "word": "rarely",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈrerli/",
+      "meaning": "Hiếm khi"
+    },
+    {
+      "word": "seldom",
+      "partOfSpeech": "adverb",
+      "phonetic": "/’seldəm/",
+      "meaning": "Ít khi, hiếm khi"
+    },
+    {
+      "word": "never",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈnevɚ/",
+      "meaning": "Không bao giờ"
+    },
+    {
+      "word": "january",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdʒænjueri/",
+      "meaning": "tháng 1"
+    },
+    {
+      "word": "february",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfebrueri/",
+      "meaning": "tháng 2"
+    },
+    {
+      "word": "march",
+      "partOfSpeech": "noun",
+      "phonetic": "/mɑːrtʃ/",
+      "meaning": "tháng 3"
+    },
+    {
+      "word": "april",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈeɪprəl/",
+      "meaning": "tháng 4"
+    },
+    {
+      "word": "may",
+      "partOfSpeech": "noun",
+      "phonetic": "/meɪ/",
+      "meaning": "tháng 5"
+    },
+    {
+      "word": "june",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʒuːn/",
+      "meaning": "tháng 6"
+    },
+    {
+      "word": "july",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʒuˈlaɪ/",
+      "meaning": "tháng 7"
+    },
+    {
+      "word": "august",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɔːˈɡʌst/",
+      "meaning": "tháng 8"
+    },
+    {
+      "word": "september",
+      "partOfSpeech": "noun",
+      "phonetic": "/sepˈtembər/",
+      "meaning": "tháng 9"
+    },
+    {
+      "word": "october",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɑːkˈtəʊbər/",
+      "meaning": "tháng 10"
+    },
+    {
+      "word": "november",
+      "partOfSpeech": "noun",
+      "phonetic": "/nəʊˈvembər/",
+      "meaning": "tháng 11"
+    },
+    {
+      "word": "december",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɪˈsembər/",
+      "meaning": "tháng 12"
+    },
+    {
+      "word": "spring",
+      "partOfSpeech": "noun",
+      "phonetic": "/sprɪŋ/",
+      "meaning": "Mùa Xuân"
+    },
+    {
+      "word": "summer",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsʌmər/",
+      "meaning": "Mùa Hạ"
+    },
+    {
+      "word": "autumn / fall",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɔtəm/ – /fɔl/",
+      "meaning": "Mùa Thu"
+    },
+    {
+      "word": "winter",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈwɪntər/",
+      "meaning": "Mùa Đông"
+    }
+  ]
+}

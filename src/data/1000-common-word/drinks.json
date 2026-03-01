@@ -7,8 +7,8 @@
       "phonetic": "/ˈwɔː.t̬ɚ/",
       "meaning": "nước",
       "exampleSentences": [
-        "This is a water.",
-        "I like the water."
+        "I drink water every day.",
+        "Can I have a glass of water?"
       ]
     },
     {
@@ -17,8 +17,8 @@
       "phonetic": "/ˌlem.əˈneɪd/",
       "meaning": "nước chanh",
       "exampleSentences": [
-        "This is a lemonade.",
-        "I like the lemonade."
+        "She ordered a lemonade.",
+        "This lemonade is very refreshing."
       ]
     },
     {
@@ -27,8 +27,8 @@
       "phonetic": "/dʒuːs/",
       "meaning": "nước ép hoa quả",
       "exampleSentences": [
-        "This is a juice.",
-        "I like the juice."
+        "I drink orange juice in the morning.",
+        "This juice is too sweet."
       ]
     },
     {
@@ -37,18 +37,18 @@
       "phonetic": "/ˈsmuː.ði/",
       "meaning": "sinh tố",
       "exampleSentences": [
-        "This is a smoothie.",
-        "I like the smoothie."
+        "She made a banana smoothie.",
+        "This smoothie is healthy and delicious."
       ]
     },
     {
       "word": "coffee",
       "partOfSpeech": "noun",
-      "phonetic": "/ˈkɔː.fi/",
+      "phonetic": "/ˈkɑː.fi/",
       "meaning": "cà phê",
       "exampleSentences": [
-        "This is a coffee.",
-        "I like the coffee."
+        "I need a cup of coffee.",
+        "He drinks coffee without sugar."
       ]
     },
     {
@@ -57,8 +57,8 @@
       "phonetic": "/tiː/",
       "meaning": "trà",
       "exampleSentences": [
-        "This is a tea.",
-        "I like the tea."
+        "Would you like some tea?",
+        "Green tea is good for your health."
       ]
     },
     {
@@ -67,28 +67,28 @@
       "phonetic": "/mɪlk/",
       "meaning": "sữa",
       "exampleSentences": [
-        "This is a milk.",
-        "I like the milk."
+        "Children should drink milk every day.",
+        "I add milk to my coffee."
       ]
     },
     {
       "word": "bubble tea",
       "partOfSpeech": "noun",
-      "phonetic": "/ˈbʌb.əl ˌtiː/",
+      "phonetic": "/ˌbʌb.əl ˈtiː/",
       "meaning": "trà sữa trân châu",
       "exampleSentences": [
-        "This is a bubble tea.",
-        "I like the bubble tea."
+        "She loves bubble tea.",
+        "This bubble tea has a lot of sugar."
       ]
     },
     {
       "word": "hot chocolate",
       "partOfSpeech": "noun",
-      "phonetic": "/ˌhɑːt ˈtʃɑːk.lət/",
+      "phonetic": "/ˌhɑːt ˈtʃɑː.kəl.ət/",
       "meaning": "sô cô la nóng",
       "exampleSentences": [
-        "This is an hot chocolate.",
-        "I like the hot chocolate."
+        "I drink hot chocolate in winter.",
+        "This hot chocolate is very creamy."
       ]
     },
     {
@@ -97,8 +97,8 @@
       "phonetic": "/bɪr/",
       "meaning": "bia",
       "exampleSentences": [
-        "This is a beer.",
-        "I like the beer."
+        "He ordered a beer.",
+        "Beer is popular at parties."
       ]
     },
     {
@@ -107,8 +107,8 @@
       "phonetic": "/waɪn/",
       "meaning": "rượu",
       "exampleSentences": [
-        "This is a wine.",
-        "I like the wine."
+        "They drank red wine with dinner.",
+        "This wine tastes very good."
       ]
     },
     {
@@ -117,18 +117,18 @@
       "phonetic": "/ˈjoʊ.ɡɚt/",
       "meaning": "sữa chua",
       "exampleSentences": [
-        "This is a yogurt.",
-        "I like the yogurt."
+        "I eat yogurt for breakfast.",
+        "This yogurt is low in sugar."
       ]
     },
     {
       "word": "ice cream",
       "partOfSpeech": "noun",
-      "phonetic": "/ˌaɪs ˈkriːm/",
+      "phonetic": "/ˈaɪs ˌkriːm/",
       "meaning": "kem",
       "exampleSentences": [
-        "This is an ice cream.",
-        "I like the ice cream."
+        "She likes chocolate ice cream.",
+        "We bought ice cream after dinner."
       ]
     }
   ]

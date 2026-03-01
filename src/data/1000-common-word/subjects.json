@@ -1,0 +1,125 @@
+{
+  "topic": "Môn học",
+  "vocabs": [
+    {
+      "word": "English",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈɪŋɡlɪʃ/",
+      "meaning": "tiếng Anh"
+    },
+    {
+      "word": "Maths",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌmæθəˈmætɪks/ /mæθs/",
+      "meaning": "toán học"
+    },
+    {
+      "word": "Physics",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈfɪzɪks/",
+      "meaning": "vật lý"
+    },
+    {
+      "word": "Chemistry",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkemɪstri/",
+      "meaning": "hóa học"
+    },
+    {
+      "word": "History",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈhɪs.t̬ɚ.i/",
+      "meaning": "lịch sử"
+    },
+    {
+      "word": "Geography",
+      "partOfSpeech": "noun",
+      "phonetic": "/dʒiˈɑːɡrəfi/",
+      "meaning": "địa lý"
+    },
+    {
+      "word": "Literature",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈlɪtrətʃər/",
+      "meaning": "văn học"
+    },
+    {
+      "word": "Biology",
+      "partOfSpeech": "noun",
+      "phonetic": "/baɪˈɑːlədʒi/",
+      "meaning": "sinh học"
+    },
+    {
+      "word": "Physical Education",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌfɪz.ɪ.kəl ed.jʊˈkeɪ.ʃən/",
+      "meaning": "giáo dục thể chất"
+    },
+    {
+      "word": "Information technology",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌɪnfərˌmeɪʃn tekˈnɑːlədʒi/",
+      "meaning": "Công nghệ thông tin, Tin học"
+    },
+    {
+      "word": "Craft",
+      "partOfSpeech": "noun",
+      "phonetic": "/kræft/",
+      "meaning": "thủ công"
+    },
+    {
+      "word": "Arts",
+      "partOfSpeech": "noun",
+      "phonetic": "/ɑːrts/",
+      "meaning": "mỹ thuật, nghệ thuật"
+    },
+    {
+      "word": "Music",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmjuːzɪk/",
+      "meaning": "âm nhạc"
+    },
+    {
+      "word": "Engineering",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌendʒɪˈnɪrɪŋ/",
+      "meaning": "kỹ thuật"
+    },
+    {
+      "word": "Medicine",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈmedɪsn/",
+      "meaning": "y học"
+    },
+    {
+      "word": "Science",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsaɪəns/",
+      "meaning": "khoa học"
+    },
+    {
+      "word": "Astronomy",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈstrɑːnəmi/",
+      "meaning": "thiên văn học"
+    },
+    {
+      "word": "Philosophy",
+      "partOfSpeech": "noun",
+      "phonetic": "/fəˈlɑːsəfi/",
+      "meaning": "triết học"
+    },
+    {
+      "word": "Psychology",
+      "partOfSpeech": "noun",
+      "phonetic": "/saɪˈkɑːlədʒi/",
+      "meaning": "tâm lý học"
+    },
+    {
+      "word": "Economics",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌiːkəˈnɑːmɪks/",
+      "meaning": "kinh tế học"
+    }
+  ]
+}

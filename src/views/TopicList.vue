@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useRouter } from 'vue-router'
-import { getTopicList, getTopicData } from '@/data/topics'
+import { getTypeList, getTopicList, getTopicData } from '@/data/topics'
+import type { TopicMeta, VocabType } from '@/data/topics'
 import { useLearnStore } from '@/stores/learn'
 import { useKnownStore } from '@/stores/known'
 import { useThemeStore } from '@/stores/theme'
@@ -11,31 +12,33 @@ const learnStore = useLearnStore()
 const knownStore = useKnownStore()
 const themeStore = useThemeStore()
 
-const topics = computed(() => getTopicList())
+const types = computed(() => getTypeList())
 const learnCount = computed(() => learnStore.count)
 const knownCount = computed(() => knownStore.count)
 
-/** Total words available to learn from all topics (this app / website). */
+/** All topics across all types (global learn/known counts). */
+const allTopics = computed(() => getTopicList())
+
 const totalWordsAvailable = computed(() => {
-  return topics.value.reduce((sum, t) => sum + (getTopicData(t.id)?.vocabs.length ?? 0), 0)
+  return allTopics.value.reduce((sum, t) => sum + (getTopicData(t.topicKey)?.vocabs.length ?? 0), 0)
 })
 
-function topicTotal(topicId: string): number {
-  return getTopicData(topicId)?.vocabs.length ?? 0
+function topicTotal(topicKey: string): number {
+  return getTopicData(topicKey)?.vocabs.length ?? 0
 }
 
-function topicKnownCount(topicId: string): number {
-  return knownStore.all.filter((i) => i.topicId === topicId).length
+function topicKnownCount(topicKey: string): number {
+  return knownStore.all.filter((i) => i.topicId === topicKey).length
 }
 
-function isTopicFullyKnown(topicId: string): boolean {
-  const data = getTopicData(topicId)
+function isTopicFullyKnown(topicKey: string): boolean {
+  const data = getTopicData(topicKey)
   if (!data?.vocabs.length) return false
-  return data.vocabs.every((v) => knownStore.hasKnown(topicId, v.word))
+  return data.vocabs.every((v) => knownStore.hasKnown(topicKey, v.word))
 }
 
-function startTopic(id: string) {
-  router.push({ name: 'flashcard', params: { topicId: id } })
+function startTopic(t: TopicMeta) {
+  router.push({ name: 'flashcard', params: { typeId: t.typeId, topicId: t.id } })
 }
 
 function goReview() {
@@ -46,6 +49,10 @@ function clearAllData() {
   if (!confirm('Clear all saved data (words to learn and known words)? This cannot be undone.')) return
   learnStore.clear()
   knownStore.clear()
+}
+
+function topicsForType(type: VocabType) {
+  return getTopicList(type.id)
 }
 </script>
 
@@ -77,7 +84,7 @@ function clearAllData() {
       </p>
       <p class="text-sm text-slate-500 dark:text-slate-400 m-0 mb-2">
         <span class="font-semibold text-slate-700 dark:text-slate-300">{{ totalWordsAvailable }} words</span>
-        <span class="text-slate-500 dark:text-slate-400"> from {{ topics.length }} topics</span>
+        <span class="text-slate-500 dark:text-slate-400"> from {{ allTopics.length }} topics</span>
       </p>
       <p class="text-sm text-slate-500 dark:text-slate-400 m-0 mb-6">
         <span class="font-semibold text-teal-600 dark:text-teal-400">{{ knownCount }} known</span>
@@ -96,37 +103,42 @@ function clearAllData() {
       </div>
     </header>
 
-    <main class="max-w-2xl mx-auto">
-      <ul class="list-none p-0 m-0 grid gap-4">
-        <li
-          v-for="(t, i) in topics"
-          :key="t.id"
-          class="flex items-center justify-between py-5 px-6 rounded-2xl cursor-pointer transition-all duration-300 border-2 animate-in fade-in"
-          :style="{ animationDelay: `${i * 40 }ms` }"
-          :class="isTopicFullyKnown(t.id)
-            ? 'bg-teal-100 dark:bg-teal-900/40 border-teal-300 dark:border-teal-700 hover:bg-teal-200/80 dark:hover:bg-teal-800/50 hover:shadow-lg shadow-md'
-            : 'bg-white dark:bg-slate-800/90 border-transparent dark:border-slate-700 hover:-translate-y-1 hover:shadow-xl shadow-lg hover:border-teal-200 dark:hover:border-teal-700'"
-          @click="startTopic(t.id)"
-        >
-          <div class="min-w-0">
-            <span class="font-heading text-lg font-semibold text-slate-800 dark:text-slate-100">
-              {{ t.name }} ({{ topicTotal(t.id) }})
-            </span>
-            <p class="m-0 mt-1.5 text-sm text-slate-500 dark:text-slate-400">
-              <span class="text-teal-600 dark:text-teal-400 font-medium">{{ topicKnownCount(t.id) }} known</span>
-              <span class="mx-1">·</span>
-              <span class="text-amber-600 dark:text-amber-400 font-medium">{{ topicTotal(t.id) - topicKnownCount(t.id) }} not known</span>
-            </p>
-          </div>
-          <span
-            class="text-2xl shrink-0 ml-3 transition-transform duration-200 group-hover:translate-x-0.5"
-            :class="isTopicFullyKnown(t.id) ? 'text-teal-600 dark:text-teal-400' : 'text-teal-500 dark:text-teal-400'"
-            aria-hidden="true"
+    <main class="max-w-2xl mx-auto space-y-8">
+      <section v-for="(type, typeIndex) in types" :key="type.id" class="space-y-3">
+        <h2 class="font-heading text-xl font-semibold text-slate-700 dark:text-slate-200 m-0">
+          {{ type.name }}
+        </h2>
+        <ul class="list-none p-0 m-0 grid gap-4">
+          <li
+            v-for="(t, i) in topicsForType(type)"
+            :key="t.topicKey"
+            class="flex items-center justify-between py-5 px-6 rounded-2xl cursor-pointer transition-all duration-300 border-2 animate-in fade-in"
+            :style="{ animationDelay: `${(typeIndex * 20 + i) * 40 }ms` }"
+            :class="isTopicFullyKnown(t.topicKey)
+              ? 'bg-teal-100 dark:bg-teal-900/40 border-teal-300 dark:border-teal-700 hover:bg-teal-200/80 dark:hover:bg-teal-800/50 hover:shadow-lg shadow-md'
+              : 'bg-white dark:bg-slate-800/90 border-transparent dark:border-slate-700 hover:-translate-y-1 hover:shadow-xl shadow-lg hover:border-teal-200 dark:hover:border-teal-700'"
+            @click="startTopic(t)"
           >
-            →
-          </span>
-        </li>
-      </ul>
+            <div class="min-w-0">
+              <span class="font-heading text-lg font-semibold text-slate-800 dark:text-slate-100">
+                {{ t.name }} ({{ topicTotal(t.topicKey) }})
+              </span>
+              <p class="m-0 mt-1.5 text-sm text-slate-500 dark:text-slate-400">
+                <span class="text-teal-600 dark:text-teal-400 font-medium">{{ topicKnownCount(t.topicKey) }} known</span>
+                <span class="mx-1">·</span>
+                <span class="text-amber-600 dark:text-amber-400 font-medium">{{ topicTotal(t.topicKey) - topicKnownCount(t.topicKey) }} not known</span>
+              </p>
+            </div>
+            <span
+              class="text-2xl shrink-0 ml-3 transition-transform duration-200 group-hover:translate-x-0.5"
+              :class="isTopicFullyKnown(t.topicKey) ? 'text-teal-600 dark:text-teal-400' : 'text-teal-500 dark:text-teal-400'"
+              aria-hidden="true"
+            >
+              →
+            </span>
+          </li>
+        </ul>
+      </section>
     </main>
   </div>
 </template>

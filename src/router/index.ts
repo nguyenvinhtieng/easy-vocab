@@ -10,7 +10,7 @@ const router = createRouter({
       meta: { title: 'Topics' },
     },
     {
-      path: '/topic/:topicId',
+      path: '/type/:typeId/topic/:topicId',
       name: 'flashcard',
       component: () => import('@/views/Flashcard.vue'),
       meta: { title: 'Flashcards' },

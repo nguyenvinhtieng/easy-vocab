@@ -7,8 +7,8 @@
       "phonetic": "/biːn/",
       "meaning": "hạt đậu",
       "exampleSentences": [
-        "This is a bean.",
-        "I like the bean."
+        "She cooked green beans.",
+        "Beans are rich in protein."
       ]
     },
     {
@@ -17,8 +17,8 @@
       "phonetic": "/piː/",
       "meaning": "đậu Hà Lan",
       "exampleSentences": [
-        "This is a pea.",
-        "I like the pea."
+        "He likes pea soup.",
+        "Peas are small and sweet."
       ]
     },
     {
@@ -27,8 +27,8 @@
       "phonetic": "/ˈkæb.ɪdʒ/",
       "meaning": "bắp cải",
       "exampleSentences": [
-        "This is a cabbage.",
-        "I like the cabbage."
+        "Cabbage is good for your health.",
+        "She bought a cabbage at the market."
       ]
     },
     {
@@ -37,8 +37,8 @@
       "phonetic": "/ˈker.ət/",
       "meaning": "củ cà rốt",
       "exampleSentences": [
-        "This is a carrot.",
-        "I like the carrot."
+        "Rabbits like carrots.",
+        "She cut the carrot into slices."
       ]
     },
     {
@@ -47,8 +47,8 @@
       "phonetic": "/kɔːrn/",
       "meaning": "ngô, bắp",
       "exampleSentences": [
-        "This is a corn.",
-        "I like the corn."
+        "We ate grilled corn.",
+        "Corn grows in fields."
       ]
     },
     {
@@ -57,8 +57,8 @@
       "phonetic": "/ˈkjuː.kʌm.bɚ/",
       "meaning": "dưa chuột",
       "exampleSentences": [
-        "This is a cucumber.",
-        "I like the cucumber."
+        "Add cucumber to the salad.",
+        "The cucumber is fresh."
       ]
     },
     {
@@ -67,8 +67,8 @@
       "phonetic": "/təˈmeɪ.t̬oʊ/",
       "meaning": "quả cà chua",
       "exampleSentences": [
-        "This is a tomato.",
-        "I like the tomato."
+        "Tomato soup is delicious.",
+        "She sliced a tomato."
       ]
     },
     {
@@ -77,8 +77,8 @@
       "phonetic": "/ˈɡɑːr.lɪk/",
       "meaning": "tỏi",
       "exampleSentences": [
-        "This is a garlic.",
-        "I like the garlic."
+        "Garlic adds flavor to food.",
+        "Chop the garlic finely."
       ]
     },
     {
@@ -87,8 +87,8 @@
       "phonetic": "/ˈʌn.jən/",
       "meaning": "củ hành",
       "exampleSentences": [
-        "This is an onion.",
-        "I like the onion."
+        "Onions make me cry.",
+        "Slice the onion carefully."
       ]
     },
     {
@@ -97,8 +97,8 @@
       "phonetic": "/ˌsprɪŋ ˈʌn.jən/",
       "meaning": "hành lá",
       "exampleSentences": [
-        "This is a spring onion.",
-        "I like the spring onion."
+        "Sprinkle spring onion on the soup.",
+        "Spring onions are fresh and green."
       ]
     },
     {
@@ -107,18 +107,18 @@
       "phonetic": "/ˈdʒɪn.dʒɚ/",
       "meaning": "củ gừng",
       "exampleSentences": [
-        "This is a ginger.",
-        "I like the ginger."
+        "Ginger tea is good for colds.",
+        "Add some ginger to the dish."
       ]
     },
     {
       "word": "turmeric",
       "partOfSpeech": "noun",
-      "phonetic": "/ˈtɝː.mər.ɪk/",
+      "phonetic": "/ˈtɜːrmərɪk/",
       "meaning": "củ nghệ",
       "exampleSentences": [
-        "This is a turmeric.",
-        "I like the turmeric."
+        "Turmeric gives a yellow color.",
+        "She uses turmeric in cooking."
       ]
     },
     {
@@ -127,8 +127,8 @@
       "phonetic": "/pəˈteɪ.t̬oʊ/",
       "meaning": "khoai tây",
       "exampleSentences": [
-        "This is a potato.",
-        "I like the potato."
+        "He peeled the potato.",
+        "French fries are made from potatoes."
       ]
     },
     {
@@ -137,8 +137,8 @@
       "phonetic": "/ˌswiːt pəˈteɪ.t̬oʊ/",
       "meaning": "khoai lang",
       "exampleSentences": [
-        "This is a sweet potato.",
-        "I like the sweet potato."
+        "Sweet potatoes are nutritious.",
+        "She baked a sweet potato."
       ]
     },
     {
@@ -147,8 +147,8 @@
       "phonetic": "/ˈpʌmp.kɪn/",
       "meaning": "bí ngô, bí đỏ",
       "exampleSentences": [
-        "This is a pumpkin.",
-        "I like the pumpkin."
+        "Pumpkin soup is tasty.",
+        "They carved a pumpkin for Halloween."
       ]
     },
     {
@@ -157,8 +157,38 @@
       "phonetic": "/əˈsper.ə.ɡəs/",
       "meaning": "măng tây",
       "exampleSentences": [
-        "This is an asparagus.",
-        "I like the asparagus."
+        "Asparagus is healthy.",
+        "She grilled asparagus."
+      ]
+    },
+    {
+      "word": "turnip",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtɝː.nɪp/",
+      "meaning": "củ cải trắng",
+      "exampleSentences": [
+        "Turnip grows underground.",
+        "He added turnip to the soup."
+      ]
+    },
+    {
+      "word": "beet",
+      "partOfSpeech": "noun",
+      "phonetic": "/biːt/",
+      "meaning": "củ cải đường, củ dền",
+      "exampleSentences": [
+        "Beet juice is healthy.",
+        "She cooked beet salad."
+      ]
+    },
+    {
+      "word": "cauliflower",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɑː.ləˌflaʊ.ɚ/",
+      "meaning": "súp lơ",
+      "exampleSentences": [
+        "Cauliflower is white.",
+        "Steam the cauliflower for dinner."
       ]
     },
     {
@@ -167,8 +197,8 @@
       "phonetic": "/ˈbrɑː.kəl.i/",
       "meaning": "bông cải xanh",
       "exampleSentences": [
-        "This is a broccoli.",
-        "I like the broccoli."
+        "Broccoli is rich in vitamins.",
+        "She stir-fried broccoli."
       ]
     },
     {
@@ -177,8 +207,28 @@
       "phonetic": "/ˈeɡ.plænt/",
       "meaning": "cà tím",
       "exampleSentences": [
-        "This is an eggplant.",
-        "I like the eggplant."
+        "Eggplant is purple.",
+        "They grilled eggplant."
+      ]
+    },
+    {
+      "word": "celery",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈsel.ɚ.i/",
+      "meaning": "cần tây",
+      "exampleSentences": [
+        "Celery is crunchy.",
+        "Add celery to the soup."
+      ]
+    },
+    {
+      "word": "leek",
+      "partOfSpeech": "noun",
+      "phonetic": "/liːk/",
+      "meaning": "tỏi tây",
+      "exampleSentences": [
+        "Leek has a mild flavor.",
+        "She chopped the leek."
       ]
     },
     {
@@ -187,8 +237,8 @@
       "phonetic": "/ˈlet̬.ɪs/",
       "meaning": "rau diếp",
       "exampleSentences": [
-        "This is a lettuce.",
-        "I like the lettuce."
+        "Lettuce is used in salads.",
+        "Wash the lettuce carefully."
       ]
     },
     {
@@ -197,28 +247,48 @@
       "phonetic": "/ˈmʌʃ.ruːm/",
       "meaning": "nấm",
       "exampleSentences": [
-        "This is a mushroom.",
-        "I like the mushroom."
+        "Mushrooms grow in damp places.",
+        "He cooked mushroom soup."
+      ]
+    },
+    {
+      "word": "chili pepper",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈtʃɪl.i ˌpep.ɚ/",
+      "meaning": "ớt cay",
+      "exampleSentences": [
+        "Chili pepper is very spicy.",
+        "Add a little chili pepper."
+      ]
+    },
+    {
+      "word": "bell pepper",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈbel ˌpep.ɚ/",
+      "meaning": "ớt chuông",
+      "exampleSentences": [
+        "Bell peppers come in many colors.",
+        "She sliced a red bell pepper."
       ]
     },
     {
       "word": "spinach",
       "partOfSpeech": "noun",
       "phonetic": "/ˈspɪn.ɪtʃ/",
-      "meaning": "rau chân vịt (bina)",
+      "meaning": "rau chân vịt",
       "exampleSentences": [
-        "This is a spinach.",
-        "I like the spinach."
+        "Spinach is rich in iron.",
+        "He eats spinach every week."
       ]
     },
     {
       "word": "herb",
       "partOfSpeech": "noun",
-      "phonetic": "/ɝːb/",
+      "phonetic": "/hɜːb/",
       "meaning": "rau thơm (nói chung)",
       "exampleSentences": [
-        "This is a herb.",
-        "I like the herb."
+        "This dish needs fresh herbs.",
+        "Mint is a popular herb."
       ]
     }
   ]
