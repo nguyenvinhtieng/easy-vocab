@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
-// For GitHub Pages: app is served at https://<user>.github.io/<repo>/
+// VITE_BASE_PATH=./ in CI so one build works for custom domain (root) and github.io/<repo>/
 const base = process.env.VITE_BASE_PATH ?? '/'
 
 export default defineConfig({
